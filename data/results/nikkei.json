@@ -1,0 +1,407 @@
+[
+    {
+       "ticker":"7203.T",
+       "name":"TOYOTA MOTOR CO",
+       "sharePrice":2292,
+       "sharesOutstanding":2800000000,
+       "netIncome":3140000000000,
+       "earningsYield":1.4892794814260784,
+       "10year":123020.26940727077
+    },
+    {
+       "ticker":"5711.T",
+       "name":"MITSUBISHI MATL",
+       "sharePrice":2045,
+       "sharesOutstanding":130650000,
+       "netIncome":81740000000,
+       "earningsYield":1.3059369318538023,
+       "10year":29506.34059308911
+    },
+    {
+       "ticker":"7003.T",
+       "name":"MITSUI E&S HLDG",
+       "sharePrice":402,
+       "sharesOutstanding":80850000,
+       "netIncome":6830000000,
+       "earningsYield":1.210142854066095,
+       "10year":2707.649588796434
+    },
+    {
+       "ticker":"4183.T",
+       "name":"MITSUI CHEMICALS",
+       "sharePrice":3255,
+       "sharesOutstanding":193240000,
+       "netIncome":122210000000,
+       "earningsYield":1.1942937016153674,
+       "10year":19215.974444019535
+    },
+    {
+       "ticker":"5714.T",
+       "name":"DOWA HOLDINGS",
+       "sharePrice":4900,
+       "sharesOutstanding":59500000,
+       "netIncome":52810000000,
+       "earningsYield":1.1811353112673642,
+       "10year":25893.610678765395
+    },
+    {
+       "ticker":"8411.T",
+       "name":"MIZUHO FINANCIAL",
+       "sharePrice":1523,
+       "sharesOutstanding":2530000000,
+       "netIncome":641150000000,
+       "earningsYield":1.1663945977229258,
+       "10year":7098.308957717886
+    },
+    {
+       "ticker":"4208.T",
+       "name":"UBE INDUSTRIES",
+       "sharePrice":2064,
+       "sharesOutstanding":97610000,
+       "netIncome":32210000000,
+       "earningsYield":1.1598772682618457,
+       "10year":9095.572990596998
+    },
+    {
+       "ticker":"5713.T",
+       "name":"SUMITOMO MTL MIN",
+       "sharePrice":4581,
+       "sharesOutstanding":274770000,
+       "netIncome":190960000000,
+       "earningsYield":1.1517095081971953,
+       "10year":18810.044130410453
+    },
+    {
+       "ticker":"1808.T",
+       "name":"HASEKO CORP",
+       "sharePrice":1443,
+       "sharesOutstanding":274650000,
+       "netIncome":56000000000,
+       "earningsYield":1.141299977455084,
+       "10year":5410.836586848649
+    },
+    {
+       "ticker":"1812.T",
+       "name":"KAJIMA CORP",
+       "sharePrice":1377,
+       "sharesOutstanding":499850000,
+       "netIncome":96530000000,
+       "earningsYield":1.1402454142197633,
+       "10year":5115.843886224494
+    },
+    {
+       "ticker":"8630.T",
+       "name":"SOMPO HOLDINGS",
+       "sharePrice":5102,
+       "sharesOutstanding":347400000,
+       "netIncome":233600000000,
+       "earningsYield":1.1317961033037718,
+       "10year":17596.342144213668
+    },
+    {
+       "ticker":"8601.T",
+       "name":"DAIWA SEC GROUP",
+       "sharePrice":668.2,
+       "sharesOutstanding":1490000000,
+       "netIncome":125800000000,
+       "earningsYield":1.1263536818337956,
+       "10year":2196.1110715350214
+    },
+    {
+       "ticker":"8354.T",
+       "name":"FUKUOKA FIN GRP",
+       "sharePrice":2032,
+       "sharesOutstanding":190100000,
+       "netIncome":46330000000,
+       "earningsYield":1.1199379108384728,
+       "10year":6307.58577231975
+    },
+    {
+       "ticker":"1332.T",
+       "name":"NIPPON SUISAN",
+       "sharePrice":560,
+       "sharesOutstanding":311130000,
+       "netIncome":20820000000,
+       "earningsYield":1.1194952959488684,
+       "10year":1731.4532001787904
+    },
+    {
+       "ticker":"7011.T",
+       "name":"MITSUBISHI HVY",
+       "sharePrice":2840.5,
+       "sharesOutstanding":336150000,
+       "netIncome":109800000000,
+       "earningsYield":1.1149938014099465,
+       "10year":8435.664984653768
+    },
+    {
+       "ticker":"1801.T",
+       "name":"TAISEI CORP",
+       "sharePrice":3595,
+       "sharesOutstanding":202820000,
+       "netIncome":81490000000,
+       "earningsYield":1.111762123461145,
+       "10year":10370.928372987435
+    },
+    {
+       "ticker":"1802.T",
+       "name":"OBAYASHI CORP",
+       "sharePrice":915,
+       "sharesOutstanding":717680000,
+       "netIncome":70510000000,
+       "earningsYield":1.1073739121748098,
+       "10year":2537.254168665272
+    },
+    {
+       "ticker":"1605.T",
+       "name":"INPEX",
+       "sharePrice":1015,
+       "sharesOutstanding":1400000000,
+       "netIncome":151450000000,
+       "earningsYield":1.1065798733286418,
+       "10year":2794.4330654343066
+    },
+    {
+       "ticker":"7013.T",
+       "name":"IHI",
+       "sharePrice":2444,
+       "sharesOutstanding":148520000,
+       "netIncome":38040000000,
+       "earningsYield":1.1047983309846459,
+       "10year":6621.117520740973
+    },
+    {
+       "ticker":"7202.T",
+       "name":"ISUZU MOTORS",
+       "sharePrice":1510,
+       "sharesOutstanding":737560000,
+       "netIncome":115590000000,
+       "earningsYield":1.1037877174388147,
+       "10year":4053.521847422557
+    },
+    {
+       "ticker":"4188.T",
+       "name":"MITSUB CHEM HLDG",
+       "sharePrice":870.5,
+       "sharesOutstanding":1420000000,
+       "netIncome":127300000000,
+       "earningsYield":1.1029843622331346,
+       "10year":2319.86294169264
+    },
+    {
+       "ticker":"5802.T",
+       "name":"SUMITOMO ELEC",
+       "sharePrice":1637.5,
+       "sharesOutstanding":779890000,
+       "netIncome":130610000000.00002,
+       "earningsYield":1.1022731821937308,
+       "10year":4335.844738247817
+    },
+    {
+       "ticker":"1721.T",
+       "name":"COMSYS HOLDINGS",
+       "sharePrice":2643,
+       "sharesOutstanding":123610000,
+       "netIncome":32810000000.000004,
+       "earningsYield":1.1004281495971104,
+       "10year":6881.990627158206
+    },
+    {
+       "ticker":"8355.T",
+       "name":"SHIZUOKA BANK",
+       "sharePrice":835,
+       "sharesOutstanding":564150000,
+       "netIncome":46810000000,
+       "earningsYield":1.099370522448854,
+       "10year":2153.413123573961
+    },
+    {
+       "ticker":"4502.T",
+       "name":"TAKEDA PHARM",
+       "sharePrice":3199,
+       "sharesOutstanding":1560000000,
+       "netIncome":473110000000,
+       "earningsYield":1.094803263840463,
+       "10year":7913.617858081173
+    },
+    {
+       "ticker":"4061.T",
+       "name":"DENKA",
+       "sharePrice":3865,
+       "sharesOutstanding":86220000,
+       "netIncome":30820000000,
+       "earningsYield":1.0924858127903498,
+       "10year":9360.683403603924
+    },
+    {
+       "ticker":"5801.T",
+       "name":"FURUKAWA ELEC",
+       "sharePrice":2404,
+       "sharesOutstanding":70500000,
+       "netIncome":15630000000,
+       "earningsYield":1.0922221828866783,
+       "10year":5808.237826419905
+    },
+    {
+       "ticker":"1803.T",
+       "name":"SHIMIZU CORP",
+       "sharePrice":739,
+       "sharesOutstanding":741040000,
+       "netIncome":49500000000,
+       "earningsYield":1.0903897342388424,
+       "10year":1755.7471780238982
+    },
+    {
+       "ticker":"1333.T",
+       "name":"MARUHA NICHIRO",
+       "sharePrice":2458,
+       "sharesOutstanding":52620000,
+       "netIncome":11570000000,
+       "earningsYield":1.089454179512658,
+       "10year":5789.906783935578
+    },
+    {
+       "ticker":"8725.T",
+       "name":"MS&AD INSURANCE",
+       "sharePrice":3776,
+       "sharesOutstanding":557920000,
+       "netIncome":166450000000,
+       "earningsYield":1.0790096037704209,
+       "10year":8077.6510356699155
+    },
+    {
+       "ticker":"7186.T",
+       "name":"CONCORDIA FG",
+       "sharePrice":438,
+       "sharesOutstanding":1210000000,
+       "netIncome":37470000000,
+       "earningsYield":1.0707007811615532,
+       "10year":867.2719609101265
+    },
+    {
+       "ticker":"5803.T",
+       "name":"FUJIKURA",
+       "sharePrice":585,
+       "sharesOutstanding":275400000,
+       "netIncome":11070000000,
+       "earningsYield":1.0687112451818335,
+       "10year":1136.997886788793
+    },
+    {
+       "ticker":"8628.T",
+       "name":"MATSUI SEC",
+       "sharePrice":802,
+       "sharesOutstanding":256959999.99999997,
+       "netIncome":11190000000,
+       "earningsYield":1.0542987953528384,
+       "10year":1360.8538026705878
+    },
+    {
+       "ticker":"6113.T",
+       "name":"AMADA",
+       "sharePrice":1205,
+       "sharesOutstanding":347660000,
+       "netIncome":20510000000,
+       "earningsYield":1.0489580247597274,
+       "10year":1943.4266079928882
+    },
+    {
+       "ticker":"4063.T",
+       "name":"SHIN-ETSU CHEM",
+       "sharePrice":20400,
+       "sharesOutstanding":415370000,
+       "netIncome":374330000000,
+       "earningsYield":1.0441763001755582,
+       "10year":31431.74444721496
+    },
+    {
+       "ticker":"4452.T",
+       "name":"KAO CORPORATION",
+       "sharePrice":6106,
+       "sharesOutstanding":474880000,
+       "netIncome":122270000000,
+       "earningsYield":1.0421676339299508,
+       "10year":9228.531814263422
+    },
+    {
+       "ticker":"8697.T",
+       "name":"JAPAN EXCHNG GRP",
+       "sharePrice":2534.5,
+       "sharesOutstanding":528580000.00000006,
+       "netIncome":52170000000,
+       "earningsYield":1.0389419607360086,
+       "10year":3713.6858631096625
+    },
+    {
+       "ticker":"7012.T",
+       "name":"KAWASAKI HVY IND",
+       "sharePrice":2194,
+       "sharesOutstanding":167880000,
+       "netIncome":12450000000,
+       "earningsYield":1.0338013283351892,
+       "10year":3059.197261471859
+    },
+    {
+       "ticker":"6103.T",
+       "name":"OKUMA",
+       "sharePrice":5350,
+       "sharesOutstanding":31570000,
+       "netIncome":5510000000,
+       "earningsYield":1.0326229503343705,
+       "10year":7375.161135093808
+    },
+    {
+       "ticker":"4151.T",
+       "name":"KYOWA KIRIN",
+       "sharePrice":3195,
+       "sharesOutstanding":537180000,
+       "netIncome":42450000000,
+       "earningsYield":1.0247335808788969,
+       "10year":4079.25210878172
+    },
+    {
+       "ticker":"7004.T",
+       "name":"HITACHI ZOSEN",
+       "sharePrice":810,
+       "sharesOutstanding":168540000,
+       "netIncome":3180000000,
+       "earningsYield":1.023293733985558,
+       "10year":1019.7369747970669
+    },
+    {
+       "ticker":"6098.T",
+       "name":"RECRUIT HOLDINGS",
+       "sharePrice":6884,
+       "sharesOutstanding":1630000000,
+       "netIncome":234030000000,
+       "earningsYield":1.0208565786049628,
+       "10year":8462.295365083723
+    },
+    {
+       "ticker":"7201.T",
+       "name":"NISSAN MOTOR CO",
+       "sharePrice":615.2,
+       "sharesOutstanding":3910000000,
+       "netIncome":49910000000,
+       "earningsYield":1.0207488717203397,
+       "10year":755.4494551222043
+    },
+    {
+       "ticker":"8604.T",
+       "name":"NOMURA HOLDINGS",
+       "sharePrice":524,
+       "sharesOutstanding":3070000000,
+       "netIncome":-5340000000,
+       "earningsYield":0.9966805082427829,
+       "10year":506.8634051247044
+    },
+    {
+       "ticker":"4324.T",
+       "name":"DENTSU GROUP",
+       "sharePrice":4225,
+       "sharesOutstanding":274730000,
+       "netIncome":-68140000000,
+       "earningsYield":0.9412957789433714,
+       "10year":2307.2137174278205
+    }
+ ]

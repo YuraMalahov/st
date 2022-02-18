@@ -1,0 +1,152 @@
+{
+    "stocks":[
+       {
+          "name":"EXCELLENCE CM",
+          "ticker":"6989.HK"
+       },
+       {
+          "name":"BLUE MOON GROU",
+          "ticker":"6993.HK"
+       },
+       {
+          "name":"ANTENGENE-B",
+          "ticker":"6996.HK"
+       },
+       {
+          "name":"GENOR-B",
+          "ticker":"6998.HK"
+       },
+       {
+          "name":"JD-SW",
+          "ticker":"9618.HK"
+       },
+       {
+          "name":"BILIBILI-SW",
+          "ticker":"9626.HK"
+       },
+       {
+          "name":"NONGFU SPRING",
+          "ticker":"9633.HK"
+       },
+       {
+          "name":"JINKE SERVICES",
+          "ticker":"9666.HK"
+       },
+       {
+          "name":"ZAI LAB-SB",
+          "ticker":"9688.HK"
+       },
+       {
+          "name":"GDS-SW",
+          "ticker":"9698.HK"
+       },
+       {
+          "name":"YOURAN DAIRY",
+          "ticker":"9858.HK"
+       },
+       {
+          "name":"XPENG-W",
+          "ticker":"9868.HK"
+       },
+       {
+          "name":"HELENS",
+          "ticker":"9869.HK"
+       },
+       {
+          "name":"BIDU-SW",
+          "ticker":"9888.HK"
+       },
+       {
+          "name":"NEW ORIENTAL-S",
+          "ticker":"9901.HK"
+       },
+       {
+          "name":"POWERLONG CM",
+          "ticker":"9909.HK"
+       },
+       {
+          "name":"JIUMAOJIU",
+          "ticker":"9922.HK"
+       },
+       {
+          "name":"YEAHKA",
+          "ticker":"9923.HK"
+       },
+       {
+          "name":"AKESO-B",
+          "ticker":"9926.HK"
+       },
+       {
+          "name":"TIMES NEIGHBOR",
+          "ticker":"9928.HK"
+       },
+       {
+          "name":"KINTOR PHARMA-",
+          "ticker":"9939.HK"
+       },
+       {
+          "name":"LINKLOGIS-W",
+          "ticker":"9959.HK"
+       },
+       {
+          "name":"TRIP.COM-S",
+          "ticker":"9961.HK"
+       },
+       {
+          "name":"ALPHAMAB-B",
+          "ticker":"9966.HK"
+       },
+       {
+          "name":"HUIJING HLDGS",
+          "ticker":"9968.HK"
+       },
+       {
+          "name":"INNOCARE-B",
+          "ticker":"9969.HK"
+       },
+       {
+          "name":"CC NEW LIFE",
+          "ticker":"9983.HK"
+       },
+       {
+          "name":"YUM CHINA-S",
+          "ticker":"9987.HK"
+       },
+       {
+          "name":"BABA-SW",
+          "ticker":"9988.HK"
+       },
+       {
+          "name":"ARCHOSAUR GAME",
+          "ticker":"9990.HK"
+       },
+       {
+          "name":"BAOZUN-SW",
+          "ticker":"9991.HK"
+       },
+       {
+          "name":"POP MART",
+          "ticker":"9992.HK"
+       },
+       {
+          "name":"RADIANCE HLDGS",
+          "ticker":"9993.HK"
+       },
+       {
+          "name":"REMEGEN-B",
+          "ticker":"9995.HK"
+       },
+       {
+          "name":"PEIJIA-B",
+          "ticker":"9996.HK"
+       },
+       {
+          "name":"KANGJI MEDICAL",
+          "ticker":"9997.HK"
+       },
+       {
+          "name":"NTES-S",
+          "ticker":"9999.HK"
+       }
+    ]
+ }

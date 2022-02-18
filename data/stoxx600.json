@@ -1,0 +1,924 @@
+{
+    "stocks":[
+       {
+          "ticker":"AKRBP.OL",
+          "name":"AKER BPd"
+       },
+       {
+          "ticker":"BP.L",
+          "name":"BP"
+       },
+       {
+          "ticker":"ENAG.MC",
+          "name":"ENAGAS"
+       },
+       {
+          "ticker":"ENI.MI",
+          "name":"ENI"
+       },
+       {
+          "ticker":"EQNR.OL",
+          "name":"EQUINORd"
+       },
+       {
+          "ticker":"GALP.LS",
+          "name":"GALP ENERGIA"
+       },
+       {
+          "ticker":"LUNE.ST",
+          "name":"LUNDIN ENERGY"
+       },
+       {
+          "ticker":"NESTE.HE",
+          "name":"NESTE"
+       },
+       {
+          "ticker":"OMVV.VI",
+          "name":"OMV AG"
+       },
+       {
+          "ticker":"PKN.WA",
+          "name":"PKNORLEN"
+       },
+       {
+          "ticker":"REP.MC",
+          "name":"REPSOL"
+       },
+       {
+          "ticker":"RDSa.AS",
+          "name":"ROYAL DUTCH SH A"
+       },
+       {
+          "ticker":"ENR1n.DE",
+          "name":"SIEMENS ENERGYd"
+       },
+       {
+          "ticker":"SGREN.MC",
+          "name":"SIEMENS GAMESA"
+       },
+       {
+          "ticker":"SRG.MI",
+          "name":"SNAM"
+       },
+       {
+          "ticker":"FTI.PA",
+          "name":"TECHNIPFMC"
+       },
+       {
+          "ticker":"TENR.MI",
+          "name":"TENARIS"
+       },
+       {
+          "ticker":"TTEF.PA",
+          "name":"TOTALENERGIES"
+       },
+       {
+          "ticker":"VWS.CO",
+          "name":"VESTAS WIND"
+       },
+       {
+          "ticker":"ABNd.AS",
+          "name":"ABN AMRO BANK"
+       },
+       {
+          "ticker":"AVANZ.ST",
+          "name":"AVANZA HOLDING"
+       },
+       {
+          "ticker":"BAMI.MI",
+          "name":"BANCO BPM"
+       },
+       {
+          "ticker":"SAN.MC",
+          "name":"BANCO SANTANDER"
+       },
+       {
+          "ticker":"BKT.MC",
+          "name":"BANKINTER"
+       },
+       {
+          "ticker":"BARC.L",
+          "name":"BARCLAYS"
+       },
+       {
+          "ticker":"BAWG.VI",
+          "name":"BAWAG"
+       },
+       {
+          "ticker":"BBVA.MC",
+          "name":"BBVA"
+       },
+       {
+          "ticker":"SABE.MC",
+          "name":"BCO DE SABADELL"
+       },
+       {
+          "ticker":"BIRG.I",
+          "name":"BK IRE GRP PLC"
+       },
+       {
+          "ticker":"BNPP.PA",
+          "name":"BNP PARIBAS"
+       },
+       {
+          "ticker":"CABK.MC",
+          "name":"CAIXABANK"
+       },
+       {
+          "ticker":"CBRO.L",
+          "name":"CLOSE BROS GRP"
+       },
+       {
+          "ticker":"CBKG.DE",
+          "name":"COMMERZBANKd"
+       },
+       {
+          "ticker":"CAGR.PA",
+          "name":"CREDIT AGRICOLE"
+       },
+       {
+          "ticker":"DANSKE.CO",
+          "name":"DANSKE BANK"
+       },
+       {
+          "ticker":"DBKGn.DE",
+          "name":"DEUTSCHE BANK d"
+       },
+       {
+          "ticker":"DNB.OL",
+          "name":"DNB BANKd"
+       },
+       {
+          "ticker":"ERST.VI",
+          "name":"ERSTE GRP BANK"
+       },
+       {
+          "ticker":"FBK.MI",
+          "name":"FINECOBANK"
+       },
+       {
+          "ticker":"HSBA.L",
+          "name":"HSBC HLDGS.UK"
+       },
+       {
+          "ticker":"INGA.AS",
+          "name":"ING GROEP"
+       },
+       {
+          "ticker":"ISP.MI",
+          "name":"INTESA SANPAOLO"
+       },
+       {
+          "ticker":"KBC.BR",
+          "name":"KBC GROEP"
+       },
+       {
+          "ticker":"LLOY.L",
+          "name":"LLOYDS GRP."
+       },
+       {
+          "ticker":"NWG.L",
+          "name":"NATWEST GRP"
+       },
+       {
+          "ticker":"NDAFI.HE",
+          "name":"NORDEA BANK"
+       },
+       {
+          "ticker":"PEO.WA",
+          "name":"PEKAO"
+       },
+       {
+          "ticker":"PKO.WA",
+          "name":"PKOBP"
+       },
+       {
+          "ticker":"RBIV.VI",
+          "name":"RAIFF BANK INT"
+       },
+       {
+          "ticker":"RILBA.CO",
+          "name":"RINGKJOEBING LAN"
+       },
+       {
+          "ticker":"SEBa.ST",
+          "name":"SEB A"
+       },
+       {
+          "ticker":"SOGN.PA",
+          "name":"SOCIETE GENERALE"
+       },
+       {
+          "ticker":"STAN.L",
+          "name":"STAND.CHART."
+       },
+       {
+          "ticker":"SHBa.ST",
+          "name":"SV. HANDELSBAN A"
+       },
+       {
+          "ticker":"SWEDa.ST",
+          "name":"SWEDBANK"
+       },
+       {
+          "ticker":"CRDI.MI",
+          "name":"UNICREDIT"
+       },
+       {
+          "ticker":"VMUK.L",
+          "name":"VIRGIN MONEY UK"
+       },
+       {
+          "ticker":"AAL.L",
+          "name":"ANGLO AMERICAN"
+       },
+       {
+          "ticker":"ANTO.L",
+          "name":"ANTOFAGASTA"
+       },
+       {
+          "ticker":"MT.AS",
+          "name":"ARCELORMITTAL"
+       },
+       {
+          "ticker":"BHPB.L",
+          "name":"BHP GROUP"
+       },
+       {
+          "ticker":"BILL.ST",
+          "name":"BILLERUD KORSNAS"
+       },
+       {
+          "ticker":"BOL.ST",
+          "name":"BOLIDEN AB"
+       },
+       {
+          "ticker":"EVRE.L",
+          "name":"EVRAZ"
+       },
+       {
+          "ticker":"GLEN.L",
+          "name":"GLENCORE"
+       },
+       {
+          "ticker":"HPOLb.ST",
+          "name":"HEXPOL B"
+       },
+       {
+          "ticker":"HOLMb.ST",
+          "name":"HOLMEN B"
+       },
+       {
+          "ticker":"KGH.WA",
+          "name":"KGHM"
+       },
+       {
+          "ticker":"NHY.OL",
+          "name":"NORSK HYDROd"
+       },
+       {
+          "ticker":"POLYP.L",
+          "name":"POLYMETAL INT"
+       },
+       {
+          "ticker":"RIO.L",
+          "name":"RIO TINTO"
+       },
+       {
+          "ticker":"SCAb.ST",
+          "name":"SCA B"
+       },
+       {
+          "ticker":"SKFb.ST",
+          "name":"SKF B"
+       },
+       {
+          "ticker":"STERV.HE",
+          "name":"STORA ENSO R"
+       },
+       {
+          "ticker":"UPM.HE",
+          "name":"UPM-KYMMENE OY"
+       },
+       {
+          "ticker":"VOES.VI",
+          "name":"VOESTALPINE"
+       },
+       {
+          "ticker":"ACCP.PA",
+          "name":"ACCOR"
+       },
+       {
+          "ticker":"LHAG.DE",
+          "name":"DT LUFTHANSA Ad"
+       },
+       {
+          "ticker":"ENT.L",
+          "name":"ENTAIN"
+       },
+       {
+          "ticker":"EVOG.ST",
+          "name":"EVOLUTION"
+       },
+       {
+          "ticker":"FDJ.PA",
+          "name":"FDJ"
+       },
+       {
+          "ticker":"FLTRF.I",
+          "name":"FLUTTER ENTERTNM"
+       },
+       {
+          "ticker":"IHG.L",
+          "name":"INTERCON. HOTEL"
+       },
+       {
+          "ticker":"ICAG.L",
+          "name":"INTL CONSOL AIR"
+       },
+       {
+          "ticker":"KINDsdb.ST",
+          "name":"KINDRED GROUP"
+       },
+       {
+          "ticker":"RYA.I",
+          "name":"RYANAIR HLDGS"
+       },
+       {
+          "ticker":"EXHO.PA",
+          "name":"SODEXO"
+       },
+       {
+          "ticker":"TUIT.L",
+          "name":"TUI AG"
+       },
+       {
+          "ticker":"WTB.L",
+          "name":"WHITBREAD"
+       },
+       {
+          "ticker":"WIZZ.L",
+          "name":"WIZZ AIR"
+       },
+       {
+          "ticker":"BMWG.DE",
+          "name":"BAY MOT WERKEd"
+       },
+       {
+          "ticker":"CONG.DE",
+          "name":"CONTINENTAL AGd"
+       },
+       {
+          "ticker":"DAIGn.DE",
+          "name":"DAIMLER AG Nd"
+       },
+       {
+          "ticker":"EPED.PA",
+          "name":"FAURECIA"
+       },
+       {
+          "ticker":"RACE.MI",
+          "name":"FERRARI N.V."
+       },
+       {
+          "ticker":"MICP.PA",
+          "name":"MICHELIN"
+       },
+       {
+          "ticker":"TYRES.HE",
+          "name":"NOKIAN RENKAAT"
+       },
+       {
+          "ticker":"PSHG_p.DE",
+          "name":"PORSCHE AUT.HLd"
+       },
+       {
+          "ticker":"RENA.PA",
+          "name":"RENAULT"
+       },
+       {
+          "ticker":"STLA.MI",
+          "name":"STELLANTIS"
+       },
+       {
+          "ticker":"VLOF.PA",
+          "name":"VALEO"
+       },
+       {
+          "ticker":"VOLCARb.ST",
+          "name":"VOLCAR B"
+       },
+       {
+          "ticker":"VOWG_p.DE",
+          "name":"VOLKSWAGEN VZd"
+       },
+       {
+          "ticker":"LTEN.PA",
+          "name":"ALTEN"
+       },
+       {
+          "ticker":"AMA.MC",
+          "name":"AMADEUS"
+       },
+       {
+          "ticker":"AMS.S",
+          "name":"AMS"
+       },
+       {
+          "ticker":"ASMI.AS",
+          "name":"ASM INTERNATIONA"
+       },
+       {
+          "ticker":"ASML.AS",
+          "name":"ASML HOLDING"
+       },
+       {
+          "ticker":"ATOS.PA",
+          "name":"ATOS"
+       },
+       {
+          "ticker":"AUTOA.L",
+          "name":"AUTO TRAD"
+       },
+       {
+          "ticker":"AVST.L",
+          "name":"AVAST"
+       },
+       {
+          "ticker":"AVV.L",
+          "name":"AVEVA GRP"
+       },
+       {
+          "ticker":"BESI.AS",
+          "name":"BE SEMICONDUCTOR"
+       },
+       {
+          "ticker":"BC8G.DE",
+          "name":"BECHTLEd"
+       },
+       {
+          "ticker":"CAPP.PA",
+          "name":"CAPGEMINI"
+       },
+       {
+          "ticker":"DAST.PA",
+          "name":"DASSAULT SYSTEM"
+       },
+       {
+          "ticker":"ROO.L",
+          "name":"DELIVEROO"
+       },
+       {
+          "ticker":"HEXAb.ST",
+          "name":"HEXAGON AB B"
+       },
+       {
+          "ticker":"IFXGn.DE",
+          "name":"INFINEON TECH d"
+       },
+       {
+          "ticker":"TKWY.AS",
+          "name":"JUST EAT TAKEAWA"
+       },
+       {
+          "ticker":"LOGN.S",
+          "name":"LOGITECH"
+       },
+       {
+          "ticker":"NEKG.DE",
+          "name":"NEMETSCHEKd"
+       },
+       {
+          "ticker":"NETCG.CO",
+          "name":"NETCOMPANY"
+       },
+       {
+          "ticker":"NOD.OL",
+          "name":"NORDIC SEMICONd"
+       },
+       {
+          "ticker":"PRX.AS",
+          "name":"PROSUS"
+       },
+       {
+          "ticker":"QTCOM.HE",
+          "name":"QT GROUP"
+       },
+       {
+          "ticker":"REY.MI",
+          "name":"REPLY"
+       },
+       {
+          "ticker":"SGE.L",
+          "name":"SAGE GRP."
+       },
+       {
+          "ticker":"SAPG.DE",
+          "name":"SAP SEd"
+       },
+       {
+          "ticker":"SCHA.OL",
+          "name":"SCHIBSTED Ad"
+       },
+       {
+          "ticker":"G24n.DE",
+          "name":"SCOUT24d"
+       },
+       {
+          "ticker":"SIM.CO",
+          "name":"SIMCORP"
+       },
+       {
+          "ticker":"SINCH.ST",
+          "name":"SINCH"
+       },
+       {
+          "ticker":"SCTS.L",
+          "name":"SOFTCAT"
+       },
+       {
+          "ticker":"SOIT.PA",
+          "name":"SOITEC"
+       },
+       {
+          "ticker":"SOPR.PA",
+          "name":"SOPRA STERIA GR"
+       },
+       {
+          "ticker":"STM.MI",
+          "name":"STMICROELEC.N.V"
+       },
+       {
+          "ticker":"TEMN.S",
+          "name":"TEMENOS N"
+       },
+       {
+          "ticker":"UTDI.DE",
+          "name":"UNITED INTERNEd"
+       },
+       {
+          "ticker":"BT.L",
+          "name":"BT GROUP"
+       },
+       {
+          "ticker":"CLNX.MC",
+          "name":"CELLNEX TELECOM"
+       },
+       {
+          "ticker":"DTEGn.DE",
+          "name":"DT TELEKOM Nd"
+       },
+       {
+          "ticker":"ELISA.HE",
+          "name":"ELISA CORPORAT."
+       },
+       {
+          "ticker":"ERICb.ST",
+          "name":"ERICSSON B"
+       },
+       {
+          "ticker":"FNTGn.DE",
+          "name":"FREENET N AGd"
+       },
+       {
+          "ticker":"INWT.MI",
+          "name":"INWIT"
+       },
+       {
+          "ticker":"KPN.AS",
+          "name":"KPN KON"
+       },
+       {
+          "ticker":"TIGOsdb.ST",
+          "name":"MILLICOM INTN"
+       },
+       {
+          "ticker":"NOKIA.HE",
+          "name":"NOKIA"
+       },
+       {
+          "ticker":"ORAN.PA",
+          "name":"ORANGE"
+       },
+       {
+          "ticker":"PROX.BR",
+          "name":"PROXIMUS"
+       },
+       {
+          "ticker":"SESFd.PA",
+          "name":"SES"
+       },
+       {
+          "ticker":"SCMN.S",
+          "name":"SWISSCOM N"
+       },
+       {
+          "ticker":"TEL2b.ST",
+          "name":"TELE2 B"
+       },
+       {
+          "ticker":"TLIT.MI",
+          "name":"TELECOM ITALIA"
+       },
+       {
+          "ticker":"TEF.MC",
+          "name":"TELEFONICA"
+       },
+       {
+          "ticker":"TEL.OL",
+          "name":"TELENORd"
+       },
+       {
+          "ticker":"TELIA.ST",
+          "name":"TELIA COMPANY"
+       },
+       {
+          "ticker":"VOD.L",
+          "name":"VODAFONE GROUP"
+       },
+       {
+          "ticker":"ALIFb.ST",
+          "name":"ADDLIFE"
+       },
+       {
+          "ticker":"ALCC.S",
+          "name":"ALCON N"
+       },
+       {
+          "ticker":"ALKb.CO",
+          "name":"ALK-ABELLO B"
+       },
+       {
+          "ticker":"AMBUb.CO",
+          "name":"AMBU B"
+       },
+       {
+          "ticker":"AMPF.MI",
+          "name":"AMPLIFON"
+       },
+       {
+          "ticker":"ARGX.BR",
+          "name":"ARGENX"
+       },
+       {
+          "ticker":"AZN.L",
+          "name":"ASTRAZENECA"
+       },
+       {
+          "ticker":"BANB.S",
+          "name":"BACHEM  HOLD N"
+       },
+       {
+          "ticker":"BAYGn.DE",
+          "name":"BAYER N AGd"
+       },
+       {
+          "ticker":"BIOX.PA",
+          "name":"BIOMERIEUX"
+       },
+       {
+          "ticker":"AFXG.DE",
+          "name":"CARL ZEISS MEDd"
+       },
+       {
+          "ticker":"CHRH.CO",
+          "name":"CHR HANSEN"
+       },
+       {
+          "ticker":"COLOb.CO",
+          "name":"COLOPLAST B"
+       },
+       {
+          "ticker":"CTEC.L",
+          "name":"CONVATEC"
+       },
+       {
+          "ticker":"DPH.L",
+          "name":"DECHRA PHARM"
+       },
+       {
+          "ticker":"DEMANT.CO",
+          "name":"DEMANT"
+       },
+       {
+          "ticker":"DIAS.MI",
+          "name":"DIASORIN"
+       },
+       {
+          "ticker":"EKTAb.ST",
+          "name":"ELEKTA B"
+       },
+       {
+          "ticker":"ESLX.PA",
+          "name":"ESSILORLUXOTTICA"
+       },
+       {
+          "ticker":"EUFI.PA",
+          "name":"EUROFINS SCIENT"
+       },
+       {
+          "ticker":"EVTG.DE",
+          "name":"EVOTECd"
+       },
+       {
+          "ticker":"FMEG.DE",
+          "name":"FRESENIUS MEDId"
+       },
+       {
+          "ticker":"FREG.DE",
+          "name":"FRESENIUS SEd"
+       },
+       {
+          "ticker":"GMAB.CO",
+          "name":"GENMAB"
+       },
+       {
+          "ticker":"GNS.L",
+          "name":"GENUS"
+       },
+       {
+          "ticker":"GXIG.DE",
+          "name":"GERRESHEIMERd"
+       },
+       {
+          "ticker":"GETIb.ST",
+          "name":"GETINGE AB"
+       },
+       {
+          "ticker":"GSK.L",
+          "name":"GLAXOSMITHKLINE"
+       },
+       {
+          "ticker":"GN.CO",
+          "name":"GN STORE NORD"
+       },
+       {
+          "ticker":"GRLS.MC",
+          "name":"GRIFOLS"
+       },
+       {
+          "ticker":"HIK.L",
+          "name":"HIKMA"
+       },
+       {
+          "ticker":"IPN.PA",
+          "name":"IPSEN"
+       },
+       {
+          "ticker":"LONN.S",
+          "name":"LONZA GRP AG N"
+       },
+       {
+          "ticker":"MRCG.DE",
+          "name":"MERCK KGAAd"
+       },
+       {
+          "ticker":"NOVN.S",
+          "name":"NOVARTIS N"
+       },
+       {
+          "ticker":"NOVOb.CO",
+          "name":"NOVO NORDISK B"
+       },
+       {
+          "ticker":"NZYMb.CO",
+          "name":"NOVOZYMES B"
+       },
+       {
+          "ticker":"ORNBV.HE",
+          "name":"ORION B"
+       },
+       {
+          "ticker":"ORP.PA",
+          "name":"ORPEA"
+       },
+       {
+          "ticker":"ONT.L",
+          "name":"OXFORD NANO"
+       },
+       {
+          "ticker":"PHG.AS",
+          "name":"PHILIPS KON"
+       },
+       {
+          "ticker":"QIA.DE",
+          "name":"QIAGEN NVd"
+       },
+       {
+          "ticker":"RECI.MI",
+          "name":"RECORDATI"
+       },
+       {
+          "ticker":"ROG.S",
+          "name":"ROCHE HOLDING AG"
+       },
+       {
+          "ticker":"SASY.PA",
+          "name":"SANOFI"
+       },
+       {
+          "ticker":"ABF.L",
+          "name":"A.B.FOOD"
+       },
+       {
+          "ticker":"AAK.ST",
+          "name":"AAK AB"
+       },
+       {
+          "ticker":"ABI.BR",
+          "name":"AB INBEV"
+       },
+       {
+          "ticker":"BAKKA.OL",
+          "name":"BAKKAFROSTd"
+       },
+       {
+          "ticker":"BARN.S",
+          "name":"BARRY CALLEBAUT"
+       },
+       {
+          "ticker":"BVIC.L",
+          "name":"BRITVIC"
+       },
+       {
+          "ticker":"CARLb.CO",
+          "name":"CARLSBERG B"
+       },
+       {
+          "ticker":"CCH.L",
+          "name":"COCACOLA HBC AG"
+       },
+       {
+          "ticker":"DANO.PA",
+          "name":"DANONE"
+       },
+       {
+          "ticker":"CPRI.MI",
+          "name":"DAVIDE CAMPARI"
+       },
+       {
+          "ticker":"DGE.L",
+          "name":"DIAGEO"
+       },
+       {
+          "ticker":"GL9.I",
+          "name":"GLANBIA PLC"
+       },
+       {
+          "ticker":"HEIN.AS",
+          "name":"HEINEKEN"
+       },
+       {
+          "ticker":"HEIO.AS",
+          "name":"HEINEKEN HLD"
+       },
+       {
+          "ticker":"JDEP.AS",
+          "name":"JDE PEET'S"
+       },
+       {
+          "ticker":"KYGa.I",
+          "name":"KERRY GROUP"
+       },
+       {
+          "ticker":"DSMN.AS",
+          "name":"KONINKLIJKE DSM"
+       },
+       {
+          "ticker":"LISN.S",
+          "name":"LINDT & SP N"
+       },
+       {
+          "ticker":"MOWI.OL",
+          "name":"MOWId"
+       },
+       {
+          "ticker":"NESN.S",
+          "name":"NESTLE SA"
+       },
+       {
+          "ticker":"ORK.OL",
+          "name":"ORKLA Ad"
+       },
+       {
+          "ticker":"PERP.PA",
+          "name":"PERNOD RICARD"
+       },
+       {
+          "ticker":"RCOP.PA",
+          "name":"REMY COINTREAU"
+       },
+       {
+          "ticker":"RBREW.CO",
+          "name":"ROYAL UNIBREW"
+       },
+       {
+          "ticker":"SALM.OL",
+          "name":"SALMARd"
+       },
+       {
+          "ticker":"TATE.L",
+          "name":"TATE & LYLE"
+       }
+    ]
+ }

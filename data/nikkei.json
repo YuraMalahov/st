@@ -1,0 +1,184 @@
+{
+    "stocks":[
+       {
+          "ticker":"1332.T",
+          "name":"NIPPON SUISAN"
+       },
+       {
+          "ticker":"4061.T",
+          "name":"DENKA"
+       },
+       {
+          "ticker":"5711.T",
+          "name":"MITSUBISHI MATL"
+       },
+       {
+          "ticker":"7003.T",
+          "name":"MITSUI E&S HLDG"
+       },
+       {
+          "ticker":"8354.T",
+          "name":"FUKUOKA FIN GRP"
+       },
+       {
+          "ticker":"1333.T",
+          "name":"MARUHA NICHIRO"
+       },
+       {
+          "ticker":"4063.T",
+          "name":"SHIN-ETSU CHEM"
+       },
+       {
+          "ticker":"5713.T",
+          "name":"SUMITOMO MTL MIN"
+       },
+       {
+          "ticker":"7004.T",
+          "name":"HITACHI ZOSEN"
+       },
+       {
+          "ticker":"8355.T",
+          "name":"SHIZUOKA BANK"
+       },
+       {
+          "ticker":"1605.T",
+          "name":"INPEX"
+       },
+       {
+          "ticker":"4151.T",
+          "name":"KYOWA KIRIN"
+       },
+       {
+          "ticker":"5714.T",
+          "name":"DOWA HOLDINGS"
+       },
+       {
+          "ticker":"7011.T",
+          "name":"MITSUBISHI HVY"
+       },
+       {
+          "ticker":"8411.T",
+          "name":"MIZUHO FINANCIAL"
+       },
+       {
+          "ticker":"1721.T",
+          "name":"COMSYS HOLDINGS"
+       },
+       {
+          "ticker":"4183.T",
+          "name":"MITSUI CHEMICALS"
+       },
+       {
+          "ticker":"5801.T",
+          "name":"FURUKAWA ELEC"
+       },
+       {
+          "ticker":"7012.T",
+          "name":"KAWASAKI HVY IND"
+       },
+       {
+          "ticker":"8601.T",
+          "name":"DAIWA SEC GROUP"
+       },
+       {
+          "ticker":"1801.T",
+          "name":"TAISEI CORP"
+       },
+       {
+          "ticker":"4188.T",
+          "name":"MITSUB CHEM HLDG"
+       },
+       {
+          "ticker":"5802.T",
+          "name":"SUMITOMO ELEC"
+       },
+       {
+          "ticker":"7013.T",
+          "name":"IHI"
+       },
+       {
+          "ticker":"8604.T",
+          "name":"NOMURA HOLDINGS"
+       },
+       {
+          "ticker":"1802.T",
+          "name":"OBAYASHI CORP"
+       },
+       {
+          "ticker":"4208.T",
+          "name":"UBE INDUSTRIES"
+       },
+       {
+          "ticker":"5803.T",
+          "name":"FUJIKURA"
+       },
+       {
+          "ticker":"7186.T",
+          "name":"CONCORDIA FG"
+       },
+       {
+          "ticker":"8628.T",
+          "name":"MATSUI SEC"
+       },
+       {
+          "ticker":"1803.T",
+          "name":"SHIMIZU CORP"
+       },
+       {
+          "ticker":"4324.T",
+          "name":"DENTSU GROUP"
+       },
+       {
+          "ticker":"6098.T",
+          "name":"RECRUIT HOLDINGS"
+       },
+       {
+          "ticker":"7201.T",
+          "name":"NISSAN MOTOR CO"
+       },
+       {
+          "ticker":"8630.T",
+          "name":"SOMPO HOLDINGS"
+       },
+       {
+          "ticker":"1808.T",
+          "name":"HASEKO CORP"
+       },
+       {
+          "ticker":"4452.T",
+          "name":"KAO CORPORATION"
+       },
+       {
+          "ticker":"6103.T",
+          "name":"OKUMA"
+       },
+       {
+          "ticker":"7202.T",
+          "name":"ISUZU MOTORS"
+       },
+       {
+          "ticker":"8697.T",
+          "name":"JAPAN EXCHNG GRP"
+       },
+       {
+          "ticker":"1812.T",
+          "name":"KAJIMA CORP"
+       },
+       {
+          "ticker":"4502.T",
+          "name":"TAKEDA PHARM"
+       },
+       {
+          "ticker":"6113.T",
+          "name":"AMADA"
+       },
+       {
+          "ticker":"7203.T",
+          "name":"TOYOTA MOTOR CO"
+       },
+       {
+          "ticker":"8725.T",
+          "name":"MS&AD INSURANCE"
+       }
+    ]
+ }

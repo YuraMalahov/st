@@ -1,0 +1,4547 @@
+[
+    {
+      "name": "Allstate Corporation",
+      "ticker": "ALL",
+      "sharesOutstanding": 299340000,
+      "sharePrice": 121.13,
+      "netIncome": 7360000000,
+      "earningsYield": 1.2029837832890853,
+      "10year": 768.8638577479977
+    },
+    {
+      "name": "Goldman Sachs Group Inc.",
+      "ticker": "GS",
+      "sharesOutstanding": 339760000,
+      "sharePrice": 407.48,
+      "netIncome": 21670000000,
+      "earningsYield": 1.1565237938471469,
+      "10year": 1744.4238647240247
+    },
+    {
+      "name": "Verizon Communications Inc.",
+      "ticker": "VZ",
+      "sharesOutstanding": 4200000000,
+      "sharePrice": 53.47,
+      "netIncome": 22040000000,
+      "earningsYield": 1.098141369882533,
+      "10year": 136.36179606184302
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "sharesOutstanding": 4070000000.0000005,
+      "sharePrice": 53.14,
+      "netIncome": 21100000000,
+      "earningsYield": 1.0975588103928338,
+      "10year": 134.80299865425184
+    },
+    {
+      "name": "JPMorgan Chase &amp; Co.",
+      "ticker": "JPM",
+      "sharesOutstanding": 2960000000,
+      "sharePrice": 167.83,
+      "netIncome": 48270000000,
+      "earningsYield": 1.0971663733088985,
+      "10year": 424.22326333750414
+    },
+    {
+      "name": "Alphabet Inc. Class A",
+      "ticker": "GOOGL",
+      "sharesOutstanding": 300810000,
+      "sharePrice": 2887.99,
+      "netIncome": 70620000000,
+      "earningsYield": 1.081290493195994,
+      "10year": 6309.857212886798
+    },
+    {
+      "name": "Wells Fargo &amp; Company",
+      "ticker": "WFC",
+      "sharesOutstanding": 4139999999.9999995,
+      "sharePrice": 52.75,
+      "netIncome": 17450000000,
+      "earningsYield": 1.0799047553632346,
+      "10year": 113.78290037118853
+    },
+    {
+      "name": "Alphabet Inc. Class C",
+      "ticker": "GOOG",
+      "sharesOutstanding": 317740000,
+      "sharePrice": 2888.33,
+      "netIncome": 70620000000,
+      "earningsYield": 1.0769500685220748,
+      "10year": 6061.8124232102355
+    },
+    {
+      "name": "Bank of America Corp",
+      "ticker": "BAC",
+      "sharesOutstanding": 8180000000,
+      "sharePrice": 47.99,
+      "netIncome": 28990000000,
+      "earningsYield": 1.0738489222744552,
+      "10year": 97.85490644084638
+    },
+    {
+      "name": "Morgan Stanley",
+      "ticker": "MS",
+      "sharesOutstanding": 1860000000,
+      "sharePrice": 104.26,
+      "netIncome": 14240000000,
+      "earningsYield": 1.0734309800354367,
+      "10year": 211.76733566418156
+    },
+    {
+      "name": "Pfizer Inc.",
+      "ticker": "PFE",
+      "sharesOutstanding": 5610000000,
+      "sharePrice": 54.53,
+      "netIncome": 19570000000,
+      "earningsYield": 1.0639723738719435,
+      "10year": 101.37690163699345
+    },
+    {
+      "name": "Comcast Corporation Class A",
+      "ticker": "CMCSA",
+      "sharesOutstanding": 4560000000,
+      "sharePrice": 50.19,
+      "netIncome": 14480000000,
+      "earningsYield": 1.063268352191497,
+      "10year": 92.69281471132014
+    },
+    {
+      "name": "Philip Morris International Inc.",
+      "ticker": "PM",
+      "sharesOutstanding": 1560000000,
+      "sharePrice": 96.34,
+      "netIncome": 8850000000,
+      "earningsYield": 1.0588859967103688,
+      "10year": 170.72561739106325
+    },
+    {
+      "name": "Oracle Corporation",
+      "ticker": "ORCL",
+      "sharesOutstanding": 2790000000,
+      "sharePrice": 88.84,
+      "netIncome": 13950000000,
+      "earningsYield": 1.0562809545249887,
+      "10year": 153.60418281574943
+    },
+    {
+      "name": "CVS Health Corporation",
+      "ticker": "CVS",
+      "sharesOutstanding": 1320000000,
+      "sharePrice": 104.29,
+      "netIncome": 7210000000,
+      "earningsYield": 1.0523743524031184,
+      "10year": 173.7581644911103
+    },
+    {
+      "name": "Meta Platforms Inc. Class A",
+      "ticker": "FB",
+      "sharesOutstanding": 2370000000,
+      "sharePrice": 336.53,
+      "netIncome": 40300000000,
+      "earningsYield": 1.0505280938082273,
+      "10year": 550.935168298282
+    },
+    {
+      "name": "Lowe&#39;s Companies Inc.",
+      "ticker": "LOW",
+      "sharesOutstanding": 706890000,
+      "sharePrice": 259.81,
+      "netIncome": 8180000000,
+      "earningsYield": 1.0445395272238847,
+      "10year": 401.7026103660403
+    },
+    {
+      "name": "Cisco Systems Inc.",
+      "ticker": "CSCO",
+      "sharesOutstanding": 4219999999.9999995,
+      "sharePrice": 61.25,
+      "netIncome": 11400000000,
+      "earningsYield": 1.044104845729761,
+      "10year": 94.30771154762934
+    },
+    {
+      "name": "Merck &amp; Co. Inc.",
+      "ticker": "MRK",
+      "sharesOutstanding": 2530000000,
+      "sharePrice": 77.01,
+      "netIncome": 8460000000.000001,
+      "earningsYield": 1.0434212896738937,
+      "10year": 117.79966635060755
+    },
+    {
+      "name": "Qualcomm Inc",
+      "ticker": "QCOM",
+      "sharesOutstanding": 1130000000,
+      "sharePrice": 187.23,
+      "netIncome": 9040000000,
+      "earningsYield": 1.0427281952678524,
+      "10year": 284.50284070519393
+    },
+    {
+      "name": "Chevron Corporation",
+      "ticker": "CVX",
+      "sharesOutstanding": 1930000000,
+      "sharePrice": 121.43,
+      "netIncome": 9910000000,
+      "earningsYield": 1.0422853909734557,
+      "10year": 183.7352568930222
+    },
+    {
+      "name": "United Parcel Service Inc. Class B",
+      "ticker": "UPS",
+      "sharesOutstanding": 723320000,
+      "sharePrice": 217.29,
+      "netIncome": 6450000000,
+      "earningsYield": 1.0410383131477388,
+      "10year": 324.86795198949767
+    },
+    {
+      "name": "Johnson &amp; Johnson",
+      "ticker": "JNJ",
+      "sharesOutstanding": 2630000000,
+      "sharePrice": 171.08,
+      "netIncome": 17880000000,
+      "earningsYield": 1.0397385964896684,
+      "10year": 252.60439369885748
+    },
+    {
+      "name": "Texas Instruments Incorporated",
+      "ticker": "TXN",
+      "sharesOutstanding": 923520000,
+      "sharePrice": 190.8,
+      "netIncome": 6700000000,
+      "earningsYield": 1.0380233281176678,
+      "10year": 277.108283494844
+    },
+    {
+      "name": "Home Depot Inc.",
+      "ticker": "HD",
+      "sharesOutstanding": 1040000000,
+      "sharePrice": 412.84,
+      "netIncome": 15940000000,
+      "earningsYield": 1.0371255766808523,
+      "10year": 594.4224661857846
+    },
+    {
+      "name": "Applied Materials Inc.",
+      "ticker": "AMAT",
+      "sharesOutstanding": 913980000,
+      "sharePrice": 158.36,
+      "netIncome": 5310000000,
+      "earningsYield": 1.0366870114730606,
+      "10year": 227.05029292881247
+    },
+    {
+      "name": "McDonald&#39;s Corporation",
+      "ticker": "MCD",
+      "sharesOutstanding": 746170000,
+      "sharePrice": 268.51,
+      "netIncome": 7280000000,
+      "earningsYield": 1.036335666485243,
+      "10year": 383.6762487603357
+    },
+    {
+      "name": "Thermo Fisher Scientific Inc.",
+      "ticker": "TMO",
+      "sharesOutstanding": 394050000,
+      "sharePrice": 618,
+      "netIncome": 8570000000,
+      "earningsYield": 1.0351917622531597,
+      "10year": 873.3665383766584
+    },
+    {
+      "name": "Union Pacific Corporation",
+      "ticker": "UNP",
+      "sharesOutstanding": 664300000,
+      "sharePrice": 252.03,
+      "netIncome": 5880000000,
+      "earningsYield": 1.0351205116456481,
+      "10year": 355.9273692805095
+    },
+    {
+      "name": "Procter &amp; Gamble Company",
+      "ticker": "PG",
+      "sharesOutstanding": 2420000000,
+      "sharePrice": 163.47,
+      "netIncome": 13870000000,
+      "earningsYield": 1.03506089777132,
+      "10year": 230.72629119600361
+    },
+    {
+      "name": "Honeywell International Inc.",
+      "ticker": "HON",
+      "sharesOutstanding": 694560000,
+      "sharePrice": 209,
+      "netIncome": 4970000000,
+      "earningsYield": 1.0342373651034038,
+      "10year": 292.64999831853646
+    },
+    {
+      "name": "PepsiCo Inc.",
+      "ticker": "PEP",
+      "sharesOutstanding": 1380000000,
+      "sharePrice": 173.23,
+      "netIncome": 8140000000.000001,
+      "earningsYield": 1.0340503996111394,
+      "10year": 242.12530078063784
+    },
+    {
+      "name": "Coca-Cola Company",
+      "ticker": "KO",
+      "sharesOutstanding": 4320000000,
+      "sharePrice": 60.29,
+      "netIncome": 8810000000,
+      "earningsYield": 1.0338257066155556,
+      "10year": 84.08500476200905
+    },
+    {
+      "name": "UnitedHealth Group Incorporated",
+      "ticker": "UNH",
+      "sharesOutstanding": 941850000,
+      "sharePrice": 490.9,
+      "netIncome": 15430000000,
+      "earningsYield": 1.0333726852011813,
+      "10year": 681.6521519302906
+    },
+    {
+      "name": "Visa Inc. Class A",
+      "ticker": "V",
+      "sharesOutstanding": 1670000000,
+      "sharePrice": 222.46,
+      "netIncome": 12010000000,
+      "earningsYield": 1.0323276848263376,
+      "10year": 305.7930962842179
+    },
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "sharesOutstanding": 16410000000,
+      "sharePrice": 179.7,
+      "netIncome": 94680000000,
+      "earningsYield": 1.0321071377341273,
+      "10year": 246.48806312084946
+    },
+    {
+      "name": "AbbVie Inc.",
+      "ticker": "ABBV",
+      "sharesOutstanding": 1770000000,
+      "sharePrice": 135.16,
+      "netIncome": 7460000000,
+      "earningsYield": 1.0311829628997982,
+      "10year": 183.74074521631118
+    },
+    {
+      "name": "Starbucks Corporation",
+      "ticker": "SBUX",
+      "sharesOutstanding": 1180000000,
+      "sharePrice": 114.24,
+      "netIncome": 4200000000,
+      "earningsYield": 1.0311565304087738,
+      "10year": 155.26163666787997
+    },
+    {
+      "name": "Abbott Laboratories",
+      "ticker": "ABT",
+      "sharesOutstanding": 1770000000,
+      "sharePrice": 135.77,
+      "netIncome": 7210000000,
+      "earningsYield": 1.0300025508410078,
+      "10year": 182.46804566465536
+    },
+    {
+      "name": "NIKE Inc. Class B",
+      "ticker": "NKE",
+      "sharesOutstanding": 1280000000,
+      "sharePrice": 166.39,
+      "netIncome": 6170000000,
+      "earningsYield": 1.028969965142136,
+      "10year": 221.38806475129752
+    },
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "sharesOutstanding": 7510000000,
+      "sharePrice": 329.01,
+      "netIncome": 67879999999.99999,
+      "earningsYield": 1.0274721594473126,
+      "10year": 431.42939116702445
+    },
+    {
+      "name": "Medtronic Plc",
+      "ticker": "MDT",
+      "sharesOutstanding": 1350000000,
+      "sharePrice": 106.39,
+      "netIncome": 3880000000,
+      "earningsYield": 1.0270145133384159,
+      "10year": 138.88860567213564
+    },
+    {
+      "name": "Danaher Corporation",
+      "ticker": "DHR",
+      "sharesOutstanding": 713280000,
+      "sharePrice": 307.26,
+      "netIncome": 5640000000,
+      "earningsYield": 1.0257343397891265,
+      "10year": 396.1457290081271
+    },
+    {
+      "name": "Accenture Plc Class A",
+      "ticker": "ACN",
+      "sharesOutstanding": 632000000,
+      "sharePrice": 404.3,
+      "netIncome": 6200000000,
+      "earningsYield": 1.024264473367001,
+      "10year": 513.8363641442742
+    },
+    {
+      "name": "Eli Lilly and Company",
+      "ticker": "LLY",
+      "sharesOutstanding": 956590000,
+      "sharePrice": 266.81,
+      "netIncome": 5970000000,
+      "earningsYield": 1.0233908708884307,
+      "10year": 336.21531202853066
+    },
+    {
+      "name": "Broadcom Inc.",
+      "ticker": "AVGO",
+      "sharesOutstanding": 412870000,
+      "sharePrice": 670.92,
+      "netIncome": 6440000000,
+      "earningsYield": 1.023248867468605,
+      "10year": 844.2740964842844
+    },
+    {
+      "name": "Mastercard Incorporated Class A",
+      "ticker": "MA",
+      "sharesOutstanding": 974710000,
+      "sharePrice": 375.39,
+      "netIncome": 8090000000,
+      "earningsYield": 1.0221100844108937,
+      "10year": 467.15331069946507
+    },
+    {
+      "name": "PayPal Holdings Inc.",
+      "ticker": "PYPL",
+      "sharesOutstanding": 1170000000,
+      "sharePrice": 191.14,
+      "netIncome": 4940000000,
+      "earningsYield": 1.022089684117517,
+      "10year": 237.8163075257131
+    },
+    {
+      "name": "Costco Wholesale Corporation",
+      "ticker": "COST",
+      "sharesOutstanding": 443430000,
+      "sharePrice": 564.23,
+      "netIncome": 5170000000,
+      "earningsYield": 1.0206637575509352,
+      "10year": 692.2821150923052
+    },
+    {
+      "name": "Walmart Inc.",
+      "ticker": "WMT",
+      "sharesOutstanding": 2800000000,
+      "sharePrice": 142,
+      "netIncome": 8020000000,
+      "earningsYield": 1.0201710261569417,
+      "10year": 173.3876634953909
+    },
+    {
+      "name": "Linde plc",
+      "ticker": "LIN",
+      "sharesOutstanding": 520030000,
+      "sharePrice": 344.81,
+      "netIncome": 3570000000,
+      "earningsYield": 1.0199094822028143,
+      "10year": 419.9486092607232
+    },
+    {
+      "name": "Netflix Inc.",
+      "ticker": "NFLX",
+      "sharesOutstanding": 442950000,
+      "sharePrice": 591.15,
+      "netIncome": 5050000000,
+      "earningsYield": 1.019285858595493,
+      "10year": 715.5791585984296
+    },
+    {
+      "name": "Adobe Inc.",
+      "ticker": "ADBE",
+      "sharesOutstanding": 475800000,
+      "sharePrice": 554,
+      "netIncome": 4820000000,
+      "earningsYield": 1.0182857524397442,
+      "10year": 664.058649122845
+    },
+    {
+      "name": "NextEra Energy Inc.",
+      "ticker": "NEE",
+      "sharesOutstanding": 1960000000,
+      "sharePrice": 90.68,
+      "netIncome": 3150000000,
+      "earningsYield": 1.0177232339781965,
+      "10year": 108.09569656382932
+    },
+    {
+      "name": "Advanced Micro Devices Inc.",
+      "ticker": "AMD",
+      "sharesOutstanding": 1220000000,
+      "sharePrice": 144.42,
+      "netIncome": 2880000000,
+      "earningsYield": 1.0163457674678362,
+      "10year": 169.84085588273427
+    },
+    {
+      "name": "Amazon.com Inc.",
+      "ticker": "AMZN",
+      "sharesOutstanding": 507150000,
+      "sharePrice": 3350.44,
+      "netIncome": 26260000000,
+      "earningsYield": 1.015454552954439,
+      "10year": 3905.7708211041113
+    },
+    {
+      "name": "Intuit Inc.",
+      "ticker": "INTU",
+      "sharesOutstanding": 273260000,
+      "sharePrice": 618.32,
+      "netIncome": 2089999999.9999998,
+      "earningsYield": 1.0123696362262569,
+      "10year": 699.2048049909022
+    },
+    {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "sharesOutstanding": 2490000000,
+      "sharePrice": 292.9,
+      "netIncome": 8210000000.000001,
+      "earningsYield": 1.0112570459372485,
+      "10year": 327.59327478191125
+    },
+    {
+      "name": "Walt Disney Company",
+      "ticker": "DIS",
+      "sharesOutstanding": 1820000000,
+      "sharePrice": 155.73,
+      "netIncome": 2020000000,
+      "earningsYield": 1.0071270154105831,
+      "10year": 167.19171051519888
+    },
+    {
+      "name": "salesforce.com inc.",
+      "ticker": "CRM",
+      "sharesOutstanding": 985000000,
+      "sharePrice": 248.23,
+      "netIncome": 1740000000,
+      "earningsYield": 1.0071163737740358,
+      "10year": 266.47154223036176
+    },
+    {
+      "name": "Tesla Inc",
+      "ticker": "TSLA",
+      "sharesOutstanding": 1000000000,
+      "sharePrice": 1149.59,
+      "netIncome": 3470000000,
+      "earningsYield": 1.003018467453614,
+      "10year": 1184.7651476872404
+    },
+    {
+      "name": "Berkshire Hathaway Inc. Class B",
+      "ticker": "BRK.B",
+      "sharesOutstanding": null,
+      "sharePrice": null,
+      "netIncome": null,
+      "earningsYield": null,
+      "10year": null
+    },
+    {
+      "name": "LyondellBasell Industries NV",
+      "ticker": "LYB",
+      "sharesOutstanding": 334350000,
+      "sharePrice": 96.96,
+      "netIncome": 5730000000,
+      "earningsYield": 1.1767505148899815,
+      "10year": 493.6698188554748
+    },
+    {
+      "name": "Hewlett Packard Enterprise Co.",
+      "ticker": "HPE",
+      "sharesOutstanding": 1310000000,
+      "sharePrice": 16.83,
+      "netIncome": 3430000000,
+      "earningsYield": 1.1555746055072502,
+      "10year": 71.46016419460821
+    },
+    {
+      "name": "ViacomCBS Inc. Class B",
+      "ticker": "VIAC",
+      "sharesOutstanding": 605590000,
+      "sharePrice": 33.05,
+      "netIncome": 3110000000,
+      "earningsYield": 1.1553854071468643,
+      "10year": 140.10068011700642
+    },
+    {
+      "name": "Celanese Corporation",
+      "ticker": "CE",
+      "sharesOutstanding": 112630000,
+      "sharePrice": 172.18,
+      "netIncome": 2840000000,
+      "earningsYield": 1.146447361811109,
+      "10year": 675.3422120004149
+    },
+    {
+      "name": "Cooper Companies Inc.",
+      "ticker": "COO",
+      "sharesOutstanding": 49250000,
+      "sharePrice": 417,
+      "netIncome": 2940000000,
+      "earningsYield": 1.143154511923456,
+      "10year": 1589.225053900066
+    },
+    {
+      "name": "Synchrony Financial",
+      "ticker": "SYF",
+      "sharesOutstanding": 581600000,
+      "sharePrice": 48.16,
+      "netIncome": 3280000000,
+      "earningsYield": 1.1171016373665041,
+      "10year": 145.75161040087863
+    },
+    {
+      "name": "Quest Diagnostics Incorporated",
+      "ticker": "DGX",
+      "sharesOutstanding": 121570000,
+      "sharePrice": 158.2,
+      "netIncome": 2180000000,
+      "earningsYield": 1.1133505411240443,
+      "10year": 462.9410843375635
+    },
+    {
+      "name": "Hologic Inc.",
+      "ticker": "HOLX",
+      "sharesOutstanding": 256230000.00000003,
+      "sharePrice": 70.43,
+      "netIncome": 2040000000,
+      "earningsYield": 1.1130426949125782,
+      "10year": 205.53033249453375
+    },
+    {
+      "name": "Regions Financial Corporation",
+      "ticker": "RF",
+      "sharesOutstanding": 961280000,
+      "sharePrice": 23.68,
+      "netIncome": 2450000000,
+      "earningsYield": 1.1076302823712527,
+      "10year": 65.81576075009004
+    },
+    {
+      "name": "Lennar Corporation Class A",
+      "ticker": "LEN",
+      "sharesOutstanding": 275760000,
+      "sharePrice": 112.54,
+      "netIncome": 3340000000,
+      "earningsYield": 1.1076237909465991,
+      "10year": 312.7732953559668
+    },
+    {
+      "name": "KeyCorp",
+      "ticker": "KEY",
+      "sharesOutstanding": 970520000,
+      "sharePrice": 24.82,
+      "netIncome": 2450000000,
+      "earningsYield": 1.1017091014750626,
+      "10year": 65.38394938416964
+    },
+    {
+      "name": "Best Buy Co. Inc.",
+      "ticker": "BBY",
+      "sharesOutstanding": 250470000,
+      "sharePrice": 105.14,
+      "netIncome": 2640000000,
+      "earningsYield": 1.100249043686779,
+      "10year": 273.3241273775647
+    },
+    {
+      "name": "Citizens Financial Group Inc.",
+      "ticker": "CFG",
+      "sharesOutstanding": 425930000,
+      "sharePrice": 51.37,
+      "netIncome": 2130000000,
+      "earningsYield": 1.0973490701045434,
+      "10year": 130.06413749449308
+    },
+    {
+      "name": "Laboratory Corporation of America Holdings",
+      "ticker": "LH",
+      "sharesOutstanding": 97700000,
+      "sharePrice": 290.21,
+      "netIncome": 2760000000,
+      "earningsYield": 1.0973424214004914,
+      "10year": 734.7406351142845
+    },
+    {
+      "name": "International Paper Company",
+      "ticker": "IP",
+      "sharesOutstanding": 391740000,
+      "sharePrice": 48.47,
+      "netIncome": 1800000000,
+      "earningsYield": 1.094798522015203,
+      "10year": 119.89885731225448
+    },
+    {
+      "name": "Raymond James Financial Inc.",
+      "ticker": "RJF",
+      "sharesOutstanding": 137420000,
+      "sharePrice": 107.49,
+      "netIncome": 1400000000,
+      "earningsYield": 1.0947785430964603,
+      "10year": 265.8464298455701
+    },
+    {
+      "name": "Tyson Foods Inc. Class A",
+      "ticker": "TSN",
+      "sharesOutstanding": 294770000,
+      "sharePrice": 89.54,
+      "netIncome": 2350000000,
+      "earningsYield": 1.0890363792719095,
+      "10year": 210.1072149908173
+    },
+    {
+      "name": "Hartford Financial Services Group Inc.",
+      "ticker": "HIG",
+      "sharesOutstanding": 357190000,
+      "sharePrice": 70.83,
+      "netIncome": 2150000000,
+      "earningsYield": 1.0849810174344012,
+      "10year": 160.11744122490967
+    },
+    {
+      "name": "M&amp;T Bank Corporation",
+      "ticker": "MTB",
+      "sharesOutstanding": 128650000,
+      "sharePrice": 164,
+      "netIncome": 1790000000,
+      "earningsYield": 1.0848397524006332,
+      "10year": 370.2539983968909
+    },
+    {
+      "name": "Principal Financial Group Inc.",
+      "ticker": "PFG",
+      "sharesOutstanding": 272010000,
+      "sharePrice": 75.62,
+      "netIncome": 1710000000,
+      "earningsYield": 1.0831332132150773,
+      "10year": 168.0565352146337
+    },
+    {
+      "name": "Fifth Third Bancorp",
+      "ticker": "FITB",
+      "sharesOutstanding": 702110000,
+      "sharePrice": 46.57,
+      "netIncome": 2590000000,
+      "earningsYield": 1.0792115237218314,
+      "10year": 99.809522616331
+    },
+    {
+      "name": "Weyerhaeuser Company",
+      "ticker": "WY",
+      "sharesOutstanding": 749210000,
+      "sharePrice": 41.09,
+      "netIncome": 2280000000,
+      "earningsYield": 1.074061949618001,
+      "10year": 83.95169208716084
+    },
+    {
+      "name": "Cummins Inc.",
+      "ticker": "CMI",
+      "sharesOutstanding": 146200000,
+      "sharePrice": 227.91,
+      "netIncome": 2200000000,
+      "earningsYield": 1.0660255347152958,
+      "10year": 431.95594609743773
+    },
+    {
+      "name": "Fortive Corp.",
+      "ticker": "FTV",
+      "sharesOutstanding": 338530000,
+      "sharePrice": 73.87,
+      "netIncome": 1560000000,
+      "earningsYield": 1.0623820062845792,
+      "10year": 135.29294885831334
+    },
+    {
+      "name": "FirstEnergy Corp.",
+      "ticker": "FE",
+      "sharesOutstanding": 543900000,
+      "sharePrice": 41.08,
+      "netIncome": 1310000000,
+      "earningsYield": 1.0586302575452666,
+      "10year": 72.62287910988795
+    },
+    {
+      "name": "CarMax Inc.",
+      "ticker": "KMX",
+      "sharesOutstanding": 163150000,
+      "sharePrice": 123.86,
+      "netIncome": 1180000000,
+      "earningsYield": 1.0583934121542127,
+      "10year": 218.47530554793536
+    },
+    {
+      "name": "PerkinElmer Inc.",
+      "ticker": "PKI",
+      "sharesOutstanding": 112090000,
+      "sharePrice": 183.45,
+      "netIncome": 1180000000,
+      "earningsYield": 1.0573848726326947,
+      "10year": 320.5152111917426
+    },
+    {
+      "name": "Stanley Black &amp; Decker Inc.",
+      "ticker": "SWK",
+      "sharesOutstanding": 161500000,
+      "sharePrice": 192.18,
+      "netIncome": 1780000000,
+      "earningsYield": 1.057350774412662,
+      "10year": 335.6595948972369
+    },
+    {
+      "name": "DTE Energy Company",
+      "ticker": "DTE",
+      "sharesOutstanding": 193730000,
+      "sharePrice": 119.38,
+      "netIncome": 1320000000,
+      "earningsYield": 1.0570749419152208,
+      "10year": 207.96457076005578
+    },
+    {
+      "name": "Entergy Corporation",
+      "ticker": "ETR",
+      "sharesOutstanding": 200630000,
+      "sharePrice": 111.28,
+      "netIncome": 1240000000,
+      "earningsYield": 1.0555403605888038,
+      "10year": 191.05814522209297
+    },
+    {
+      "name": "PACCAR Inc",
+      "ticker": "PCAR",
+      "sharesOutstanding": 347160000,
+      "sharePrice": 92.74,
+      "netIncome": 1750000000,
+      "earningsYield": 1.0543552224485304,
+      "10year": 157.4478109519492
+    },
+    {
+      "name": "NVR Inc.",
+      "ticker": "NVR",
+      "sharesOutstanding": 3640000,
+      "sharePrice": 5819.68,
+      "netIncome": 1130000000,
+      "earningsYield": 1.0533430636116694,
+      "10year": 9785.826295026685
+    },
+    {
+      "name": "Skyworks Solutions Inc.",
+      "ticker": "SWKS",
+      "sharesOutstanding": 165090000,
+      "sharePrice": 161.25,
+      "netIncome": 1420000000,
+      "earningsYield": 1.053341822947408,
+      "10year": 271.13963385521186
+    },
+    {
+      "name": "Expeditors International of Washington Inc.",
+      "ticker": "EXPD",
+      "sharesOutstanding": 168890000,
+      "sharePrice": 130.06,
+      "netIncome": 1160000000,
+      "earningsYield": 1.052809286990222,
+      "10year": 217.59094699525807
+    },
+    {
+      "name": "Qorvo Inc.",
+      "ticker": "QRVO",
+      "sharesOutstanding": 112590000,
+      "sharePrice": 160.45,
+      "netIncome": 922320000,
+      "earningsYield": 1.0510554473217935,
+      "10year": 263.9951785402594
+    },
+    {
+      "name": "Amcor PLC",
+      "ticker": "AMCR",
+      "sharesOutstanding": 1540000000,
+      "sharePrice": 12.07,
+      "netIncome": 941000000,
+      "earningsYield": 1.0506246032343796,
+      "10year": 19.7780257429837
+    },
+    {
+      "name": "Hershey Company",
+      "ticker": "HSY",
+      "sharesOutstanding": 146380000,
+      "sharePrice": 194.86,
+      "netIncome": 1430000000,
+      "earningsYield": 1.050133912237214,
+      "10year": 317.8114451087154
+    },
+    {
+      "name": "ONEOK Inc.",
+      "ticker": "OKE",
+      "sharesOutstanding": 445540000,
+      "sharePrice": 61.4,
+      "netIncome": 1350000000,
+      "earningsYield": 1.049349038658794,
+      "10year": 99.39580628293999
+    },
+    {
+      "name": "Seagate Technology Holdings PLC",
+      "ticker": "STX",
+      "sharesOutstanding": 228870000,
+      "sharePrice": 116.02,
+      "netIncome": 1310000000,
+      "earningsYield": 1.0493343675323161,
+      "10year": 187.7897272268049
+    },
+    {
+      "name": "Kraft Heinz Company",
+      "ticker": "KHC",
+      "sharesOutstanding": 1220000000,
+      "sharePrice": 36.91,
+      "netIncome": 2160000000,
+      "earningsYield": 1.0479678082708939,
+      "10year": 58.96895967886382
+    },
+    {
+      "name": "United Rentals Inc.",
+      "ticker": "URI",
+      "sharesOutstanding": 72380000,
+      "sharePrice": 347.09,
+      "netIncome": 1200000000,
+      "earningsYield": 1.0477661860478138,
+      "10year": 553.4595522919936
+    },
+    {
+      "name": "Northern Trust Corporation",
+      "ticker": "NTRS",
+      "sharesOutstanding": 208140000,
+      "sharePrice": 125.28,
+      "netIncome": 1230000000,
+      "earningsYield": 1.0471702107371732,
+      "10year": 198.6344336471569
+    },
+    {
+      "name": "Darden Restaurants Inc.",
+      "ticker": "DRI",
+      "sharesOutstanding": 130840000,
+      "sharePrice": 151.6,
+      "netIncome": 923300000,
+      "earningsYield": 1.0465482222037592,
+      "10year": 238.94153216204063
+    },
+    {
+      "name": "Willis Towers Watson Public Limited Company",
+      "ticker": "WLTW",
+      "sharesOutstanding": 128979999.99999999,
+      "sharePrice": 238.67,
+      "netIncome": 1420000000,
+      "earningsYield": 1.0461283731965747,
+      "10year": 374.66890014631235
+    },
+    {
+      "name": "Garmin Ltd.",
+      "ticker": "GRMN",
+      "sharesOutstanding": 192140000,
+      "sharePrice": 133.57,
+      "netIncome": 1180000000,
+      "earningsYield": 1.0459785525326666,
+      "10year": 209.38073570277797
+    },
+    {
+      "name": "CMS Energy Corporation",
+      "ticker": "CMS",
+      "sharesOutstanding": 289460000,
+      "sharePrice": 64.6,
+      "netIncome": 821000000,
+      "earningsYield": 1.0439058188633088,
+      "10year": 99.27632726746053
+    },
+    {
+      "name": "WEC Energy Group Inc",
+      "ticker": "WEC",
+      "sharesOutstanding": 315440000,
+      "sharePrice": 95.85,
+      "netIncome": 1290000000,
+      "earningsYield": 1.0426658919334475,
+      "10year": 145.56058320021558
+    },
+    {
+      "name": "FLEETCOR Technologies Inc.",
+      "ticker": "FLT",
+      "sharesOutstanding": 83350000,
+      "sharePrice": 237.25,
+      "netIncome": 824340000,
+      "earningsYield": 1.0416864150878993,
+      "10year": 356.92438968162924
+    },
+    {
+      "name": "Eversource Energy",
+      "ticker": "ES",
+      "sharesOutstanding": 343470000,
+      "sharePrice": 88.39,
+      "netIncome": 1250000000,
+      "earningsYield": 1.0411735268070113,
+      "10year": 132.3226849837279
+    },
+    {
+      "name": "Huntington Bancshares Incorporated",
+      "ticker": "HBAN",
+      "sharesOutstanding": 1480000000,
+      "sharePrice": 16.4,
+      "netIncome": 999000000,
+      "earningsYield": 1.041158536585366,
+      "10year": 24.547795186342473
+    },
+    {
+      "name": "Ameren Corporation",
+      "ticker": "AEE",
+      "sharesOutstanding": 255550000,
+      "sharePrice": 88.11,
+      "netIncome": 922000000,
+      "earningsYield": 1.0409477303332593,
+      "10year": 131.61773936978798
+    },
+    {
+      "name": "Signature Bank",
+      "ticker": "SBNY",
+      "sharesOutstanding": 57790000,
+      "sharePrice": 335.08,
+      "netIncome": 789560000,
+      "earningsYield": 1.040774058073091,
+      "10year": 499.7043074907739
+    },
+    {
+      "name": "NetApp Inc.",
+      "ticker": "NTAP",
+      "sharesOutstanding": 223220000,
+      "sharePrice": 94.2,
+      "netIncome": 855000000,
+      "earningsYield": 1.0406613794508517,
+      "10year": 140.32830452857252
+    },
+    {
+      "name": "Genuine Parts Company",
+      "ticker": "GPC",
+      "sharesOutstanding": 144470000,
+      "sharePrice": 140.34,
+      "netIncome": 814420000,
+      "earningsYield": 1.0401688395334614,
+      "10year": 208.07498231590023
+    },
+    {
+      "name": "Consolidated Edison Inc.",
+      "ticker": "ED",
+      "sharesOutstanding": 353070000,
+      "sharePrice": 84.97,
+      "netIncome": 1140000000,
+      "earningsYield": 1.0379995466654082,
+      "10year": 123.37786668998893
+    },
+    {
+      "name": "Dover Corporation",
+      "ticker": "DOV",
+      "sharesOutstanding": 143930000,
+      "sharePrice": 181.47,
+      "netIncome": 943140000,
+      "earningsYield": 1.036109377346175,
+      "10year": 258.7383965496297
+    },
+    {
+      "name": "Nasdaq Inc.",
+      "ticker": "NDAQ",
+      "sharesOutstanding": 164090000,
+      "sharePrice": 197.39,
+      "netIncome": 1150000000,
+      "earningsYield": 1.0355050867659263,
+      "10year": 279.79987327957724
+    },
+    {
+      "name": "CDW Corp.",
+      "ticker": "CDW",
+      "sharesOutstanding": 140200000,
+      "sharePrice": 208.13,
+      "netIncome": 1010000000,
+      "earningsYield": 1.0346129548544942,
+      "10year": 292.491874157513
+    },
+    {
+      "name": "Teradyne Inc.",
+      "ticker": "TER",
+      "sharesOutstanding": 166270000,
+      "sharePrice": 166.38,
+      "netIncome": 952880000,
+      "earningsYield": 1.0344447625232656,
+      "10year": 233.4394067093005
+    },
+    {
+      "name": "PPL Corporation",
+      "ticker": "PPL",
+      "sharesOutstanding": 769430000,
+      "sharePrice": 29.99,
+      "netIncome": 778000000,
+      "earningsYield": 1.0337158424550903,
+      "10year": 41.781900242740825
+    },
+    {
+      "name": "Zimmer Biomet Holdings Inc.",
+      "ticker": "ZBH",
+      "sharesOutstanding": 208480000,
+      "sharePrice": 130.44,
+      "netIncome": 916200000,
+      "earningsYield": 1.0336910928781575,
+      "10year": 181.68477303208078
+    },
+    {
+      "name": "Kroger Co.",
+      "ticker": "KR",
+      "sharesOutstanding": 748000000,
+      "sharePrice": 46.17,
+      "netIncome": 1150000000,
+      "earningsYield": 1.0332993969044881,
+      "10year": 64.06511847813559
+    },
+    {
+      "name": "Church &amp; Dwight Co. Inc.",
+      "ticker": "CHD",
+      "sharesOutstanding": 245250000,
+      "sharePrice": 101.82,
+      "netIncome": 819600000,
+      "earningsYield": 1.0328216069972975,
+      "10year": 140.63267647576757
+    },
+    {
+      "name": "Clorox Company",
+      "ticker": "CLX",
+      "sharesOutstanding": 124370000,
+      "sharePrice": 175.59,
+      "netIncome": 710000000,
+      "earningsYield": 1.032511943800605,
+      "10year": 241.79683972081673
+    },
+    {
+      "name": "Tractor Supply Company",
+      "ticker": "TSCO",
+      "sharesOutstanding": 115260000,
+      "sharePrice": 236.3,
+      "netIncome": 877880000,
+      "earningsYield": 1.0322324129244236,
+      "10year": 324.51788963042196
+    },
+    {
+      "name": "Edison International",
+      "ticker": "EIX",
+      "sharesOutstanding": 379440000,
+      "sharePrice": 66.67,
+      "netIncome": 815000000,
+      "earningsYield": 1.0322169217282335,
+      "10year": 91.54617420126336
+    },
+    {
+      "name": "W.W. Grainger Inc.",
+      "ticker": "GWW",
+      "sharesOutstanding": 52110000,
+      "sharePrice": 520.47,
+      "netIncome": 871000000,
+      "earningsYield": 1.0321145159245357,
+      "10year": 713.9611213526302
+    },
+    {
+      "name": "Waters Corporation",
+      "ticker": "WAT",
+      "sharesOutstanding": 61700000,
+      "sharePrice": 356.41,
+      "netIncome": 694920000,
+      "earningsYield": 1.0316009228895555,
+      "10year": 486.48236390685736
+    },
+    {
+      "name": "McCormick &amp; Company Incorporated",
+      "ticker": "MKC",
+      "sharesOutstanding": 249000000,
+      "sharePrice": 96.5,
+      "netIncome": 758600000,
+      "earningsYield": 1.0315708429573216,
+      "10year": 131.6794177964785
+    },
+    {
+      "name": "Ulta Beauty Inc",
+      "ticker": "ULTA",
+      "sharesOutstanding": 55390000,
+      "sharePrice": 418.74,
+      "netIncome": 727470000,
+      "earningsYield": 1.0313645654162602,
+      "10year": 570.2515986555916
+    },
+    {
+      "name": "Akamai Technologies Inc.",
+      "ticker": "AKAM",
+      "sharesOutstanding": 163260000,
+      "sharePrice": 116.95,
+      "netIncome": 584190000,
+      "earningsYield": 1.0305966656186527,
+      "10year": 158.08386894636232
+    },
+    {
+      "name": "Ball Corporation",
+      "ticker": "BLL",
+      "sharesOutstanding": 328260000,
+      "sharePrice": 90.01,
+      "netIncome": 870000000,
+      "earningsYield": 1.0294449299699047,
+      "10year": 120.31560304137493
+    },
+    {
+      "name": "Republic Services Inc.",
+      "ticker": "RSG",
+      "sharesOutstanding": 319030000,
+      "sharePrice": 136.58,
+      "netIncome": 1210000000,
+      "earningsYield": 1.0277694154607355,
+      "10year": 179.61558028074833
+    },
+    {
+      "name": "Alexandria Real Estate Equities Inc.",
+      "ticker": "ARE",
+      "sharesOutstanding": 147510000,
+      "sharePrice": 220.82,
+      "netIncome": 904490000,
+      "earningsYield": 1.0277679552730627,
+      "10year": 290.39499882324395
+    },
+    {
+      "name": "MGM Resorts International",
+      "ticker": "MGM",
+      "sharesOutstanding": 490540000,
+      "sharePrice": 45.39,
+      "netIncome": 615230000,
+      "earningsYield": 1.027631400326385,
+      "10year": 59.61202073267707
+    },
+    {
+      "name": "Pool Corporation",
+      "ticker": "POOL",
+      "sharesOutstanding": 40110000,
+      "sharePrice": 549.89,
+      "netIncome": 602190000,
+      "earningsYield": 1.0273026659455777,
+      "10year": 719.8797769319959
+    },
+    {
+      "name": "Zebra Technologies Corporation Class A",
+      "ticker": "ZBRA",
+      "sharesOutstanding": 53510000,
+      "sharePrice": 587.6,
+      "netIncome": 845000000,
+      "earningsYield": 1.026874473880492,
+      "10year": 766.0469182863375
+    },
+    {
+      "name": "Catalent Inc",
+      "ticker": "CTLT",
+      "sharesOutstanding": 170340000,
+      "sharePrice": 119.64,
+      "netIncome": 544000000,
+      "earningsYield": 1.0266935203481369,
+      "10year": 155.69856702279031
+    },
+    {
+      "name": "Take-Two Interactive Software Inc.",
+      "ticker": "TTWO",
+      "sharesOutstanding": 116170000,
+      "sharePrice": 181.9,
+      "netIncome": 563610000,
+      "earningsYield": 1.0266717800868408,
+      "10year": 236.6731261566502
+    },
+    {
+      "name": "Martin Marietta Materials Inc.",
+      "ticker": "MLM",
+      "sharesOutstanding": 62360000,
+      "sharePrice": 441.51,
+      "netIncome": 728600000,
+      "earningsYield": 1.0264632095501633,
+      "10year": 573.2900771544163
+    },
+    {
+      "name": "V.F. Corporation",
+      "ticker": "VFC",
+      "sharesOutstanding": 392360000,
+      "sharePrice": 75.76,
+      "netIncome": 786620000,
+      "earningsYield": 1.0264630740706093,
+      "10year": 98.37240135027639
+    },
+    {
+      "name": "Broadridge Financial Solutions Inc.",
+      "ticker": "BR",
+      "sharesOutstanding": 116130000,
+      "sharePrice": 180.57,
+      "netIncome": 548900000,
+      "earningsYield": 1.0261759954619245,
+      "10year": 233.81055419222747
+    },
+    {
+      "name": "Corning Inc",
+      "ticker": "GLW",
+      "sharesOutstanding": 851360000,
+      "sharePrice": 38.01,
+      "netIncome": 819000000,
+      "earningsYield": 1.0253088720705306,
+      "10year": 48.80283185667064
+    },
+    {
+      "name": "Gartner Inc.",
+      "ticker": "IT",
+      "sharesOutstanding": 86080000,
+      "sharePrice": 323.41,
+      "netIncome": 703810000,
+      "earningsYield": 1.025281319107756,
+      "10year": 415.1297799536654
+    },
+    {
+      "name": "Copart Inc.",
+      "ticker": "CPRT",
+      "sharesOutstanding": 236580000,
+      "sharePrice": 146.12,
+      "netIncome": 846050000,
+      "earningsYield": 1.0244741906504768,
+      "10year": 186.08864836781234
+    },
+    {
+      "name": "Trimble Inc.",
+      "ticker": "TRMB",
+      "sharesOutstanding": 250960000,
+      "sharePrice": 85.11,
+      "netIncome": 518400000,
+      "earningsYield": 1.0242705655682252,
+      "10year": 108.1751525720369
+    },
+    {
+      "name": "IDEX Corporation",
+      "ticker": "IEX",
+      "sharesOutstanding": 75930000,
+      "sharePrice": 235.52,
+      "netIncome": 431710000,
+      "earningsYield": 1.0241407587580666,
+      "10year": 298.9677190423508
+    },
+    {
+      "name": "Domino&#39;s Pizza Inc.",
+      "ticker": "DPZ",
+      "sharesOutstanding": 38830000,
+      "sharePrice": 535.28,
+      "netIncome": 485410000,
+      "earningsYield": 1.0233539481484906,
+      "10year": 674.2791197607393
+    },
+    {
+      "name": "Vulcan Materials Company",
+      "ticker": "VMC",
+      "sharesOutstanding": 132660000,
+      "sharePrice": 210.53,
+      "netIncome": 651480000,
+      "earningsYield": 1.0233263670034123,
+      "10year": 265.12802299651673
+    },
+    {
+      "name": "Charles River Laboratories International Inc.",
+      "ticker": "CRL",
+      "sharesOutstanding": 50250000,
+      "sharePrice": 347.77,
+      "netIncome": 396600000,
+      "earningsYield": 1.0226947042971872,
+      "10year": 435.2634362270985
+    },
+    {
+      "name": "FactSet Research Systems Inc.",
+      "ticker": "FDS",
+      "sharesOutstanding": 37850000,
+      "sharePrice": 472.46,
+      "netIncome": 399590000,
+      "earningsYield": 1.0223451709596547,
+      "10year": 589.3055687178536
+    },
+    {
+      "name": "Generac Holdings Inc.",
+      "ticker": "GNRC",
+      "sharesOutstanding": 62950000,
+      "sharePrice": 332.08,
+      "netIncome": 455510000,
+      "earningsYield": 1.0217901119169157,
+      "10year": 411.9643890230843
+    },
+    {
+      "name": "Xylem Inc.",
+      "ticker": "XYL",
+      "sharesOutstanding": 180040000,
+      "sharePrice": 118.13,
+      "netIncome": 462000000,
+      "earningsYield": 1.0217226481250918,
+      "10year": 146.45034772728832
+    },
+    {
+      "name": "VeriSign Inc.",
+      "ticker": "VRSN",
+      "sharesOutstanding": 112620000,
+      "sharePrice": 250.43,
+      "netIncome": 612060000,
+      "earningsYield": 1.021701618341652,
+      "10year": 310.40389799109386
+    },
+    {
+      "name": "Extra Space Storage Inc.",
+      "ticker": "EXR",
+      "sharesOutstanding": 133729999.99999999,
+      "sharePrice": 221.59,
+      "netIncome": 640720000,
+      "earningsYield": 1.0216216721857465,
+      "10year": 274.4423504326277
+    },
+    {
+      "name": "Equity Residential",
+      "ticker": "EQR",
+      "sharesOutstanding": 374000000,
+      "sharePrice": 92.25,
+      "netIncome": 714980000,
+      "earningsYield": 1.02072315696419,
+      "10year": 113.25204459096547
+    },
+    {
+      "name": "Diamondback Energy Inc.",
+      "ticker": "FANG",
+      "sharesOutstanding": 180980000,
+      "sharePrice": 119.2,
+      "netIncome": 441000000,
+      "earningsYield": 1.020442393797824,
+      "10year": 145.93557853171959
+    },
+    {
+      "name": "Essex Property Trust Inc.",
+      "ticker": "ESS",
+      "sharesOutstanding": 65000000,
+      "sharePrice": 356.63,
+      "netIncome": 447420000,
+      "earningsYield": 1.0193011934368523,
+      "10year": 431.7607908841801
+    },
+    {
+      "name": "Etsy Inc.",
+      "ticker": "ETSY",
+      "sharesOutstanding": 127100000,
+      "sharePrice": 200.99,
+      "netIncome": 480490000,
+      "earningsYield": 1.0188089413735604,
+      "10year": 242.15973253135905
+    },
+    {
+      "name": "Cerner Corporation",
+      "ticker": "CERN",
+      "sharesOutstanding": 301320000,
+      "sharePrice": 92.64,
+      "netIncome": 522260000,
+      "earningsYield": 1.0187094171941673,
+      "10year": 111.50690338931192
+    },
+    {
+      "name": "Teledyne Technologies Incorporated",
+      "ticker": "TDY",
+      "sharesOutstanding": 46540000,
+      "sharePrice": 448.08,
+      "netIncome": 375400000,
+      "earningsYield": 1.0180016506660092,
+      "10year": 535.5997697716007
+    },
+    {
+      "name": "Jacobs Engineering Group Inc.",
+      "ticker": "J",
+      "sharesOutstanding": 130220000,
+      "sharePrice": 142.55,
+      "netIncome": 332640000,
+      "earningsYield": 1.0179196515019964,
+      "10year": 170.25591501104034
+    },
+    {
+      "name": "Halliburton Company",
+      "ticker": "HAL",
+      "sharesOutstanding": 889720000,
+      "sharePrice": 25.43,
+      "netIncome": 398000000,
+      "earningsYield": 1.0175907095878332,
+      "10year": 30.274549763415756
+    },
+    {
+      "name": "Western Digital Corporation",
+      "ticker": "WDC",
+      "sharesOutstanding": 306450000,
+      "sharePrice": 67.62,
+      "netIncome": 347000000,
+      "earningsYield": 1.01674536748095,
+      "10year": 79.83570960934145
+    },
+    {
+      "name": "Mid-America Apartment Communities Inc.",
+      "ticker": "MAA",
+      "sharesOutstanding": 114490000,
+      "sharePrice": 227.39,
+      "netIncome": 427340000,
+      "earningsYield": 1.0164147634522307,
+      "10year": 267.5968564379512
+    },
+    {
+      "name": "Ingersoll Rand Inc.",
+      "ticker": "IR",
+      "sharesOutstanding": 419450000,
+      "sharePrice": 60.74,
+      "netIncome": 388300000,
+      "earningsYield": 1.0152409628410568,
+      "10year": 70.65877610938158
+    },
+    {
+      "name": "Duke Realty Corporation",
+      "ticker": "DRE",
+      "sharesOutstanding": 374980000,
+      "sharePrice": 63.73,
+      "netIncome": 358300000,
+      "earningsYield": 1.014993215559498,
+      "10year": 73.95632322495071
+    },
+    {
+      "name": "Albemarle Corporation",
+      "ticker": "ALB",
+      "sharesOutstanding": 116720000,
+      "sharePrice": 242.58,
+      "netIncome": 364240000,
+      "earningsYield": 1.012864335760915,
+      "10year": 275.65621279521434
+    },
+    {
+      "name": "STERIS Plc",
+      "ticker": "STE",
+      "sharesOutstanding": 99680000,
+      "sharePrice": 245.16,
+      "netIncome": 249950000,
+      "earningsYield": 1.0102281125674928,
+      "10year": 271.4214156642888
+    },
+    {
+      "name": "Monolithic Power Systems Inc.",
+      "ticker": "MPWR",
+      "sharesOutstanding": 45750000,
+      "sharePrice": 491.25,
+      "netIncome": 212240000,
+      "earningsYield": 1.0094435128408348,
+      "10year": 539.6631666236188
+    },
+    {
+      "name": "Tyler Technologies Inc.",
+      "ticker": "TYL",
+      "sharesOutstanding": 40740000,
+      "sharePrice": 520.48,
+      "netIncome": 184250000,
+      "earningsYield": 1.0086892526682443,
+      "10year": 567.5158318955716
+    },
+    {
+      "name": "Devon Energy Corporation",
+      "ticker": "DVN",
+      "sharesOutstanding": 676900000,
+      "sharePrice": 47.66,
+      "netIncome": 279000000,
+      "earningsYield": 1.0086481985368487,
+      "10year": 51.945892213584344
+    },
+    {
+      "name": "Bio-Techne Corporation",
+      "ticker": "TECH",
+      "sharesOutstanding": 38890000,
+      "sharePrice": 468.02,
+      "netIncome": 140320000,
+      "earningsYield": 1.0077093403746187,
+      "10year": 505.37907067652384
+    },
+    {
+      "name": "Ventas Inc.",
+      "ticker": "VTR",
+      "sharesOutstanding": 375140000,
+      "sharePrice": 53.28,
+      "netIncome": 152380000,
+      "earningsYield": 1.0076237804152717,
+      "10year": 57.484174790222326
+    },
+    {
+      "name": "Paycom Software Inc.",
+      "ticker": "PAYC",
+      "sharesOutstanding": 60180000,
+      "sharePrice": 391.87,
+      "netIncome": 171640000,
+      "earningsYield": 1.0072782053631553,
+      "10year": 421.3435872496262
+    },
+    {
+      "name": "Baker Hughes Company Class A",
+      "ticker": "BKR",
+      "sharesOutstanding": 773840000,
+      "sharePrice": 25.59,
+      "netIncome": 140000000,
+      "earningsYield": 1.0070697909971826,
+      "10year": 27.457814867997968
+    },
+    {
+      "name": "Enphase Energy Inc.",
+      "ticker": "ENPH",
+      "sharesOutstanding": 135700000,
+      "sharePrice": 178.28,
+      "netIncome": 96760000,
+      "earningsYield": 1.0039995707777702,
+      "10year": 185.54014721229618
+    },
+    {
+      "name": "Healthpeak Properties Inc.",
+      "ticker": "PEAK",
+      "sharesOutstanding": 538930000,
+      "sharePrice": 36.66,
+      "netIncome": -17120000,
+      "earningsYield": 0.9991334793036036,
+      "10year": 36.343569345403516
+    },
+    {
+      "name": "Delta Air Lines Inc.",
+      "ticker": "DAL",
+      "sharesOutstanding": 639650000,
+      "sharePrice": 40.59,
+      "netIncome": -67000000,
+      "earningsYield": 0.9974194436486125,
+      "10year": 39.55463234253182
+    },
+    {
+      "name": "Hess Corporation",
+      "ticker": "HES",
+      "sharesOutstanding": 308420000,
+      "sharePrice": 81.16,
+      "netIncome": -161000000,
+      "earningsYield": 0.9935680700653059,
+      "10year": 76.08837363554598
+    },
+    {
+      "name": "Valero Energy Corporation",
+      "ticker": "VLO",
+      "sharesOutstanding": 408760000,
+      "sharePrice": 78.51,
+      "netIncome": -1370000000,
+      "earningsYield": 0.957309897327,
+      "10year": 50.75168515078676
+    },
+    {
+      "name": "Southwest Airlines Co.",
+      "ticker": "LUV",
+      "sharesOutstanding": 591380000,
+      "sharePrice": 44.66,
+      "netIncome": -1600000000,
+      "earningsYield": 0.9394192520497913,
+      "10year": 23.906350388430578
+    },
+    {
+      "name": "Expedia Group Inc.",
+      "ticker": "EXPE",
+      "sharesOutstanding": 141410000,
+      "sharePrice": 185.37,
+      "netIncome": -1990000000,
+      "earningsYield": 0.924083967298013,
+      "10year": 84.16931711614212
+    },
+    {
+      "name": "Caesars Entertainment Inc",
+      "ticker": "CZR",
+      "sharesOutstanding": 208700000,
+      "sharePrice": 89.95,
+      "netIncome": -1800000000,
+      "earningsYield": 0.904115393927255,
+      "10year": 32.82765086827456
+    },
+    {
+      "name": "AmerisourceBergen Corporation",
+      "ticker": "ABC",
+      "sharesOutstanding": 207410000,
+      "sharePrice": 131.36,
+      "netIncome": -3740000000,
+      "earningsYield": 0.8627290083878302,
+      "10year": 30.005934003469505
+    },
+    {
+      "name": "Occidental Petroleum Corporation",
+      "ticker": "OXY",
+      "sharesOutstanding": 933420000,
+      "sharePrice": 33.38,
+      "netIncome": -5210000000,
+      "earningsYield": 0.832785363587975,
+      "10year": 5.355711440540348
+    },
+    {
+      "name": "Bath &amp; Body Works Inc.",
+      "ticker": "BBWI",
+      "sharesOutstanding": null,
+      "sharePrice": 70.45,
+      "netIncome": 1020000000,
+      "earningsYield": null,
+      "10year": null
+    },
+    {
+      "name": "Coterra Energy Inc.",
+      "ticker": "CTRA",
+      "sharesOutstanding": 19090000,
+      "sharePrice": 20.93,
+      "netIncome": 350740000,
+      "earningsYield": 1.8778294381956668,
+      "10year": 11411.182712323207
+    },
+    {
+      "name": "Bio-Rad Laboratories Inc. Class A",
+      "ticker": "BIO",
+      "sharesOutstanding": 24690000,
+      "sharePrice": 702.09,
+      "netIncome": 6660000000,
+      "earningsYield": 1.3842026463359087,
+      "10year": 18129.654981894957
+    },
+    {
+      "name": "Fox Corporation Class A",
+      "ticker": "FOXA",
+      "sharesOutstanding": 326940000,
+      "sharePrice": 37.97,
+      "netIncome": 2150000000,
+      "earningsYield": 1.1731927884327324,
+      "10year": 187.55750393789873
+    },
+    {
+      "name": "Cincinnati Financial Corporation",
+      "ticker": "CINF",
+      "sharesOutstanding": 161100000,
+      "sharePrice": 115.74,
+      "netIncome": 3060000000,
+      "earningsYield": 1.1641127821653814,
+      "10year": 528.9736720021069
+    },
+    {
+      "name": "Whirlpool Corporation",
+      "ticker": "WHR",
+      "sharesOutstanding": 62620000,
+      "sharePrice": 239.47,
+      "netIncome": 1990000000,
+      "earningsYield": 1.1327054927550337,
+      "10year": 832.5708078873001
+    },
+    {
+      "name": "Mosaic Company",
+      "ticker": "MOS",
+      "sharesOutstanding": 379790000,
+      "sharePrice": 40.5,
+      "netIncome": 1790000000,
+      "earningsYield": 1.1163736034761251,
+      "10year": 121.77289028830094
+    },
+    {
+      "name": "PulteGroup Inc.",
+      "ticker": "PHM",
+      "sharesOutstanding": 262970000.00000003,
+      "sharePrice": 56.91,
+      "netIncome": 1650000000,
+      "earningsYield": 1.110252679295463,
+      "10year": 161.95967052258817
+    },
+    {
+      "name": "Lincoln National Corporation",
+      "ticker": "LNC",
+      "sharesOutstanding": 190370000,
+      "sharePrice": 72.64,
+      "netIncome": 1330000000,
+      "earningsYield": 1.0961783440964372,
+      "10year": 181.96506431344923
+    },
+    {
+      "name": "Omnicom Group Inc",
+      "ticker": "OMC",
+      "sharesOutstanding": 215080000,
+      "sharePrice": 75.52,
+      "netIncome": 1350000000,
+      "earningsYield": 1.0831135359960662,
+      "10year": 167.80380913551085
+    },
+    {
+      "name": "Cardinal Health Inc.",
+      "ticker": "CAH",
+      "sharesOutstanding": 290150000,
+      "sharePrice": 52.6,
+      "netIncome": 1140000000,
+      "earningsYield": 1.074695860080239,
+      "10year": 108.1039351323946
+    },
+    {
+      "name": "Conagra Brands Inc.",
+      "ticker": "CAG",
+      "sharesOutstanding": 479950000,
+      "sharePrice": 34.2,
+      "netIncome": 1210000000,
+      "earningsYield": 1.073716255774694,
+      "10year": 69.65004296520779
+    },
+    {
+      "name": "Leidos Holdings Inc.",
+      "ticker": "LDOS",
+      "sharesOutstanding": 141350000,
+      "sharePrice": 91.88,
+      "netIncome": 776000000,
+      "earningsYield": 1.0597509647547847,
+      "10year": 164.15691906545493
+    },
+    {
+      "name": "LKQ Corporation",
+      "ticker": "LKQ",
+      "sharesOutstanding": 302160000,
+      "sharePrice": 59.49,
+      "netIncome": 1040000000,
+      "earningsYield": 1.0578565320892577,
+      "10year": 104.40269029332684
+    },
+    {
+      "name": "Kellogg Company",
+      "ticker": "K",
+      "sharesOutstanding": 340500000,
+      "sharePrice": 65.31,
+      "netIncome": 1270000000,
+      "earningsYield": 1.0571093110436143,
+      "10year": 113.80953920337495
+    },
+    {
+      "name": "Packaging Corporation of America",
+      "ticker": "PKG",
+      "sharesOutstanding": 94990000,
+      "sharePrice": 138.03,
+      "netIncome": 742400000,
+      "earningsYield": 1.0566221801969309,
+      "10year": 239.42567354560103
+    },
+    {
+      "name": "Evergy Inc.",
+      "ticker": "EVRG",
+      "sharesOutstanding": 229270000,
+      "sharePrice": 67.98,
+      "netIncome": 877300000,
+      "earningsYield": 1.0562885081117495,
+      "10year": 117.54568991641084
+    },
+    {
+      "name": "J.M. Smucker Company",
+      "ticker": "SJM",
+      "sharesOutstanding": 108340000,
+      "sharePrice": 138.57,
+      "netIncome": 793200000,
+      "earningsYield": 1.0528353583490238,
+      "10year": 231.88562952766756
+    },
+    {
+      "name": "Fortune Brands Home &amp; Security Inc.",
+      "ticker": "FBHS",
+      "sharesOutstanding": 138430000,
+      "sharePrice": 107.31,
+      "netIncome": 760700000,
+      "earningsYield": 1.0512086117603852,
+      "10year": 176.81914883424813
+    },
+    {
+      "name": "Interpublic Group of Companies Inc.",
+      "ticker": "IPG",
+      "sharesOutstanding": 393380000,
+      "sharePrice": 38.4,
+      "netIncome": 747000000,
+      "earningsYield": 1.0494512303624994,
+      "10year": 62.22341386185666
+    },
+    {
+      "name": "Atmos Energy Corporation",
+      "ticker": "ATO",
+      "sharesOutstanding": 130669999.99999999,
+      "sharePrice": 106.26,
+      "netIncome": 681700000,
+      "earningsYield": 1.0490961674294397,
+      "10year": 171.60218610699414
+    },
+    {
+      "name": "NortonLifeLock Inc.",
+      "ticker": "NLOK",
+      "sharesOutstanding": 579950000,
+      "sharePrice": 26.55,
+      "netIncome": 728000000,
+      "earningsYield": 1.0472798729808028,
+      "10year": 42.13976382114919
+    },
+    {
+      "name": "Iron Mountain Inc.",
+      "ticker": "IRM",
+      "sharesOutstanding": 288710000,
+      "sharePrice": 50.75,
+      "netIncome": 635980000,
+      "earningsYield": 1.0434055821265753,
+      "10year": 77.6189216554735
+    },
+    {
+      "name": "FMC Corporation",
+      "ticker": "FMC",
+      "sharesOutstanding": 128880000,
+      "sharePrice": 111.21,
+      "netIncome": 615500000,
+      "earningsYield": 1.0429436237502812,
+      "10year": 169.33712176311755
+    },
+    {
+      "name": "Masco Corporation",
+      "ticker": "MAS",
+      "sharesOutstanding": 253790000,
+      "sharePrice": 70.21,
+      "netIncome": 760000000,
+      "earningsYield": 1.0426520700208484,
+      "10year": 106.60880393101928
+    },
+    {
+      "name": "Avery Dennison Corporation",
+      "ticker": "AVY",
+      "sharesOutstanding": 83010000,
+      "sharePrice": 215.92,
+      "netIncome": 748900000,
+      "earningsYield": 1.0417830891156687,
+      "10year": 325.1366342213352
+    },
+    {
+      "name": "Advance Auto Parts Inc.",
+      "ticker": "AAP",
+      "sharesOutstanding": 65440000,
+      "sharePrice": 237.05,
+      "netIncome": 646440000,
+      "earningsYield": 1.0416720601484526,
+      "10year": 356.57436366833764
+    },
+    {
+      "name": "Alliant Energy Corp",
+      "ticker": "LNT",
+      "sharesOutstanding": 250140000,
+      "sharePrice": 60.72,
+      "netIncome": 625000000,
+      "earningsYield": 1.0411495517714295,
+      "10year": 90.8788719771439
+    },
+    {
+      "name": "C.H. Robinson Worldwide Inc.",
+      "ticker": "CHRW",
+      "sharesOutstanding": 132990000.00000001,
+      "sharePrice": 110.38,
+      "netIncome": 601580000,
+      "earningsYield": 1.0409811379540586,
+      "10year": 164.93734278675092
+    },
+    {
+      "name": "Textron Inc.",
+      "ticker": "TXT",
+      "sharesOutstanding": 225710000,
+      "sharePrice": 77.69,
+      "netIncome": 706000000,
+      "earningsYield": 1.040261391323393,
+      "10year": 115.28954455458728
+    },
+    {
+      "name": "Kimco Realty Corporation",
+      "ticker": "KIM",
+      "sharesOutstanding": 433460000,
+      "sharePrice": 25.23,
+      "netIncome": 392090000,
+      "earningsYield": 1.03585250366494,
+      "10year": 35.88363671846191
+    },
+    {
+      "name": "Robert Half International Inc.",
+      "ticker": "RHI",
+      "sharesOutstanding": 112780000,
+      "sharePrice": 112.15,
+      "netIncome": 429980000,
+      "earningsYield": 1.0339951441607422,
+      "10year": 156.66943248243615
+    },
+    {
+      "name": "PTC Inc.",
+      "ticker": "PTC",
+      "sharesOutstanding": 116860000,
+      "sharePrice": 122.6,
+      "netIncome": 476920000,
+      "earningsYield": 1.0332881134660372,
+      "10year": 170.10019240629703
+    },
+    {
+      "name": "Cboe Global Markets Inc",
+      "ticker": "CBOE",
+      "sharesOutstanding": 106690000,
+      "sharePrice": 125.73,
+      "netIncome": 438700000,
+      "earningsYield": 1.0327043109761163,
+      "10year": 173.4597895797972
+    },
+    {
+      "name": "Hormel Foods Corporation",
+      "ticker": "HRL",
+      "sharesOutstanding": 542080000,
+      "sharePrice": 49.01,
+      "netIncome": 861460000,
+      "earningsYield": 1.0324255260052222,
+      "10year": 67.43293130787904
+    },
+    {
+      "name": "Hasbro Inc.",
+      "ticker": "HAS",
+      "sharesOutstanding": 137570000,
+      "sharePrice": 103.92,
+      "netIncome": 451720000,
+      "earningsYield": 1.0315970432128807,
+      "10year": 141.84042533036006
+    },
+    {
+      "name": "Quanta Services Inc.",
+      "ticker": "PWR",
+      "sharesOutstanding": 139350000,
+      "sharePrice": 116.15,
+      "netIncome": 496670000,
+      "earningsYield": 1.0306861031963634,
+      "10year": 157.13879511378428
+    },
+    {
+      "name": "Eastman Chemical Company",
+      "ticker": "EMN",
+      "sharesOutstanding": 136320000,
+      "sharePrice": 122.16,
+      "netIncome": 511000000,
+      "earningsYield": 1.0306854360171067,
+      "10year": 165.26862636470597
+    },
+    {
+      "name": "J.B. Hunt Transport Services Inc.",
+      "ticker": "JBHT",
+      "sharesOutstanding": 105670000,
+      "sharePrice": 207.66,
+      "netIncome": 672600000,
+      "earningsYield": 1.0306515404641212,
+      "10year": 280.8480526058656
+    },
+    {
+      "name": "CF Industries Holdings Inc.",
+      "ticker": "CF",
+      "sharesOutstanding": 214520000,
+      "sharePrice": 71.13,
+      "netIncome": 456000000,
+      "earningsYield": 1.029884379694256,
+      "10year": 95.48552075991665
+    },
+    {
+      "name": "Teleflex Incorporated",
+      "ticker": "TFX",
+      "sharesOutstanding": 46730000,
+      "sharePrice": 334.55,
+      "netIncome": 434260000,
+      "earningsYield": 1.0277774908231647,
+      "10year": 439.9993700112864
+    },
+    {
+      "name": "Brown &amp; Brown Inc.",
+      "ticker": "BRO",
+      "sharesOutstanding": 281850000,
+      "sharePrice": 69.12,
+      "netIncome": 527830000.00000006,
+      "earningsYield": 1.0270939485476251,
+      "10year": 90.30367690533589
+    },
+    {
+      "name": "Citrix Systems Inc.",
+      "ticker": "CTXS",
+      "sharesOutstanding": 124170000,
+      "sharePrice": 99.37,
+      "netIncome": 316690000,
+      "earningsYield": 1.0256662475731277,
+      "10year": 128.03123375967107
+    },
+    {
+      "name": "Jack Henry &amp; Associates Inc.",
+      "ticker": "JKHY",
+      "sharesOutstanding": 74190000,
+      "sharePrice": 174.66,
+      "netIncome": 322370000,
+      "earningsYield": 1.024878018837654,
+      "10year": 223.3136358076576
+    },
+    {
+      "name": "Westinghouse Air Brake Technologies Corporation",
+      "ticker": "WAB",
+      "sharesOutstanding": 189000000,
+      "sharePrice": 97.7,
+      "netIncome": 414000000,
+      "earningsYield": 1.0224204318370131,
+      "10year": 121.95223423137347
+    },
+    {
+      "name": "Incyte Corporation",
+      "ticker": "INCY",
+      "sharesOutstanding": 219920000,
+      "sharePrice": 71.81,
+      "netIncome": 337640000,
+      "earningsYield": 1.0213798295277101,
+      "10year": 88.72738808988115
+    },
+    {
+      "name": "F5 Inc.",
+      "ticker": "FFIV",
+      "sharesOutstanding": 59610000,
+      "sharePrice": 239.9,
+      "netIncome": 278450000,
+      "earningsYield": 1.0194714302127368,
+      "10year": 290.9248664438663
+    },
+    {
+      "name": "MarketAxess Holdings Inc.",
+      "ticker": "MKTX",
+      "sharesOutstanding": 37980000,
+      "sharePrice": 394.37,
+      "netIncome": 278630000,
+      "earningsYield": 1.0186024028058003,
+      "10year": 474.1882993770983
+    },
+    {
+      "name": "Boston Properties Inc.",
+      "ticker": "BXP",
+      "sharesOutstanding": 156070000,
+      "sharePrice": 123.93,
+      "netIncome": 301960000,
+      "earningsYield": 1.0156118200462583,
+      "10year": 144.69513079738098
+    },
+    {
+      "name": "DENTSPLY SIRONA Inc.",
+      "ticker": "XRAY",
+      "sharesOutstanding": 218320000,
+      "sharePrice": 57.18,
+      "netIncome": 174000000,
+      "earningsYield": 1.0139383567042726,
+      "10year": 65.66889004541278
+    },
+    {
+      "name": "SolarEdge Technologies Inc.",
+      "ticker": "SEDG",
+      "sharesOutstanding": 51980000,
+      "sharePrice": 273.1,
+      "netIncome": 145870000,
+      "earningsYield": 1.0102756193443412,
+      "10year": 302.4965489973272
+    },
+    {
+      "name": "ABIOMED Inc.",
+      "ticker": "ABMD",
+      "sharesOutstanding": 45300000,
+      "sharePrice": 361.59,
+      "netIncome": 154410000,
+      "earningsYield": 1.0094267243881831,
+      "10year": 397.15898804619775
+    },
+    {
+      "name": "Howmet Aerospace Inc.",
+      "ticker": "HWM",
+      "sharesOutstanding": 434080000,
+      "sharePrice": 33.53,
+      "netIncome": 136000000,
+      "earningsYield": 1.009344059140639,
+      "10year": 36.79813980938058
+    },
+    {
+      "name": "UDR Inc.",
+      "ticker": "UDR",
+      "sharesOutstanding": 296840000,
+      "sharePrice": 60.79,
+      "netIncome": 54870000,
+      "earningsYield": 1.0030407477488548,
+      "10year": 62.66397004373295
+    },
+    {
+      "name": "Ceridian HCM Holding Inc.",
+      "ticker": "CDAY",
+      "sharesOutstanding": 149240000,
+      "sharePrice": 100.57,
+      "netIncome": -83200000,
+      "earningsYield": 0.9944566840091618,
+      "10year": 95.1321169902378
+    },
+    {
+      "name": "AES Corporation",
+      "ticker": "AES",
+      "sharesOutstanding": 668110000,
+      "sharePrice": 24.45,
+      "netIncome": -249000000,
+      "earningsYield": 0.9847569276320447,
+      "10year": 20.968593979139705
+    },
+    {
+      "name": "CenterPoint Energy Inc.",
+      "ticker": "CNP",
+      "sharesOutstanding": 551580000,
+      "sharePrice": 27.45,
+      "netIncome": -439000000,
+      "earningsYield": 0.9710056310498913,
+      "10year": 20.45313258000972
+    },
+    {
+      "name": "Marathon Oil Corporation",
+      "ticker": "MRO",
+      "sharesOutstanding": 788150000,
+      "sharePrice": 17.61,
+      "netIncome": -542000000,
+      "earningsYield": 0.9609490997092329,
+      "10year": 11.823966709846689
+    },
+    {
+      "name": "Live Nation Entertainment Inc.",
+      "ticker": "LYV",
+      "sharesOutstanding": 218680000,
+      "sharePrice": 120.72,
+      "netIncome": -1460000000,
+      "earningsYield": 0.9446949787162034,
+      "10year": 68.34319793637361
+    },
+    {
+      "name": "Las Vegas Sands Corp.",
+      "ticker": "LVS",
+      "sharesOutstanding": 763960000,
+      "sharePrice": 38.66,
+      "netIncome": -1860000000,
+      "earningsYield": 0.9370232166552762,
+      "10year": 20.17276202237078
+    },
+    {
+      "name": "Host Hotels &amp; Resorts Inc.",
+      "ticker": "HST",
+      "sharesOutstanding": 706090000,
+      "sharePrice": 17.91,
+      "netIncome": -881000000,
+      "earningsYield": 0.9303340984483885,
+      "10year": 8.699313365375822
+    },
+    {
+      "name": "Viatris Inc.",
+      "ticker": "VTRS",
+      "sharesOutstanding": 1210000000,
+      "sharePrice": 14.37,
+      "netIncome": -1920000000,
+      "earningsYield": 0.8895771148570542,
+      "10year": 4.459567953233231
+    },
+    {
+      "name": "United Airlines Holdings Inc.",
+      "ticker": "UAL",
+      "sharesOutstanding": 323580000,
+      "sharePrice": 46.25,
+      "netIncome": -3220000000,
+      "earningsYield": 0.7848395400778119,
+      "10year": 4.101290037768397
+    },
+    {
+      "name": "Carnival Corporation",
+      "ticker": "CCL",
+      "sharesOutstanding": 973540000,
+      "sharePrice": 21.73,
+      "netIncome": -9130000000,
+      "earningsYield": 0.5684240342301287,
+      "10year": 0.07652160175075477
+    },
+    {
+      "name": "Brown-Forman Corporation Class B",
+      "ticker": "BF.B",
+      "sharesOutstanding": 0,
+      "sharePrice": null,
+      "netIncome": 0,
+      "earningsYield": null,
+      "10year": null
+    },
+    {
+      "name": "DISH Network Corporation Class A",
+      "ticker": "DISH",
+      "sharesOutstanding": 289270000,
+      "sharePrice": 33.76,
+      "netIncome": 2540000000,
+      "earningsYield": 1.2600925323215146,
+      "10year": 340.7429006582555
+    },
+    {
+      "name": "Fox Corporation Class B",
+      "ticker": "FOX",
+      "sharesOutstanding": 253270000,
+      "sharePrice": 35.13,
+      "netIncome": 2150000000,
+      "earningsYield": 1.2416443024864714,
+      "10year": 305.94978344203577
+    },
+    {
+      "name": "Discovery Inc. Class A",
+      "ticker": "DISCA",
+      "sharesOutstanding": 168650000,
+      "sharePrice": 26.75,
+      "netIncome": 878000000,
+      "earningsYield": 1.1946186178864042,
+      "10year": 158.34945570189566
+    },
+    {
+      "name": "Capital One Financial Corporation",
+      "ticker": "COF",
+      "sharesOutstanding": 451490000,
+      "sharePrice": 151.15,
+      "netIncome": 11490000000,
+      "earningsYield": 1.1683696238133907,
+      "10year": 716.4909756217817
+    },
+    {
+      "name": "Citigroup Inc.",
+      "ticker": "C",
+      "sharesOutstanding": 2069999999.9999998,
+      "sharePrice": 63.59,
+      "netIncome": 21840000000,
+      "earningsYield": 1.1659179845523062,
+      "10year": 295.16770558985604
+    },
+    {
+      "name": "Prudential Financial Inc.",
+      "ticker": "PRU",
+      "sharesOutstanding": 394000000,
+      "sharePrice": 113.71,
+      "netIncome": 7230000000,
+      "earningsYield": 1.1613776607783537,
+      "10year": 507.6137064769148
+    },
+    {
+      "name": "HP Inc.",
+      "ticker": "HPQ",
+      "sharesOutstanding": 1080000000,
+      "sharePrice": 39.14,
+      "netIncome": 6500000000,
+      "earningsYield": 1.1537689963852458,
+      "10year": 163.6098578272738
+    },
+    {
+      "name": "Aflac Incorporated",
+      "ticker": "AFL",
+      "sharesOutstanding": 679670000,
+      "sharePrice": 60.18,
+      "netIncome": 5810000000,
+      "earningsYield": 1.1420449662728285,
+      "10year": 227.13508440849662
+    },
+    {
+      "name": "Discover Financial Services",
+      "ticker": "DFS",
+      "sharesOutstanding": 306340000,
+      "sharePrice": 122.3,
+      "netIncome": 5080000000,
+      "earningsYield": 1.1355918378197771,
+      "10year": 436.16326013684125
+    },
+    {
+      "name": "Dow Inc.",
+      "ticker": "DOW",
+      "sharesOutstanding": 739610000,
+      "sharePrice": 59.03,
+      "netIncome": 5790000000,
+      "earningsYield": 1.1326181624448943,
+      "10year": 205.07277078189273
+    },
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "sharesOutstanding": 1450000000,
+      "sharePrice": 65.74,
+      "netIncome": 12570000000,
+      "earningsYield": 1.131867440177082,
+      "10year": 226.87433509525835
+    },
+    {
+      "name": "CSX Corporation",
+      "ticker": "CSX",
+      "sharesOutstanding": 757400000,
+      "sharePrice": 37.63,
+      "netIncome": 3610000000,
+      "earningsYield": 1.126662391255425,
+      "10year": 124.01442200879107
+    },
+    {
+      "name": "Everest Re Group Ltd.",
+      "ticker": "RE",
+      "sharesOutstanding": 40080000,
+      "sharePrice": 272.87,
+      "netIncome": 1310000000,
+      "earningsYield": 1.1197809606718325,
+      "10year": 845.8368098256768
+    },
+    {
+      "name": "Regeneron Pharmaceuticals Inc.",
+      "ticker": "REGN",
+      "sharesOutstanding": 104690000,
+      "sharePrice": 616.82,
+      "netIncome": 7000000000,
+      "earningsYield": 1.1084012757170063,
+      "10year": 1726.3490758141616
+    },
+    {
+      "name": "Gap Inc.",
+      "ticker": "GPS",
+      "sharesOutstanding": 377600000,
+      "sharePrice": 18.65,
+      "netIncome": 753000000,
+      "earningsYield": 1.1069262052983142,
+      "10year": 51.506913549017284
+    },
+    {
+      "name": "Invesco Ltd.",
+      "ticker": "IVZ",
+      "sharesOutstanding": 461450000,
+      "sharePrice": 24.31,
+      "netIncome": 1180000000,
+      "earningsYield": 1.1051895017846336,
+      "10year": 66.0925438388125
+    },
+    {
+      "name": "Cigna Corporation",
+      "ticker": "CI",
+      "sharesOutstanding": 342600000,
+      "sharePrice": 233.3,
+      "netIncome": 8380000000.000001,
+      "earningsYield": 1.1048435991231171,
+      "10year": 632.299412551048
+    },
+    {
+      "name": "Loews Corporation",
+      "ticker": "L",
+      "sharesOutstanding": 263180000,
+      "sharePrice": 59.39,
+      "netIncome": 1630000000,
+      "earningsYield": 1.1042848921990436,
+      "10year": 160.1491475077082
+    },
+    {
+      "name": "Discovery Inc. Class C",
+      "ticker": "DISCK",
+      "sharesOutstanding": 330150000,
+      "sharePrice": 25.94,
+      "netIncome": 878000000,
+      "earningsYield": 1.1025210965180077,
+      "10year": 68.83971367714449
+    },
+    {
+      "name": "Universal Health Services Inc. Class B",
+      "ticker": "UHS",
+      "sharesOutstanding": 77870000,
+      "sharePrice": 133.82,
+      "netIncome": 1060000000,
+      "earningsYield": 1.1017219472029698,
+      "10year": 352.5664930265744
+    },
+    {
+      "name": "Zions Bancorporation N.A.",
+      "ticker": "ZION",
+      "sharesOutstanding": 163820000,
+      "sharePrice": 66.07,
+      "netIncome": 1090000000,
+      "earningsYield": 1.1007059821958844,
+      "10year": 172.47159312587263
+    },
+    {
+      "name": "D.R. Horton Inc.",
+      "ticker": "DHI",
+      "sharesOutstanding": 360480000,
+      "sharePrice": 105.72,
+      "netIncome": 3670000000,
+      "earningsYield": 1.0963003211424158,
+      "10year": 265.12615148388073
+    },
+    {
+      "name": "Travelers Companies Inc.",
+      "ticker": "TRV",
+      "sharesOutstanding": 251460000,
+      "sharePrice": 159,
+      "netIncome": 3780000000,
+      "earningsYield": 1.0945422130981484,
+      "10year": 392.39392991576756
+    },
+    {
+      "name": "Chubb Limited",
+      "ticker": "CB",
+      "sharesOutstanding": 449690000,
+      "sharePrice": 195.61,
+      "netIncome": 8180000000,
+      "earningsYield": 1.0929927349289417,
+      "10year": 475.9527114846123
+    },
+    {
+      "name": "Under Armour Inc. Class A",
+      "ticker": "UAA",
+      "sharesOutstanding": 188620000,
+      "sharePrice": 21.48,
+      "netIncome": 360360000,
+      "earningsYield": 1.0889435707393127,
+      "10year": 50.360267488744356
+    },
+    {
+      "name": "Huntington Ingalls Industries Inc.",
+      "ticker": "HII",
+      "sharesOutstanding": 40230000,
+      "sharePrice": 189.49,
+      "netIncome": 673000000,
+      "earningsYield": 1.088283336040208,
+      "10year": 441.57663758027337
+    },
+    {
+      "name": "Nucor Corporation",
+      "ticker": "NUE",
+      "sharesOutstanding": 299240000,
+      "sharePrice": 117.07,
+      "netIncome": 3040000000,
+      "earningsYield": 1.0867777367651477,
+      "10year": 269.0623612209976
+    },
+    {
+      "name": "Under Armour Inc. Class C",
+      "ticker": "UA",
+      "sharesOutstanding": 233920000,
+      "sharePrice": 18.21,
+      "netIncome": 360360000,
+      "earningsYield": 1.0845978405154637,
+      "10year": 41.02015525689841
+    },
+    {
+      "name": "Mohawk Industries Inc.",
+      "ticker": "MHK",
+      "sharesOutstanding": 69710000,
+      "sharePrice": 188.25,
+      "netIncome": 1090000000,
+      "earningsYield": 1.0830608613220813,
+      "10year": 418.08405499401744
+    },
+    {
+      "name": "American International Group Inc.",
+      "ticker": "AIG",
+      "sharesOutstanding": 858140000,
+      "sharePrice": 59,
+      "netIncome": 4179999999.9999995,
+      "earningsYield": 1.0825593232189603,
+      "10year": 130.4274662850795
+    },
+    {
+      "name": "Comerica Incorporated",
+      "ticker": "CMA",
+      "sharesOutstanding": 139610000,
+      "sharePrice": 92.4,
+      "netIncome": 1060000000,
+      "earningsYield": 1.0821707719494411,
+      "10year": 203.53072114178596
+    },
+    {
+      "name": "Gilead Sciences Inc.",
+      "ticker": "GILD",
+      "sharesOutstanding": 1250000000,
+      "sharePrice": 72.21,
+      "netIncome": 7390000000,
+      "earningsYield": 1.0818723168536213,
+      "10year": 158.619810349232
+    },
+    {
+      "name": "DaVita Inc.",
+      "ticker": "DVA",
+      "sharesOutstanding": 106200000,
+      "sharePrice": 115.39,
+      "netIncome": 984380000,
+      "earningsYield": 1.0803285802720293,
+      "10year": 249.8773140917046
+    },
+    {
+      "name": "U.S. Bancorp",
+      "ticker": "USB",
+      "sharesOutstanding": 1500000000,
+      "sharePrice": 58.77,
+      "netIncome": 7010000000,
+      "earningsYield": 1.0795190289830412,
+      "10year": 126.31610116146257
+    },
+    {
+      "name": "MetLife Inc.",
+      "ticker": "MET",
+      "sharesOutstanding": 877520000,
+      "sharePrice": 64.94,
+      "netIncome": 4410000000,
+      "earningsYield": 1.0773872264201858,
+      "10year": 136.8454954949618
+    },
+    {
+      "name": "Globe Life Inc.",
+      "ticker": "GL",
+      "sharesOutstanding": 103050000,
+      "sharePrice": 97.39,
+      "netIncome": 771250000,
+      "earningsYield": 1.0768480434936512,
+      "10year": 204.20134537998084
+    },
+    {
+      "name": "HCA Healthcare Inc",
+      "ticker": "HCA",
+      "sharesOutstanding": 330660000,
+      "sharePrice": 260.27,
+      "netIncome": 6570000000,
+      "earningsYield": 1.076341307890581,
+      "10year": 543.1555128294597
+    },
+    {
+      "name": "FedEx Corporation",
+      "ticker": "FDX",
+      "sharesOutstanding": 265339999.99999997,
+      "sharePrice": 264.91,
+      "netIncome": 5220000000,
+      "earningsYield": 1.0742624760895811,
+      "10year": 542.2535624216204
+    },
+    {
+      "name": "Arista Networks Inc.",
+      "ticker": "ANET",
+      "sharesOutstanding": 76320000,
+      "sharePrice": 138.66,
+      "netIncome": 784520000,
+      "earningsYield": 1.0741334927507702,
+      "10year": 283.4874137967493
+    },
+    {
+      "name": "Newell Brands Inc",
+      "ticker": "NWL",
+      "sharesOutstanding": 425300000,
+      "sharePrice": 22.85,
+      "netIncome": 717000000,
+      "earningsYield": 1.0737798161267038,
+      "10year": 46.56274411445822
+    },
+    {
+      "name": "News Corporation Class B",
+      "ticker": "NWS",
+      "sharesOutstanding": 199630000,
+      "sharePrice": 22.78,
+      "netIncome": 330000000,
+      "earningsYield": 1.0725662053376446,
+      "10year": 45.898110762120496
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "sharesOutstanding": 160960000,
+      "sharePrice": 396.99,
+      "netIncome": 4620000000,
+      "earningsYield": 1.0723010234519732,
+      "10year": 797.8968898153993
+    },
+    {
+      "name": "Campbell Soup Company",
+      "ticker": "CPB",
+      "sharesOutstanding": 303010000,
+      "sharePrice": 44.12,
+      "netIncome": 960000000,
+      "earningsYield": 1.0718089816460132,
+      "10year": 88.26924753974443
+    },
+    {
+      "name": "Lockheed Martin Corporation",
+      "ticker": "LMT",
+      "sharesOutstanding": 277930000,
+      "sharePrice": 361.99,
+      "netIncome": 7200000000,
+      "earningsYield": 1.0715649703572376,
+      "10year": 722.5728733331299
+    },
+    {
+      "name": "Tapestry Inc.",
+      "ticker": "TPR",
+      "sharesOutstanding": 278860000,
+      "sharePrice": 41.65,
+      "netIncome": 829400000,
+      "earningsYield": 1.0714106197596303,
+      "10year": 83.0184218499386
+    },
+    {
+      "name": "W. R. Berkley Corporation",
+      "ticker": "WRB",
+      "sharesOutstanding": 177380000,
+      "sharePrice": 82.47,
+      "netIncome": 1040000000,
+      "earningsYield": 1.0710939581442251,
+      "10year": 163.89725877387392
+    },
+    {
+      "name": "Pinnacle West Capital Corporation",
+      "ticker": "PNW",
+      "sharesOutstanding": 112750000,
+      "sharePrice": 69.65,
+      "netIncome": 556210000,
+      "earningsYield": 1.0708273709376785,
+      "10year": 138.07522366185538
+    },
+    {
+      "name": "Franklin Resources Inc.",
+      "ticker": "BEN",
+      "sharesOutstanding": 505400000,
+      "sharePrice": 34.22,
+      "netIncome": 1190000000,
+      "earningsYield": 1.0688068567246964,
+      "10year": 66.56904367124619
+    },
+    {
+      "name": "Micron Technology Inc.",
+      "ticker": "MU",
+      "sharesOutstanding": 1120000000,
+      "sharePrice": 96.34,
+      "netIncome": 7360000000,
+      "earningsYield": 1.068210801032059,
+      "10year": 186.3701228471941
+    },
+    {
+      "name": "BorgWarner Inc.",
+      "ticker": "BWA",
+      "sharesOutstanding": 239850000,
+      "sharePrice": 47.93,
+      "netIncome": 781000000,
+      "earningsYield": 1.067936611574946,
+      "10year": 92.4830584967977
+    },
+    {
+      "name": "Bank of New York Mellon Corporation",
+      "ticker": "BK",
+      "sharesOutstanding": 825820000,
+      "sharePrice": 61.21,
+      "netIncome": 3430000000,
+      "earningsYield": 1.0678557013968673,
+      "10year": 118.0179555353626
+    },
+    {
+      "name": "Progressive Corporation",
+      "ticker": "PGR",
+      "sharesOutstanding": 585300000,
+      "sharePrice": 102.16,
+      "netIncome": 4050000000,
+      "earningsYield": 1.0677322674916825,
+      "10year": 196.74538761334645
+    },
+    {
+      "name": "T. Rowe Price Group",
+      "ticker": "TROW",
+      "sharesOutstanding": 229200000,
+      "sharePrice": 195.94,
+      "netIncome": 3040000000,
+      "earningsYield": 1.067691769446821,
+      "10year": 377.20900542669915
+    },
+    {
+      "name": "Snap-on Incorporated",
+      "ticker": "SNA",
+      "sharesOutstanding": 54080000,
+      "sharePrice": 220.89,
+      "netIncome": 805700000,
+      "earningsYield": 1.0674466875665174,
+      "10year": 424.26576999349464
+    },
+    {
+      "name": "State Street Corporation",
+      "ticker": "STT",
+      "sharesOutstanding": 347770000,
+      "sharePrice": 98.32,
+      "netIncome": 2230000000,
+      "earningsYield": 1.0652185107891772,
+      "10year": 184.93917568125832
+    },
+    {
+      "name": "Freeport-McMoRan Inc.",
+      "ticker": "FCX",
+      "sharesOutstanding": 1470000000,
+      "sharePrice": 42.15,
+      "netIncome": 3900000000,
+      "earningsYield": 1.0629433267969108,
+      "10year": 77.60660347313824
+    },
+    {
+      "name": "Truist Financial Corporation",
+      "ticker": "TFC",
+      "sharesOutstanding": 1340000000,
+      "sharePrice": 62.35,
+      "netIncome": 5190000000,
+      "earningsYield": 1.0621192354187363,
+      "10year": 113.9119271963269
+    },
+    {
+      "name": "PNC Financial Services Group Inc.",
+      "ticker": "PNC",
+      "sharesOutstanding": 424860000,
+      "sharePrice": 215.89,
+      "netIncome": 5580000000,
+      "earningsYield": 1.0608353243437607,
+      "10year": 389.68371186302375
+    },
+    {
+      "name": "Ameriprise Financial Inc.",
+      "ticker": "AMP",
+      "sharesOutstanding": 115910000,
+      "sharePrice": 318.08,
+      "netIncome": 2240000000,
+      "earningsYield": 1.0607562205256384,
+      "10year": 573.7097560826882
+    },
+    {
+      "name": "Archer-Daniels-Midland Company",
+      "ticker": "ADM",
+      "sharesOutstanding": 558700000,
+      "sharePrice": 69.15,
+      "netIncome": 2310000000,
+      "earningsYield": 1.0597917306483482,
+      "10year": 123.59401741958851
+    },
+    {
+      "name": "Target Corporation",
+      "ticker": "TGT",
+      "sharesOutstanding": 494720000,
+      "sharePrice": 234.17,
+      "netIncome": 6780000000,
+      "earningsYield": 1.0585246695258654,
+      "10year": 413.56244620928663
+    },
+    {
+      "name": "3M Company",
+      "ticker": "MMM",
+      "sharesOutstanding": 579680000,
+      "sharePrice": 180.23,
+      "netIncome": 5920000000,
+      "earningsYield": 1.056663879773704,
+      "10year": 312.7488370263874
+    },
+    {
+      "name": "General Mills Inc.",
+      "ticker": "GIS",
+      "sharesOutstanding": 609970000,
+      "sharePrice": 67.89,
+      "netIncome": 2330000000,
+      "earningsYield": 1.0562654292696187,
+      "10year": 117.36442293926854
+    },
+    {
+      "name": "Henry Schein Inc.",
+      "ticker": "HSIC",
+      "sharesOutstanding": 140700000,
+      "sharePrice": 79.28,
+      "netIncome": 625920000,
+      "earningsYield": 1.0561126901172386,
+      "10year": 136.85675942134674
+    },
+    {
+      "name": "American Express Company",
+      "ticker": "AXP",
+      "sharesOutstanding": 803300000,
+      "sharePrice": 173.61,
+      "netIncome": 7650000000,
+      "earningsYield": 1.0548540794365802,
+      "10year": 296.1410451063545
+    },
+    {
+      "name": "General Dynamics Corporation",
+      "ticker": "GD",
+      "sharesOutstanding": 286260000,
+      "sharePrice": 212.05,
+      "netIncome": 3310000000,
+      "earningsYield": 1.0545291904393757,
+      "10year": 360.59884915032774
+    },
+    {
+      "name": "APA Corp.",
+      "ticker": "APA",
+      "sharesOutstanding": 377970000,
+      "sharePrice": 29.46,
+      "netIncome": 601000000,
+      "earningsYield": 1.053973974414109,
+      "10year": 49.83467301823461
+    },
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
+      "sharesOutstanding": 801160000,
+      "sharePrice": 60.43,
+      "netIncome": 2600000000,
+      "earningsYield": 1.0537033646075016,
+      "10year": 101.96151089617149
+    },
+    {
+      "name": "American Electric Power Company Inc.",
+      "ticker": "AEP",
+      "sharesOutstanding": 496390000,
+      "sharePrice": 89.28,
+      "netIncome": 2380000000,
+      "earningsYield": 1.0537031489215938,
+      "10year": 150.63883930750728
+    },
+    {
+      "name": "AutoZone Inc.",
+      "ticker": "AZO",
+      "sharesOutstanding": 20630000,
+      "sharePrice": 2075.38,
+      "netIncome": 2280000000,
+      "earningsYield": 1.0532522536318702,
+      "10year": 3486.756327998372
+    },
+    {
+      "name": "Biogen Inc.",
+      "ticker": "BIIB",
+      "sharesOutstanding": 150560000,
+      "sharePrice": 241.73,
+      "netIncome": 1920000000,
+      "earningsYield": 1.0527546894192952,
+      "10year": 404.20566725530733
+    },
+    {
+      "name": "Sempra Energy",
+      "ticker": "SRE",
+      "sharesOutstanding": 302760000,
+      "sharePrice": 134.37,
+      "netIncome": 2109999999.9999998,
+      "earningsYield": 1.051865866943177,
+      "10year": 222.7952574495245
+    },
+    {
+      "name": "Activision Blizzard Inc.",
+      "ticker": "ATVI",
+      "sharesOutstanding": 777020000,
+      "sharePrice": 67.2,
+      "netIncome": 2640000000,
+      "earningsYield": 1.0505594634445887,
+      "10year": 110.0463558138619
+    },
+    {
+      "name": "Corteva Inc",
+      "ticker": "CTVA",
+      "sharesOutstanding": 737100000,
+      "sharePrice": 47.77,
+      "netIncome": 1760000000,
+      "earningsYield": 1.0499840008597248,
+      "10year": 77.80044065939249
+    },
+    {
+      "name": "Penn National Gaming Inc.",
+      "ticker": "PENN",
+      "sharesOutstanding": 156360000,
+      "sharePrice": 49.77,
+      "netIncome": 385000000,
+      "earningsYield": 1.0494729066573982,
+      "10year": 80.66403698184382
+    },
+    {
+      "name": "Anthem Inc.",
+      "ticker": "ANTM",
+      "sharesOutstanding": 244840000,
+      "sharePrice": 458.17,
+      "netIncome": 5520000000,
+      "earningsYield": 1.049207359123155,
+      "10year": 740.6958813132645
+    },
+    {
+      "name": "eBay Inc.",
+      "ticker": "EBAY",
+      "sharesOutstanding": 626000000,
+      "sharePrice": 65.44,
+      "netIncome": 1970000000,
+      "earningsYield": 1.0480893162626839,
+      "10year": 104.67096563924639
+    },
+    {
+      "name": "Carrier Global Corp.",
+      "ticker": "CARR",
+      "sharesOutstanding": 869000000,
+      "sharePrice": 53.82,
+      "netIncome": 2220000000,
+      "earningsYield": 1.047466750823933,
+      "10year": 85.57485190554806
+    },
+    {
+      "name": "Sealed Air Corporation",
+      "ticker": "SEE",
+      "sharesOutstanding": 153220000,
+      "sharePrice": 66.94,
+      "netIncome": 483600000,
+      "earningsYield": 1.0471503722870938,
+      "10year": 106.11486421109734
+    },
+    {
+      "name": "Assurant Inc.",
+      "ticker": "AIZ",
+      "sharesOutstanding": 60570000,
+      "sharePrice": 157.74,
+      "netIncome": 449000000,
+      "earningsYield": 1.0469944889175586,
+      "10year": 249.68117146690952
+    },
+    {
+      "name": "Deere &amp; Company",
+      "ticker": "DE",
+      "sharesOutstanding": 311940000,
+      "sharePrice": 371.29,
+      "netIncome": 5440000000,
+      "earningsYield": 1.0469693531687883,
+      "10year": 587.5609774994522
+    },
+    {
+      "name": "SVB Financial Group",
+      "ticker": "SIVB",
+      "sharesOutstanding": 54320000,
+      "sharePrice": 706.15,
+      "netIncome": 1790000000,
+      "earningsYield": 1.0466655411320507,
+      "10year": 1114.2335389583725
+    },
+    {
+      "name": "Kinder Morgan Inc Class P",
+      "ticker": "KMI",
+      "sharesOutstanding": 2260000000,
+      "sharePrice": 16.58,
+      "netIncome": 1740000000,
+      "earningsYield": 1.0464361582885875,
+      "10year": 26.104291088580307
+    },
+    {
+      "name": "Mondelez International Inc. Class A",
+      "ticker": "MDLZ",
+      "sharesOutstanding": 1400000000,
+      "sharePrice": 66.45,
+      "netIncome": 4310000000,
+      "earningsYield": 1.0463291411372675,
+      "10year": 104.51489649194018
+    },
+    {
+      "name": "Dollar Tree Inc.",
+      "ticker": "DLTR",
+      "sharesOutstanding": 231950000,
+      "sharePrice": 140.51,
+      "netIncome": 1490000000,
+      "earningsYield": 1.0457177299293834,
+      "10year": 219.71107466091743
+    },
+    {
+      "name": "Humana Inc.",
+      "ticker": "HUM",
+      "sharesOutstanding": 129009999.99999999,
+      "sharePrice": 458.99,
+      "netIncome": 2670000000,
+      "earningsYield": 1.0450904596441914,
+      "10year": 713.4147030667289
+    },
+    {
+      "name": "DXC Technology Co.",
+      "ticker": "DXC",
+      "sharesOutstanding": 254590000,
+      "sharePrice": 34.11,
+      "netIncome": 390000000,
+      "earningsYield": 1.0449098440063478,
+      "10year": 52.926104004687005
+    },
+    {
+      "name": "Dollar General Corporation",
+      "ticker": "DG",
+      "sharesOutstanding": 236200000,
+      "sharePrice": 233.7,
+      "netIncome": 2440000000,
+      "earningsYield": 1.0442029465974056,
+      "10year": 360.17026578567396
+    },
+    {
+      "name": "Southern Company",
+      "ticker": "SO",
+      "sharesOutstanding": 1060000000,
+      "sharePrice": 68.17,
+      "netIncome": 3150000000,
+      "earningsYield": 1.0435924616870698,
+      "10year": 104.44860102458608
+    },
+    {
+      "name": "Caterpillar Inc.",
+      "ticker": "CAT",
+      "sharesOutstanding": 547790000,
+      "sharePrice": 218.08,
+      "netIncome": 5150000000,
+      "earningsYield": 1.0431099273212499,
+      "10year": 332.5956958720883
+    },
+    {
+      "name": "Amgen Inc.",
+      "ticker": "AMGN",
+      "sharesOutstanding": 574550000,
+      "sharePrice": 227.84,
+      "netIncome": 5610000000,
+      "earningsYield": 1.042855351379047,
+      "10year": 346.6336437935434
+    },
+    {
+      "name": "Xcel Energy Inc.",
+      "ticker": "XEL",
+      "sharesOutstanding": 538210000,
+      "sharePrice": 68.37,
+      "netIncome": 1570000000,
+      "earningsYield": 1.0426660374051193,
+      "10year": 103.8288049901243
+    },
+    {
+      "name": "O&#39;Reilly Automotive Inc.",
+      "ticker": "ORLY",
+      "sharesOutstanding": 69730000,
+      "sharePrice": 698.86,
+      "netIncome": 2040000000,
+      "earningsYield": 1.0418620332531554,
+      "10year": 1053.1550261658167
+    },
+    {
+      "name": "Parker-Hannifin Corporation",
+      "ticker": "PH",
+      "sharesOutstanding": 129060000,
+      "sharePrice": 324.04,
+      "netIncome": 1750000000,
+      "earningsYield": 1.0418454039294278,
+      "10year": 488.2378285360094
+    },
+    {
+      "name": "BlackRock Inc.",
+      "ticker": "BLK",
+      "sharesOutstanding": 152530000,
+      "sharePrice": 917.22,
+      "netIncome": 5810000000,
+      "earningsYield": 1.0415286053186295,
+      "10year": 1377.7979629279844
+    },
+    {
+      "name": "Kimberly-Clark Corporation",
+      "ticker": "KMB",
+      "sharesOutstanding": 337430000,
+      "sharePrice": 143.2,
+      "netIncome": 2000000000,
+      "earningsYield": 1.0413907490351402,
+      "10year": 214.82270061050554
+    },
+    {
+      "name": "KLA Corporation",
+      "ticker": "KLAC",
+      "sharesOutstanding": 153280000,
+      "sharePrice": 431.24,
+      "netIncome": 2730000000,
+      "earningsYield": 1.041300767084442,
+      "10year": 646.369597033836
+    },
+    {
+      "name": "A. O. Smith Corporation",
+      "ticker": "AOS",
+      "sharesOutstanding": 134470000,
+      "sharePrice": 84.96,
+      "netIncome": 467500000,
+      "earningsYield": 1.0409205730189681,
+      "10year": 126.87919805706906
+    },
+    {
+      "name": "Intercontinental Exchange Inc.",
+      "ticker": "ICE",
+      "sharesOutstanding": 562770000,
+      "sharePrice": 134.07,
+      "netIncome": 3060000000,
+      "earningsYield": 1.040556351553477,
+      "10year": 199.52055965775892
+    },
+    {
+      "name": "Intuitive Surgical Inc.",
+      "ticker": "ISRG",
+      "sharesOutstanding": 118410000,
+      "sharePrice": 354.63,
+      "netIncome": 1690000000,
+      "earningsYield": 1.0402460119161105,
+      "10year": 526.1820962523377
+    },
+    {
+      "name": "Emerson Electric Co.",
+      "ticker": "EMR",
+      "sharesOutstanding": 599700000,
+      "sharePrice": 95.83,
+      "netIncome": 2300000000,
+      "earningsYield": 1.0400214020537697,
+      "10year": 141.88100406620669
+    },
+    {
+      "name": "Pentair plc",
+      "ticker": "PNR",
+      "sharesOutstanding": 166200000,
+      "sharePrice": 71.86,
+      "netIncome": 474300000,
+      "earningsYield": 1.03971320085887,
+      "10year": 106.07738223464786
+    },
+    {
+      "name": "Norfolk Southern Corporation",
+      "ticker": "NSC",
+      "sharesOutstanding": 250240000,
+      "sharePrice": 294.72,
+      "netIncome": 2910000000,
+      "earningsYield": 1.0394572350608562,
+      "10year": 433.9861532500335
+    },
+    {
+      "name": "CBRE Group Inc. Class A",
+      "ticker": "CBRE",
+      "sharesOutstanding": 335660000,
+      "sharePrice": 110.3,
+      "netIncome": 1460000000,
+      "earningsYield": 1.0394346284331557,
+      "10year": 162.38552866343622
+    },
+    {
+      "name": "Cognizant Technology Solutions Corporation Class A",
+      "ticker": "CTSH",
+      "sharesOutstanding": 527409999.99999994,
+      "sharePrice": 91.42,
+      "netIncome": 1880000000,
+      "earningsYield": 1.0389913500220267,
+      "10year": 134.0171987790071
+    },
+    {
+      "name": "Allegion PLC",
+      "ticker": "ALLE",
+      "sharesOutstanding": 89980000,
+      "sharePrice": 132.4,
+      "netIncome": 463500000,
+      "earningsYield": 1.0389059267282625,
+      "10year": 193.93233360992298
+    },
+    {
+      "name": "Lam Research Corporation",
+      "ticker": "LRCX",
+      "sharesOutstanding": 142620000,
+      "sharePrice": 712,
+      "netIncome": 3910000000,
+      "earningsYield": 1.0385049294187902,
+      "10year": 1038.8805533062405
+    },
+    {
+      "name": "Vertex Pharmaceuticals Incorporated",
+      "ticker": "VRTX",
+      "sharesOutstanding": 258870000,
+      "sharePrice": 221.86,
+      "netIncome": 2180000000,
+      "earningsYield": 1.0379573392310542,
+      "10year": 322.01347781433157
+    },
+    {
+      "name": "International Business Machines Corporation",
+      "ticker": "IBM",
+      "sharesOutstanding": 893520000,
+      "sharePrice": 138.02,
+      "netIncome": 4680000000,
+      "earningsYield": 1.0379489314806938,
+      "10year": 200.30965574748197
+    },
+    {
+      "name": "Simon Property Group Inc.",
+      "ticker": "SPG",
+      "sharesOutstanding": 328530000,
+      "sharePrice": 162.98,
+      "netIncome": 2009999999.9999998,
+      "earningsYield": 1.037539346698155,
+      "10year": 235.60259430814804
+    },
+    {
+      "name": "People&#39;s United Financial Inc.",
+      "ticker": "PBCT",
+      "sharesOutstanding": 422130000,
+      "sharePrice": 18.99,
+      "netIncome": 300500000,
+      "earningsYield": 1.037486361918886,
+      "10year": 27.43777747595586
+    },
+    {
+      "name": "PPG Industries Inc.",
+      "ticker": "PPG",
+      "sharesOutstanding": 237090000,
+      "sharePrice": 171.25,
+      "netIncome": 1520000000,
+      "earningsYield": 1.0374368906691938,
+      "10year": 247.3132884374998
+    },
+    {
+      "name": "News Corporation Class A",
+      "ticker": "NWSA",
+      "sharesOutstanding": 391090000,
+      "sharePrice": 22.59,
+      "netIncome": 330000000,
+      "earningsYield": 1.037352613801784,
+      "10year": 32.597199211735386
+    },
+    {
+      "name": "Moderna Inc.",
+      "ticker": "MRNA",
+      "sharesOutstanding": 401530000,
+      "sharePrice": 233.06,
+      "netIncome": 3490000000,
+      "earningsYield": 1.037294061790071,
+      "10year": 336.11404390009574
+    },
+    {
+      "name": "Colgate-Palmolive Company",
+      "ticker": "CL",
+      "sharesOutstanding": 845970000,
+      "sharePrice": 84.87,
+      "netIncome": 2660000000,
+      "earningsYield": 1.0370486572230224,
+      "10year": 122.10839902763554
+    },
+    {
+      "name": "Dominion Energy Inc",
+      "ticker": "D",
+      "sharesOutstanding": 806520000,
+      "sharePrice": 78.1,
+      "netIncome": 2320000000,
+      "earningsYield": 1.0368317038162027,
+      "10year": 112.1330714084339
+    },
+    {
+      "name": "Duke Energy Corporation",
+      "ticker": "DUK",
+      "sharesOutstanding": 769220000,
+      "sharePrice": 103.41,
+      "netIncome": 2880000000,
+      "earningsYield": 1.036205902879159,
+      "10year": 147.5785224350435
+    },
+    {
+      "name": "First Republic Bank",
+      "ticker": "FRC",
+      "sharesOutstanding": 176310000,
+      "sharePrice": 202.62,
+      "netIncome": 1290000000,
+      "earningsYield": 1.0361102465646266,
+      "10year": 288.89631190825344
+    },
+    {
+      "name": "Williams Companies Inc.",
+      "ticker": "WMB",
+      "sharesOutstanding": 1210000000,
+      "sharePrice": 26.74,
+      "netIncome": 1150000000,
+      "earningsYield": 1.035542753296204,
+      "10year": 37.91767861501375
+    },
+    {
+      "name": "Charter Communications Inc. Class A",
+      "ticker": "CHTR",
+      "sharesOutstanding": 188670000,
+      "sharePrice": 640.77,
+      "netIncome": 4290000000,
+      "earningsYield": 1.0354856097626204,
+      "10year": 908.119181160926
+    },
+    {
+      "name": "Schlumberger NV",
+      "ticker": "SLB",
+      "sharesOutstanding": 1400000000,
+      "sharePrice": 33.6,
+      "netIncome": 1650000000,
+      "earningsYield": 1.035076530612245,
+      "10year": 47.43117595235649
+    },
+    {
+      "name": "DuPont de Nemours Inc.",
+      "ticker": "DD",
+      "sharesOutstanding": 518100000,
+      "sharePrice": 83.36,
+      "netIncome": 1480000000,
+      "earningsYield": 1.0342681308975916,
+      "10year": 116.75866881087602
+    },
+    {
+      "name": "L3Harris Technologies Inc",
+      "ticker": "LHX",
+      "sharesOutstanding": 204980000,
+      "sharePrice": 214.01,
+      "netIncome": 1500000000,
+      "earningsYield": 1.0341936689929472,
+      "10year": 299.538613577203
+    },
+    {
+      "name": "Rockwell Automation Inc.",
+      "ticker": "ROK",
+      "sharesOutstanding": 116080000,
+      "sharePrice": 343.1,
+      "netIncome": 1360000000,
+      "earningsYield": 1.0341476475986873,
+      "10year": 480.0054870900089
+    },
+    {
+      "name": "EOG Resources Inc.",
+      "ticker": "EOG",
+      "sharesOutstanding": 583650000,
+      "sharePrice": 95.35,
+      "netIncome": 1880000000,
+      "earningsYield": 1.0337819458948894,
+      "10year": 132.92605950310875
+    },
+    {
+      "name": "Ross Stores Inc.",
+      "ticker": "ROST",
+      "sharesOutstanding": 357120000,
+      "sharePrice": 113.16,
+      "netIncome": 1340000000,
+      "earningsYield": 1.0331587145932235,
+      "10year": 156.80625098395745
+    },
+    {
+      "name": "Estee Lauder Companies Inc. Class A",
+      "ticker": "EL",
+      "sharesOutstanding": 233240000,
+      "sharePrice": 371.86,
+      "netIncome": 2870000000,
+      "earningsYield": 1.0330902005291978,
+      "10year": 514.9462326681991
+    },
+    {
+      "name": "Yum! Brands Inc.",
+      "ticker": "YUM",
+      "sharesOutstanding": 297900000,
+      "sharePrice": 137.26,
+      "netIncome": 1330000000,
+      "earningsYield": 1.0325264857303862,
+      "10year": 189.04099817795992
+    },
+    {
+      "name": "Marsh &amp; McLennan Companies Inc.",
+      "ticker": "MMC",
+      "sharesOutstanding": 508530000,
+      "sharePrice": 167.15,
+      "netIncome": 2710000000,
+      "earningsYield": 1.031882056813131,
+      "10year": 228.77416955032413
+    },
+    {
+      "name": "TE Connectivity Ltd.",
+      "ticker": "TEL",
+      "sharesOutstanding": 330220000,
+      "sharePrice": 164.13,
+      "netIncome": 1690000000,
+      "earningsYield": 1.0311813821627727,
+      "10year": 223.12005195707573
+    },
+    {
+      "name": "Otis Worldwide Corporation",
+      "ticker": "OTIS",
+      "sharesOutstanding": 429140000,
+      "sharePrice": 86.22,
+      "netIncome": 1150000000,
+      "earningsYield": 1.031080702400523,
+      "10year": 117.0939902217386
+    },
+    {
+      "name": "Altria Group Inc",
+      "ticker": "MO",
+      "sharesOutstanding": 1850000000,
+      "sharePrice": 49.03,
+      "netIncome": 2760000000,
+      "earningsYield": 1.030428143828103,
+      "10year": 66.16662955585606
+    },
+    {
+      "name": "AvalonBay Communities Inc.",
+      "ticker": "AVB",
+      "sharesOutstanding": 139600000,
+      "sharePrice": 255.12,
+      "netIncome": 1080000000,
+      "earningsYield": 1.0303245127187746,
+      "10year": 343.94169709657325
+    },
+    {
+      "name": "Eaton Corp. Plc",
+      "ticker": "ETN",
+      "sharesOutstanding": 398500000,
+      "sharePrice": 171.46,
+      "netIncome": 2069999999.9999998,
+      "earningsYield": 1.0302955750458715,
+      "10year": 231.09000684112954
+    },
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "sharesOutstanding": 3920000000,
+      "sharePrice": 24.31,
+      "netIncome": 2870000000,
+      "earningsYield": 1.0301169418816478,
+      "10year": 32.70771897639275
+    },
+    {
+      "name": "Monster Beverage Corporation",
+      "ticker": "MNST",
+      "sharesOutstanding": 528559999.99999994,
+      "sharePrice": 97.74,
+      "netIncome": 1530000000,
+      "earningsYield": 1.029615890953314,
+      "10year": 130.86535951318487
+    },
+    {
+      "name": "Air Products and Chemicals Inc.",
+      "ticker": "APD",
+      "sharesOutstanding": 221310000,
+      "sharePrice": 299.42,
+      "netIncome": 1960000000,
+      "earningsYield": 1.0295783693095493,
+      "10year": 400.75126678551624
+    },
+    {
+      "name": "NRG Energy Inc.",
+      "ticker": "NRG",
+      "sharesOutstanding": 244750000,
+      "sharePrice": 42.62,
+      "netIncome": 307000000,
+      "earningsYield": 1.0294308109914012,
+      "10year": 56.961979260359165
+    },
+    {
+      "name": "Pioneer Natural Resources Company",
+      "ticker": "PXD",
+      "sharesOutstanding": 244130000,
+      "sharePrice": 193.69,
+      "netIncome": 1390000000,
+      "earningsYield": 1.0293958789265971,
+      "10year": 258.780442904772
+    },
+    {
+      "name": "Moody&#39;s Corporation",
+      "ticker": "MCO",
+      "sharesOutstanding": 187200000,
+      "sharePrice": 386.27,
+      "netIncome": 2100000000,
+      "earningsYield": 1.0290417291478726,
+      "10year": 514.3051149445931
+    },
+    {
+      "name": "Trane Technologies plc",
+      "ticker": "TT",
+      "sharesOutstanding": 239150000,
+      "sharePrice": 195,
+      "netIncome": 1350000000,
+      "earningsYield": 1.0289486804226506,
+      "10year": 259.40106619670615
+    },
+    {
+      "name": "Ralph Lauren Corporation Class A",
+      "ticker": "RL",
+      "sharesOutstanding": 48610000,
+      "sharePrice": 124.17,
+      "netIncome": 171300000,
+      "earningsYield": 1.0283801744550696,
+      "10year": 164.26825227995548
+    },
+    {
+      "name": "Illinois Tool Works Inc.",
+      "ticker": "ITW",
+      "sharesOutstanding": 315880000,
+      "sharePrice": 247.58,
+      "netIncome": 2210000000,
+      "earningsYield": 1.0282588566095288,
+      "10year": 327.14489471471734
+    },
+    {
+      "name": "IPG Photonics Corporation",
+      "ticker": "IPGP",
+      "sharesOutstanding": 53640000,
+      "sharePrice": 174.56,
+      "netIncome": 262670000.00000003,
+      "earningsYield": 1.0280528488459917,
+      "10year": 230.1967258300172
+    },
+    {
+      "name": "Motorola Solutions Inc.",
+      "ticker": "MSI",
+      "sharesOutstanding": 169670000,
+      "sharePrice": 264.8,
+      "netIncome": 1260000000,
+      "earningsYield": 1.0280444872817804,
+      "10year": 349.1701155984503
+    },
+    {
+      "name": "Lamb Weston Holdings Inc.",
+      "ticker": "LW",
+      "sharesOutstanding": 146280000,
+      "sharePrice": 63.3,
+      "netIncome": 258300000,
+      "earningsYield": 1.0278956024089358,
+      "10year": 83.3477327394955
+    },
+    {
+      "name": "T-Mobile US Inc.",
+      "ticker": "TMUS",
+      "sharesOutstanding": 1250000000,
+      "sharePrice": 114.06,
+      "netIncome": 3910000000,
+      "earningsYield": 1.0274241627213747,
+      "10year": 149.4965322138017
+    },
+    {
+      "name": "Baxter International Inc.",
+      "ticker": "BAX",
+      "sharesOutstanding": 500690000,
+      "sharePrice": 88.52,
+      "netIncome": 1210000000,
+      "earningsYield": 1.0273007795108091,
+      "10year": 115.88242685812975
+    },
+    {
+      "name": "Arthur J. Gallagher &amp; Co.",
+      "ticker": "AJG",
+      "sharesOutstanding": 195890000,
+      "sharePrice": 167.43,
+      "netIncome": 891100000,
+      "earningsYield": 1.027169453331482,
+      "10year": 218.90426991598372
+    },
+    {
+      "name": "Paychex Inc.",
+      "ticker": "PAYX",
+      "sharesOutstanding": 360760000,
+      "sharePrice": 133.61,
+      "netIncome": 1280000000,
+      "earningsYield": 1.026555386540663,
+      "10year": 173.64521713836692
+    },
+    {
+      "name": "Analog Devices Inc.",
+      "ticker": "ADI",
+      "sharesOutstanding": 368830000,
+      "sharePrice": 175.55,
+      "netIncome": 1700000000,
+      "earningsYield": 1.0262555940535496,
+      "10year": 227.48680346649908
+    },
+    {
+      "name": "Johnson Controls International plc",
+      "ticker": "JCI",
+      "sharesOutstanding": 716720000,
+      "sharePrice": 80.34,
+      "netIncome": 1510000000,
+      "earningsYield": 1.0262237983269176,
+      "10year": 104.07649200037162
+    },
+    {
+      "name": "AMETEK Inc.",
+      "ticker": "AME",
+      "sharesOutstanding": 230920000,
+      "sharePrice": 146.09,
+      "netIncome": 876520000,
+      "earningsYield": 1.0259824315697654,
+      "10year": 188.80771267326412
+    },
+    {
+      "name": "Charles Schwab Corporation",
+      "ticker": "SCHW",
+      "sharesOutstanding": 1810000000,
+      "sharePrice": 89.96,
+      "netIncome": 4170000000,
+      "earningsYield": 1.0256099088852257,
+      "10year": 115.84346196780658
+    },
+    {
+      "name": "Becton Dickinson and Company",
+      "ticker": "BDX",
+      "sharesOutstanding": 290820000,
+      "sharePrice": 251.78,
+      "netIncome": 1860000000,
+      "earningsYield": 1.0254019726975336,
+      "10year": 323.5658772510728
+    },
+    {
+      "name": "Cintas Corporation",
+      "ticker": "CTAS",
+      "sharesOutstanding": 105050000,
+      "sharePrice": 425.11,
+      "netIncome": 1130000000,
+      "earningsYield": 1.0253035272859523,
+      "10year": 545.79032853552
+    },
+    {
+      "name": "S&amp;P Global Inc.",
+      "ticker": "SPGI",
+      "sharesOutstanding": 240900000,
+      "sharePrice": 459.82,
+      "netIncome": 2800000000,
+      "earningsYield": 1.0252774566487557,
+      "10year": 590.203718146103
+    },
+    {
+      "name": "Automatic Data Processing Inc.",
+      "ticker": "ADP",
+      "sharesOutstanding": 425520000,
+      "sharePrice": 245.15,
+      "netIncome": 2600000000,
+      "earningsYield": 1.0249242140925572,
+      "10year": 313.58077800134856
+    },
+    {
+      "name": "Amphenol Corporation Class A",
+      "ticker": "APH",
+      "sharesOutstanding": 597620000,
+      "sharePrice": 86.77,
+      "netIncome": 1290000000,
+      "earningsYield": 1.0248768272111546,
+      "10year": 110.93953329071019
+    },
+    {
+      "name": "NXP Semiconductors NV",
+      "ticker": "NXPI",
+      "sharesOutstanding": 275750000,
+      "sharePrice": 232.87,
+      "netIncome": 1580000000,
+      "earningsYield": 1.0246052636343042,
+      "10year": 296.94729217239205
+    },
+    {
+      "name": "Raytheon Technologies Corporation",
+      "ticker": "RTX",
+      "sharesOutstanding": 1520000000,
+      "sharePrice": 90.02,
+      "netIncome": 3360000000,
+      "earningsYield": 1.0245559466317427,
+      "10year": 114.73496622919008
+    },
+    {
+      "name": "Fastenal Company",
+      "ticker": "FAST",
+      "sharesOutstanding": 574460000,
+      "sharePrice": 62.33,
+      "netIncome": 867900000,
+      "earningsYield": 1.0242388922211276,
+      "10year": 79.19718670236038
+    },
+    {
+      "name": "CME Group Inc. Class A",
+      "ticker": "CME",
+      "sharesOutstanding": 359090000,
+      "sharePrice": 227.27,
+      "netIncome": 1920000000,
+      "earningsYield": 1.0235264178262178,
+      "10year": 286.7693139663614
+    },
+    {
+      "name": "Waste Management Inc.",
+      "ticker": "WM",
+      "sharesOutstanding": 422130000,
+      "sharePrice": 164.3,
+      "netIncome": 1600000000,
+      "earningsYield": 1.0230693948013898,
+      "10year": 206.3899246604083
+    },
+    {
+      "name": "Public Storage",
+      "ticker": "PSA",
+      "sharesOutstanding": 174980000,
+      "sharePrice": 365.03,
+      "netIncome": 1470000000,
+      "earningsYield": 1.0230144374701444,
+      "10year": 458.29612642358154
+    },
+    {
+      "name": "American Water Works Company Inc.",
+      "ticker": "AWK",
+      "sharesOutstanding": 181470000,
+      "sharePrice": 179.42,
+      "netIncome": 749000000,
+      "earningsYield": 1.023004146575739,
+      "10year": 225.23962358928347
+    },
+    {
+      "name": "Old Dominion Freight Line Inc.",
+      "ticker": "ODFL",
+      "sharesOutstanding": 115970000,
+      "sharePrice": 354.98,
+      "netIncome": 945400000,
+      "earningsYield": 1.022964979164662,
+      "10year": 445.46290570749846
+    },
+    {
+      "name": "Sherwin-Williams Company",
+      "ticker": "SHW",
+      "sharesOutstanding": 265950000,
+      "sharePrice": 335.72,
+      "netIncome": 1970000000,
+      "earningsYield": 1.0220642422477284,
+      "10year": 417.59871969367686
+    },
+    {
+      "name": "Global Payments Inc.",
+      "ticker": "GPN",
+      "sharesOutstanding": 295220000,
+      "sharePrice": 145.43,
+      "netIncome": 939650000,
+      "earningsYield": 1.021885997137093,
+      "10year": 180.58367411981772
+    },
+    {
+      "name": "Roper Technologies Inc.",
+      "ticker": "ROP",
+      "sharesOutstanding": 105240000,
+      "sharePrice": 470.16,
+      "netIncome": 1070000000.0000001,
+      "earningsYield": 1.0216250569850567,
+      "10year": 582.3191054548751
+    },
+    {
+      "name": "Autodesk Inc.",
+      "ticker": "ADSK",
+      "sharesOutstanding": 220010000,
+      "sharePrice": 278.19,
+      "netIncome": 1320000000,
+      "earningsYield": 1.0215670127794796,
+      "10year": 344.3579566504341
+    },
+    {
+      "name": "Agilent Technologies Inc.",
+      "ticker": "A",
+      "sharesOutstanding": 304700000,
+      "sharePrice": 151.19,
+      "netIncome": 990000000,
+      "earningsYield": 1.0214901612072504,
+      "10year": 187.01005008378831
+    },
+    {
+      "name": "Federal Realty Investment Trust",
+      "ticker": "FRT",
+      "sharesOutstanding": 77710000,
+      "sharePrice": 139.37,
+      "netIncome": 232100000,
+      "earningsYield": 1.0214303335910728,
+      "10year": 172.28870645477932
+    },
+    {
+      "name": "Aptiv PLC",
+      "ticker": "APTV",
+      "sharesOutstanding": 270460000,
+      "sharePrice": 172.21,
+      "netIncome": 992000000,
+      "earningsYield": 1.0212985609820506,
+      "10year": 212.6109199175334
+    },
+    {
+      "name": "Keysight Technologies Inc",
+      "ticker": "KEYS",
+      "sharesOutstanding": 184230000,
+      "sharePrice": 197.36,
+      "netIncome": 751000000,
+      "earningsYield": 1.0206547740493133,
+      "10year": 242.12958040833945
+    },
+    {
+      "name": "Electronic Arts Inc.",
+      "ticker": "EA",
+      "sharesOutstanding": 287630000,
+      "sharePrice": 135.76,
+      "netIncome": 785000000,
+      "earningsYield": 1.0201031283827675,
+      "10year": 165.6580800423516
+    },
+    {
+      "name": "Equifax Inc.",
+      "ticker": "EFX",
+      "sharesOutstanding": 121700000,
+      "sharePrice": 285.61,
+      "netIncome": 696500000,
+      "earningsYield": 1.0200381273922583,
+      "10year": 348.28715856380757
+    },
+    {
+      "name": "Rollins Inc.",
+      "ticker": "ROL",
+      "sharesOutstanding": 492120000,
+      "sharePrice": 33.89,
+      "netIncome": 333700000,
+      "earningsYield": 1.0200084581154798,
+      "10year": 41.31514670092558
+    },
+    {
+      "name": "Microchip Technology Incorporated",
+      "ticker": "MCHP",
+      "sharesOutstanding": 273530000,
+      "sharePrice": 87.47,
+      "netIncome": 478600000,
+      "earningsYield": 1.020003620295827,
+      "10year": 106.62922644446958
+    },
+    {
+      "name": "Stryker Corporation",
+      "ticker": "SYK",
+      "sharesOutstanding": 376750000,
+      "sharePrice": 277.77,
+      "netIncome": 2080000000,
+      "earningsYield": 1.0198758053613026,
+      "10year": 338.1880282685777
+    },
+    {
+      "name": "Mettler-Toledo International Inc.",
+      "ticker": "MTD",
+      "sharesOutstanding": 23270000,
+      "sharePrice": 1640.73,
+      "netIncome": 754410000,
+      "earningsYield": 1.0197594082445787,
+      "10year": 1995.3281375360377
+    },
+    {
+      "name": "NiSource Inc",
+      "ticker": "NI",
+      "sharesOutstanding": 392220000,
+      "sharePrice": 27.62,
+      "netIncome": 212200000,
+      "earningsYield": 1.0195880845515515,
+      "10year": 33.5329057709001
+    },
+    {
+      "name": "Exelon Corporation",
+      "ticker": "EXC",
+      "sharesOutstanding": 977170000,
+      "sharePrice": 57.01,
+      "netIncome": 1090000000,
+      "earningsYield": 1.0195661478837783,
+      "10year": 69.19984391352139
+    },
+    {
+      "name": "Verisk Analytics Inc",
+      "ticker": "VRSK",
+      "sharesOutstanding": 162090000,
+      "sharePrice": 221.73,
+      "netIncome": 700500000,
+      "earningsYield": 1.019490701053305,
+      "10year": 268.9410806358112
+    },
+    {
+      "name": "American Tower Corporation",
+      "ticker": "AMT",
+      "sharesOutstanding": 454700000,
+      "sharePrice": 282.77,
+      "netIncome": 2480000000,
+      "earningsYield": 1.0192882752431278,
+      "10year": 342.2974137778253
+    },
+    {
+      "name": "Edwards Lifesciences Corporation",
+      "ticker": "EW",
+      "sharesOutstanding": 621640000,
+      "sharePrice": 127.89,
+      "netIncome": 1480000000,
+      "earningsYield": 1.0186159916832604,
+      "10year": 153.79474205531082
+    },
+    {
+      "name": "Zoetis Inc. Class A",
+      "ticker": "ZTS",
+      "sharesOutstanding": 474770000,
+      "sharePrice": 225.12,
+      "netIncome": 1980000000,
+      "earningsYield": 1.0185254105534123,
+      "10year": 270.47850929988215
+    },
+    {
+      "name": "Juniper Networks Inc.",
+      "ticker": "JNPR",
+      "sharesOutstanding": 327740000,
+      "sharePrice": 34.98,
+      "netIncome": 207100000,
+      "earningsYield": 1.0180647037739234,
+      "10year": 41.83825982323262
+    },
+    {
+      "name": "ConocoPhillips",
+      "ticker": "COP",
+      "sharesOutstanding": 1350000000,
+      "sharePrice": 76.97,
+      "netIncome": 1850000000,
+      "earningsYield": 1.0178039544026292,
+      "10year": 91.82539925078964
+    },
+    {
+      "name": "Constellation Brands Inc. Class A",
+      "ticker": "STZ",
+      "sharesOutstanding": 169000000,
+      "sharePrice": 254.6,
+      "netIncome": 757200000,
+      "earningsYield": 1.0175980886597842,
+      "10year": 303.124629468313
+    },
+    {
+      "name": "Regency Centers Corporation",
+      "ticker": "REG",
+      "sharesOutstanding": 169860000,
+      "sharePrice": 77.86,
+      "netIncome": 227320000,
+      "earningsYield": 1.0171882684608522,
+      "10year": 92.3268091030562
+    },
+    {
+      "name": "TransDigm Group Incorporated",
+      "ticker": "TDG",
+      "sharesOutstanding": 54890000,
+      "sharePrice": 644.03,
+      "netIncome": 607000000,
+      "earningsYield": 1.0171707538430799,
+      "10year": 763.5627694932455
+    },
+    {
+      "name": "Ecolab Inc.",
+      "ticker": "ECL",
+      "sharesOutstanding": 285940000,
+      "sharePrice": 233.51,
+      "netIncome": 1130000000,
+      "earningsYield": 1.0169238063310653,
+      "10year": 276.17834789630353
+    },
+    {
+      "name": "Illumina Inc.",
+      "ticker": "ILMN",
+      "sharesOutstanding": 146000000,
+      "sharePrice": 372.36,
+      "netIncome": 907000000,
+      "earningsYield": 1.0166836630334173,
+      "10year": 439.3609671032779
+    },
+    {
+      "name": "West Pharmaceutical Services Inc.",
+      "ticker": "WST",
+      "sharesOutstanding": 73820000,
+      "sharePrice": 429,
+      "netIncome": 519200000.00000006,
+      "earningsYield": 1.0163946953434897,
+      "10year": 504.7556510102115
+    },
+    {
+      "name": "TJX Companies Inc",
+      "ticker": "TJX",
+      "sharesOutstanding": 1210000000,
+      "sharePrice": 76.72,
+      "netIncome": 1510000000,
+      "earningsYield": 1.0162660829548686,
+      "10year": 90.15356607376158
+    },
+    {
+      "name": "Nielsen Holdings Plc",
+      "ticker": "NLSN",
+      "sharesOutstanding": 358500000,
+      "sharePrice": 21.39,
+      "netIncome": 121000000,
+      "earningsYield": 1.0157792161641768,
+      "10year": 25.01520172980595
+    },
+    {
+      "name": "Fiserv Inc.",
+      "ticker": "FISV",
+      "sharesOutstanding": 666770000,
+      "sharePrice": 109,
+      "netIncome": 1140000000,
+      "earningsYield": 1.015685642119967,
+      "10year": 127.35606454895945
+    },
+    {
+      "name": "Centene Corporation",
+      "ticker": "CNC",
+      "sharesOutstanding": 582730000,
+      "sharePrice": 81.08,
+      "netIncome": 736000000,
+      "earningsYield": 1.0155774618881097,
+      "10year": 94.63336490441014
+    },
+    {
+      "name": "Chipotle Mexican Grill Inc.",
+      "ticker": "CMG",
+      "sharesOutstanding": 28150000,
+      "sharePrice": 1647.32,
+      "netIncome": 710470000,
+      "earningsYield": 1.0153210797761014,
+      "10year": 1917.8383592438363
+    },
+    {
+      "name": "Match Group Inc.",
+      "ticker": "MTCH",
+      "sharesOutstanding": 276490000,
+      "sharePrice": 132.97,
+      "netIncome": 561110000,
+      "earningsYield": 1.0152621216697013,
+      "10year": 154.71609773277373
+    },
+    {
+      "name": "Align Technology Inc.",
+      "ticker": "ALGN",
+      "sharesOutstanding": 79140000,
+      "sharePrice": 623.5,
+      "netIncome": 740050000,
+      "earningsYield": 1.0149978345806028,
+      "10year": 723.5817671974715
+    },
+    {
+      "name": "Crown Castle International Corp",
+      "ticker": "CCI",
+      "sharesOutstanding": 432190000,
+      "sharePrice": 202.15,
+      "netIncome": 1310000000,
+      "earningsYield": 1.0149941840021133,
+      "10year": 234.58988524409105
+    },
+    {
+      "name": "IDEXX Laboratories Inc.",
+      "ticker": "IDXX",
+      "sharesOutstanding": 85280000,
+      "sharePrice": 605.42,
+      "netIncome": 756860000,
+      "earningsYield": 1.0146592448217766,
+      "10year": 700.2593731265233
+    },
+    {
+      "name": "Xilinx Inc.",
+      "ticker": "XLNX",
+      "sharesOutstanding": 245880000,
+      "sharePrice": 214.89,
+      "netIncome": 759010000,
+      "earningsYield": 1.0143650812739093,
+      "10year": 247.8329870612874
+    },
+    {
+      "name": "MSCI Inc. Class A",
+      "ticker": "MSCI",
+      "sharesOutstanding": 82420000,
+      "sharePrice": 591.13,
+      "netIncome": 688330000,
+      "earningsYield": 1.0141280130533457,
+      "10year": 680.1595394773548
+    },
+    {
+      "name": "Digital Realty Trust Inc.",
+      "ticker": "DLR",
+      "sharesOutstanding": 281590000,
+      "sharePrice": 169.09,
+      "netIncome": 668050000,
+      "earningsYield": 1.014030521589854,
+      "10year": 194.36953496111585
+    },
+    {
+      "name": "Synopsys Inc.",
+      "ticker": "SNPS",
+      "sharesOutstanding": 152580000,
+      "sharePrice": 352.99,
+      "netIncome": 753520000,
+      "earningsYield": 1.0139905494573667,
+      "10year": 405.6032960329945
+    },
+    {
+      "name": "Cadence Design Systems Inc.",
+      "ticker": "CDNS",
+      "sharesOutstanding": 278260000,
+      "sharePrice": 178.3,
+      "netIncome": 693110000,
+      "earningsYield": 1.0139701169179727,
+      "10year": 204.83440398510078
+    },
+    {
+      "name": "Aon Plc Class A",
+      "ticker": "AON",
+      "sharesOutstanding": 225650000,
+      "sharePrice": 294.27,
+      "netIncome": 915000000,
+      "earningsYield": 1.0137797001388158,
+      "10year": 337.4286047445496
+    },
+    {
+      "name": "ANSYS Inc.",
+      "ticker": "ANSS",
+      "sharesOutstanding": 87150000,
+      "sharePrice": 391.1,
+      "netIncome": 467090000,
+      "earningsYield": 1.0137039372744658,
+      "10year": 448.12497536315345
+    },
+    {
+      "name": "ResMed Inc.",
+      "ticker": "RMD",
+      "sharesOutstanding": 145520000,
+      "sharePrice": 253.44,
+      "netIncome": 499750000,
+      "earningsYield": 1.0135504886516344,
+      "10year": 289.9539527219659
+    },
+    {
+      "name": "Realty Income Corporation",
+      "ticker": "O",
+      "sharesOutstanding": 373570000,
+      "sharePrice": 72.25,
+      "netIncome": 361250000,
+      "earningsYield": 1.013384372406778,
+      "10year": 82.52392546022516
+    },
+    {
+      "name": "Prologis Inc.",
+      "ticker": "PLD",
+      "sharesOutstanding": 739770000,
+      "sharePrice": 161,
+      "netIncome": 1540000000,
+      "earningsYield": 1.0129299882278335,
+      "10year": 183.07125722104786
+    },
+    {
+      "name": "EPAM Systems Inc.",
+      "ticker": "EPAM",
+      "sharesOutstanding": 56400000,
+      "sharePrice": 618.71,
+      "netIncome": 424910000,
+      "earningsYield": 1.0121767310181295,
+      "10year": 698.3138024503917
+    },
+    {
+      "name": "Welltower Inc.",
+      "ticker": "WELL",
+      "sharesOutstanding": 417520000,
+      "sharePrice": 88.14,
+      "netIncome": 441200000,
+      "earningsYield": 1.0119890611067337,
+      "10year": 99.29587959232528
+    },
+    {
+      "name": "IQVIA Holdings Inc",
+      "ticker": "IQV",
+      "sharesOutstanding": 191660000,
+      "sharePrice": 268.17,
+      "netIncome": 607000000,
+      "earningsYield": 1.0118099216190484,
+      "10year": 301.5779113243531
+    },
+    {
+      "name": "IHS Markit Ltd.",
+      "ticker": "INFO",
+      "sharesOutstanding": 423740000,
+      "sharePrice": 129.58,
+      "netIncome": 620700000,
+      "earningsYield": 1.0113043164757534,
+      "10year": 144.99618803141644
+    },
+    {
+      "name": "DexCom Inc.",
+      "ticker": "DXCM",
+      "sharesOutstanding": 96710000,
+      "sharePrice": 512.27,
+      "netIncome": 530600000,
+      "earningsYield": 1.0107101841782897,
+      "10year": 569.8562829615676
+    },
+    {
+      "name": "Fortinet Inc.",
+      "ticker": "FTNT",
+      "sharesOutstanding": 163320000,
+      "sharePrice": 322.14,
+      "netIncome": 554500000,
+      "earningsYield": 1.0105394397353202,
+      "10year": 357.748098719912
+    },
+    {
+      "name": "Boston Scientific Corporation",
+      "ticker": "BSX",
+      "sharesOutstanding": 1420000000,
+      "sharePrice": 43.64,
+      "netIncome": 526000000,
+      "earningsYield": 1.0084881424200565,
+      "10year": 47.48896498733396
+    },
+    {
+      "name": "PVH Corp.",
+      "ticker": "PVH",
+      "sharesOutstanding": 71360000,
+      "sharePrice": 111.53,
+      "netIncome": 60600000,
+      "earningsYield": 1.0076142315667245,
+      "10year": 120.31911553056538
+    },
+    {
+      "name": "SBA Communications Corp. Class A",
+      "ticker": "SBAC",
+      "sharesOutstanding": 109340000,
+      "sharePrice": 369.46,
+      "netIncome": 294500000,
+      "earningsYield": 1.0072901892687602,
+      "10year": 397.2953357974287
+    },
+    {
+      "name": "Equinix Inc.",
+      "ticker": "EQIX",
+      "sharesOutstanding": 89580000,
+      "sharePrice": 814.63,
+      "netIncome": 427910000,
+      "earningsYield": 1.0058638246941618,
+      "10year": 863.6788655381501
+    },
+    {
+      "name": "AT&amp;T Inc.",
+      "ticker": "T",
+      "sharesOutstanding": 7140000000,
+      "sharePrice": 25.64,
+      "netIncome": 944000000,
+      "earningsYield": 1.0051565087813596,
+      "10year": 26.99323360090435
+    },
+    {
+      "name": "Booking Holdings Inc.",
+      "ticker": "BKNG",
+      "sharesOutstanding": 41050000,
+      "sharePrice": 2464.93,
+      "netIncome": 382000000,
+      "earningsYield": 1.0037752490845355,
+      "10year": 2559.5841827677605
+    },
+    {
+      "name": "International Flavors &amp; Fragrances Inc.",
+      "ticker": "IFF",
+      "sharesOutstanding": 248850000,
+      "sharePrice": 149.68,
+      "netIncome": 135030000,
+      "earningsYield": 1.003625173929418,
+      "10year": 155.1955399972077
+    },
+    {
+      "name": "ServiceNow Inc.",
+      "ticker": "NOW",
+      "sharesOutstanding": 197450000,
+      "sharePrice": 603.94,
+      "netIncome": 220500000,
+      "earningsYield": 1.0018490883445186,
+      "10year": 615.2007664857982
+    },
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "sharesOutstanding": 8780000000,
+      "sharePrice": 99.37,
+      "netIncome": 1460000000,
+      "earningsYield": 1.0016734126592064,
+      "10year": 101.04544820793275
+    },
+    {
+      "name": "Fidelity National Information Services Inc.",
+      "ticker": "FIS",
+      "sharesOutstanding": 622120000,
+      "sharePrice": 114.51,
+      "netIncome": 91000000,
+      "earningsYield": 1.001277390889299,
+      "10year": 115.9811772231224
+    },
+    {
+      "name": "Hilton Worldwide Holdings Inc",
+      "ticker": "HLT",
+      "sharesOutstanding": 278720000,
+      "sharePrice": 155.31,
+      "netIncome": 39000000,
+      "earningsYield": 1.0009009424578863,
+      "10year": 156.7149402940326
+    },
+    {
+      "name": "Twitter Inc.",
+      "ticker": "TWTR",
+      "sharesOutstanding": 798130000,
+      "sharePrice": 40.85,
+      "netIncome": -180990000,
+      "earningsYield": 0.9944487743159611,
+      "10year": 38.638141537193334
+    },
+    {
+      "name": "Marriott International Inc. Class A",
+      "ticker": "MAR",
+      "sharesOutstanding": 325640000,
+      "sharePrice": 168.01,
+      "netIncome": -309000000,
+      "earningsYield": 0.9943521181688074,
+      "10year": 158.7585647021168
+    },
+    {
+      "name": "Sysco Corporation",
+      "ticker": "SYY",
+      "sharesOutstanding": 511580000,
+      "sharePrice": 80.88,
+      "netIncome": -245300000,
+      "earningsYield": 0.9940715269762779,
+      "10year": 76.21096979183382
+    },
+    {
+      "name": "Vornado Realty Trust",
+      "ticker": "VNO",
+      "sharesOutstanding": 191460000,
+      "sharePrice": 45.31,
+      "netIncome": -119350000,
+      "earningsYield": 0.9862421583472589,
+      "10year": 39.44842728070738
+    },
+    {
+      "name": "Walgreens Boots Alliance Inc",
+      "ticker": "WBA",
+      "sharesOutstanding": 864390000,
+      "sharePrice": 53.48,
+      "netIncome": -649000000,
+      "earningsYield": 0.9859607611017088,
+      "10year": 46.42882710290094
+    },
+    {
+      "name": "Public Service Enterprise Group Inc",
+      "ticker": "PEG",
+      "sharesOutstanding": 505090000,
+      "sharePrice": 65.99,
+      "netIncome": -662000000,
+      "earningsYield": 0.980138543618988,
+      "10year": 53.99490837130852
+    },
+    {
+      "name": "Exxon Mobil Corporation",
+      "ticker": "XOM",
+      "sharesOutstanding": 4230000000.0000005,
+      "sharePrice": 65.93,
+      "netIncome": -5900000000,
+      "earningsYield": 0.9788442430703242,
+      "10year": 53.237663274936594
+    },
+    {
+      "name": "Marathon Petroleum Corporation",
+      "ticker": "MPC",
+      "sharesOutstanding": 651970000,
+      "sharePrice": 67.81,
+      "netIncome": -1480000000,
+      "earningsYield": 0.9665234758864084,
+      "10year": 48.24116809100697
+    },
+    {
+      "name": "Bristol-Myers Squibb Company",
+      "ticker": "BMY",
+      "sharesOutstanding": 2230000000,
+      "sharePrice": 62.13,
+      "netIncome": -5080000000,
+      "earningsYield": 0.9633345098047708,
+      "10year": 42.763430557746155
+    },
+    {
+      "name": "Phillips 66",
+      "ticker": "PSX",
+      "sharesOutstanding": 437870000,
+      "sharePrice": 78.57,
+      "netIncome": -1710000000,
+      "earningsYield": 0.9502956766316248,
+      "10year": 47.189381764237936
+    },
+    {
+      "name": "Molson Coors Beverage Company Class B",
+      "ticker": "TAP",
+      "sharesOutstanding": 200530000,
+      "sharePrice": 48.9,
+      "netIncome": -554300000,
+      "earningsYield": 0.9434729051857159,
+      "10year": 27.327706487200963
+    },
+    {
+      "name": "WestRock Company",
+      "ticker": "WRK",
+      "sharesOutstanding": 263519999.99999997,
+      "sharePrice": 45.77,
+      "netIncome": -713100000,
+      "earningsYield": 0.9408770708695134,
+      "10year": 24.883402337114514
+    },
+    {
+      "name": "Lumen Technologies Inc.",
+      "ticker": "LUMN",
+      "sharesOutstanding": 1110000000,
+      "sharePrice": 12.85,
+      "netIncome": -942000000,
+      "earningsYield": 0.933957303607109,
+      "10year": 6.488933961087396
+    },
+    {
+      "name": "Boeing Company",
+      "ticker": "BA",
+      "sharesOutstanding": 584810000,
+      "sharePrice": 213.63,
+      "netIncome": -8480000000,
+      "earningsYield": 0.9321235966902803,
+      "10year": 105.77846565944195
+    },
+    {
+      "name": "McKesson Corporation",
+      "ticker": "MCK",
+      "sharesOutstanding": 159170000,
+      "sharePrice": 248,
+      "netIncome": -4800000000,
+      "earningsYield": 0.8784014656676672,
+      "10year": 67.82381246174604
+    },
+    {
+      "name": "Wynn Resorts Limited",
+      "ticker": "WYNN",
+      "sharesOutstanding": 115660000,
+      "sharePrice": 87.49,
+      "netIncome": -1440000000,
+      "earningsYield": 0.8576947614694415,
+      "10year": 18.84889920514761
+    },
+    {
+      "name": "Alaska Air Group Inc.",
+      "ticker": "ALK",
+      "sharesOutstanding": 124440000,
+      "sharePrice": 55.45,
+      "netIncome": -1220000000,
+      "earningsYield": 0.8231934793755193,
+      "10year": 7.923567593789979
+    },
+    {
+      "name": "Royal Caribbean Group",
+      "ticker": "RCL",
+      "sharesOutstanding": 254570000,
+      "sharePrice": 82.38,
+      "netIncome": -5480000000,
+      "earningsYield": 0.7386926965362086,
+      "10year": 3.9852891726790602
+    },
+    {
+      "name": "American Airlines Group Inc.",
+      "ticker": "AAL",
+      "sharesOutstanding": 641380000,
+      "sharePrice": 19.02,
+      "netIncome": -3240000000,
+      "earningsYield": 0.7344054957208299,
+      "10year": 0.8680998753955662
+    },
+    {
+      "name": "Norwegian Cruise Line Holdings Ltd.",
+      "ticker": "NCLH",
+      "sharesOutstanding": 369930000,
+      "sharePrice": 22.47,
+      "netIncome": -3670000000,
+      "earningsYield": 0.5584870571322921,
+      "10year": 0.06633369673022202
+    },
+    {
+      "name": "Organon &amp; Co.",
+      "ticker": "OGN",
+      "sharesOutstanding": null,
+      "sharePrice": 31.52,
+      "netIncome": 1430000000,
+      "earningsYield": null,
+      "10year": null
+    }
+  ]

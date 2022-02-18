@@ -1,0 +1,2529 @@
+{
+    "stocks":[
+       {
+          "name":"Apple Inc.",
+          "ticker":"AAPL",
+          "sharesOutstanding":16406400000
+       },
+       {
+          "name":"Microsoft Corporation",
+          "ticker":"MSFT",
+          "sharesOutstanding":7507979776
+       },
+       {
+          "name":"Amazon.com Inc.",
+          "ticker":"AMZN",
+          "sharesOutstanding":507148000
+       },
+       {
+          "name":"Tesla Inc",
+          "ticker":"TSLA",
+          "sharesOutstanding":1004259968
+       },
+       {
+          "name":"Alphabet Inc. Class A",
+          "ticker":"GOOGL",
+          "sharesOutstanding":300809984
+       },
+       {
+          "name":"Alphabet Inc. Class C",
+          "ticker":"GOOG",
+          "sharesOutstanding":317737984
+       },
+       {
+          "name":"Meta Platforms Inc. Class A",
+          "ticker":"FB",
+          "sharesOutstanding":2366279936
+       },
+       {
+          "name":"NVIDIA Corporation",
+          "ticker":"NVDA",
+          "sharesOutstanding":2492000000
+       },
+       {
+          "name":"Berkshire Hathaway Inc. Class B",
+          "ticker":"BRK.B",
+          "sharesOutstanding":0
+       },
+       {
+          "name":"JPMorgan Chase &amp; Co.",
+          "ticker":"JPM",
+          "sharesOutstanding":2955269888
+       },
+       {
+          "name":"UnitedHealth Group Incorporated",
+          "ticker":"UNH",
+          "sharesOutstanding":941851008
+       },
+       {
+          "name":"Johnson &amp; Johnson",
+          "ticker":"JNJ",
+          "sharesOutstanding":2632600064
+       },
+       {
+          "name":"Home Depot Inc.",
+          "ticker":"HD",
+          "sharesOutstanding":1044240000
+       },
+       {
+          "name":"Procter &amp; Gamble Company",
+          "ticker":"PG",
+          "sharesOutstanding":2419950080
+       },
+       {
+          "name":"Visa Inc. Class A",
+          "ticker":"V",
+          "sharesOutstanding":1667420032
+       },
+       {
+          "name":"Bank of America Corp",
+          "ticker":"BAC",
+          "sharesOutstanding":8184079872
+       },
+       {
+          "name":"Mastercard Incorporated Class A",
+          "ticker":"MA",
+          "sharesOutstanding":974708992
+       },
+       {
+          "name":"Pfizer Inc.",
+          "ticker":"PFE",
+          "sharesOutstanding":5612870144
+       },
+       {
+          "name":"Walt Disney Company",
+          "ticker":"DIS",
+          "sharesOutstanding":1817660032
+       },
+       {
+          "name":"Broadcom Inc.",
+          "ticker":"AVGO",
+          "sharesOutstanding":412873984
+       },
+       {
+          "name":"Exxon Mobil Corporation",
+          "ticker":"XOM",
+          "sharesOutstanding":4233540096
+       },
+       {
+          "name":"Adobe Inc.",
+          "ticker":"ADBE",
+          "sharesOutstanding":475800000
+       },
+       {
+          "name":"Cisco Systems Inc.",
+          "ticker":"CSCO",
+          "sharesOutstanding":4217609984
+       },
+       {
+          "name":"Netflix Inc.",
+          "ticker":"NFLX",
+          "sharesOutstanding":442952000
+       },
+       {
+          "name":"Accenture Plc Class A",
+          "ticker":"ACN",
+          "sharesOutstanding":632001024
+       },
+       {
+          "name":"Thermo Fisher Scientific Inc.",
+          "ticker":"TMO",
+          "sharesOutstanding":394048000
+       },
+       {
+          "name":"Costco Wholesale Corporation",
+          "ticker":"COST",
+          "sharesOutstanding":443432000
+       },
+       {
+          "name":"salesforce.com inc.",
+          "ticker":"CRM",
+          "sharesOutstanding":985000000
+       },
+       {
+          "name":"Abbott Laboratories",
+          "ticker":"ABT",
+          "sharesOutstanding":1768290048
+       },
+       {
+          "name":"AbbVie Inc.",
+          "ticker":"ABBV",
+          "sharesOutstanding":1767879936
+       },
+       {
+          "name":"PepsiCo Inc.",
+          "ticker":"PEP",
+          "sharesOutstanding":1382649984
+       },
+       {
+          "name":"Comcast Corporation Class A",
+          "ticker":"CMCSA",
+          "sharesOutstanding":4559479808
+       },
+       {
+          "name":"Coca-Cola Company",
+          "ticker":"KO",
+          "sharesOutstanding":4319419904
+       },
+       {
+          "name":"Chevron Corporation",
+          "ticker":"CVX",
+          "sharesOutstanding":1927689984
+       },
+       {
+          "name":"PayPal Holdings Inc.",
+          "ticker":"PYPL",
+          "sharesOutstanding":1174930048
+       },
+       {
+          "name":"Verizon Communications Inc.",
+          "ticker":"VZ",
+          "sharesOutstanding":4197760000
+       },
+       {
+          "name":"Intel Corporation",
+          "ticker":"INTC",
+          "sharesOutstanding":4067000064
+       },
+       {
+          "name":"Eli Lilly and Company",
+          "ticker":"LLY",
+          "sharesOutstanding":956592000
+       },
+       {
+          "name":"NIKE Inc. Class B",
+          "ticker":"NKE",
+          "sharesOutstanding":1277810048
+       },
+       {
+          "name":"Qualcomm Inc",
+          "ticker":"QCOM",
+          "sharesOutstanding":1120000000
+       },
+       {
+          "name":"Walmart Inc.",
+          "ticker":"WMT",
+          "sharesOutstanding":2773880064
+       },
+       {
+          "name":"Wells Fargo &amp; Company",
+          "ticker":"WFC",
+          "sharesOutstanding":3987229952
+       },
+       {
+          "name":"Danaher Corporation",
+          "ticker":"DHR",
+          "sharesOutstanding":714577024
+       },
+       {
+          "name":"McDonald&#39;s Corporation",
+          "ticker":"MCD",
+          "sharesOutstanding":747244992
+       },
+       {
+          "name":"Merck &amp; Co. Inc.",
+          "ticker":"MRK",
+          "sharesOutstanding":2525939968
+       },
+       {
+          "name":"Advanced Micro Devices Inc.",
+          "ticker":"AMD",
+          "sharesOutstanding":1207609984
+       },
+       {
+          "name":"AT&amp;T Inc.",
+          "ticker":"T",
+          "sharesOutstanding":7141000192
+       },
+       {
+          "name":"NextEra Energy Inc.",
+          "ticker":"NEE",
+          "sharesOutstanding":1962140032
+       },
+       {
+          "name":"Intuit Inc.",
+          "ticker":"INTU",
+          "sharesOutstanding":283167008
+       },
+       {
+          "name":"Lowe&#39;s Companies Inc.",
+          "ticker":"LOW",
+          "sharesOutstanding":673747008
+       },
+       {
+          "name":"Texas Instruments Incorporated",
+          "ticker":"TXN",
+          "sharesOutstanding":923526016
+       },
+       {
+          "name":"Linde plc",
+          "ticker":"LIN",
+          "sharesOutstanding":512555008
+       },
+       {
+          "name":"Union Pacific Corporation",
+          "ticker":"UNP",
+          "sharesOutstanding":642876032
+       },
+       {
+          "name":"United Parcel Service Inc. Class B",
+          "ticker":"UPS",
+          "sharesOutstanding":729158016
+       },
+       {
+          "name":"Philip Morris International Inc.",
+          "ticker":"PM",
+          "sharesOutstanding":1556829952
+       },
+       {
+          "name":"Applied Materials Inc.",
+          "ticker":"AMAT",
+          "sharesOutstanding":888513024
+       },
+       {
+          "name":"Morgan Stanley",
+          "ticker":"MS",
+          "sharesOutstanding":1794409984
+       },
+       {
+          "name":"Medtronic Plc",
+          "ticker":"MDT",
+          "sharesOutstanding":1344560000
+       },
+       {
+          "name":"Honeywell International Inc.",
+          "ticker":"HON",
+          "sharesOutstanding":688422976
+       },
+       {
+          "name":"Oracle Corporation",
+          "ticker":"ORCL",
+          "sharesOutstanding":2670449920
+       },
+       {
+          "name":"Starbucks Corporation",
+          "ticker":"SBUX",
+          "sharesOutstanding":1173200000
+       },
+       {
+          "name":"Bristol-Myers Squibb Company",
+          "ticker":"BMY",
+          "sharesOutstanding":2219640064
+       },
+       {
+          "name":"CVS Health Corporation",
+          "ticker":"CVS",
+          "sharesOutstanding":1320060032
+       },
+       {
+          "name":"Goldman Sachs Group Inc.",
+          "ticker":"GS",
+          "sharesOutstanding":333577984
+       },
+       {
+          "name":"Raytheon Technologies Corporation",
+          "ticker":"RTX",
+          "sharesOutstanding":1496780032
+       },
+       {
+          "name":"BlackRock Inc.",
+          "ticker":"BLK",
+          "sharesOutstanding":151916992
+       },
+       {
+          "name":"American Tower Corporation",
+          "ticker":"AMT",
+          "sharesOutstanding":455414016
+       },
+       {
+          "name":"Charles Schwab Corporation",
+          "ticker":"SCHW",
+          "sharesOutstanding":1811309952
+       },
+       {
+          "name":"Amgen Inc.",
+          "ticker":"AMGN",
+          "sharesOutstanding":563265984
+       },
+       {
+          "name":"Intuitive Surgical Inc.",
+          "ticker":"ISRG",
+          "sharesOutstanding":357236992
+       },
+       {
+          "name":"ServiceNow Inc.",
+          "ticker":"NOW",
+          "sharesOutstanding":199000000
+       },
+       {
+          "name":"Citigroup Inc.",
+          "ticker":"C",
+          "sharesOutstanding":1984269952
+       },
+       {
+          "name":"International Business Machines Corporation",
+          "ticker":"IBM",
+          "sharesOutstanding":896320000
+       },
+       {
+          "name":"Prologis Inc.",
+          "ticker":"PLD",
+          "sharesOutstanding":739326976
+       },
+       {
+          "name":"Boeing Company",
+          "ticker":"BA",
+          "sharesOutstanding":587699008
+       },
+       {
+          "name":"Target Corporation",
+          "ticker":"TGT",
+          "sharesOutstanding":479124000
+       },
+       {
+          "name":"Anthem Inc.",
+          "ticker":"ANTM",
+          "sharesOutstanding":242715008
+       },
+       {
+          "name":"Caterpillar Inc.",
+          "ticker":"CAT",
+          "sharesOutstanding":540942016
+       },
+       {
+          "name":"S&amp;P Global Inc.",
+          "ticker":"SPGI",
+          "sharesOutstanding":241000000
+       },
+       {
+          "name":"Zoetis Inc. Class A",
+          "ticker":"ZTS",
+          "sharesOutstanding":473126016
+       },
+       {
+          "name":"Micron Technology Inc.",
+          "ticker":"MU",
+          "sharesOutstanding":1120169984
+       },
+       {
+          "name":"American Express Company",
+          "ticker":"AXP",
+          "sharesOutstanding":774556032
+       },
+       {
+          "name":"General Electric Company",
+          "ticker":"GE",
+          "sharesOutstanding":1098140032
+       },
+       {
+          "name":"Automatic Data Processing Inc.",
+          "ticker":"ADP",
+          "sharesOutstanding":421384000
+       },
+       {
+          "name":"3M Company",
+          "ticker":"MMM",
+          "sharesOutstanding":576252992
+       },
+       {
+          "name":"Lam Research Corporation",
+          "ticker":"LRCX",
+          "sharesOutstanding":140799008
+       },
+       {
+          "name":"Booking Holdings Inc.",
+          "ticker":"BKNG",
+          "sharesOutstanding":41059800
+       },
+       {
+          "name":"Deere &amp; Company",
+          "ticker":"DE",
+          "sharesOutstanding":307407008
+       },
+       {
+          "name":"ConocoPhillips",
+          "ticker":"COP",
+          "sharesOutstanding":1318950016
+       },
+       {
+          "name":"Analog Devices Inc.",
+          "ticker":"ADI",
+          "sharesOutstanding":525331008
+       },
+       {
+          "name":"Mondelez International Inc. Class A",
+          "ticker":"MDLZ",
+          "sharesOutstanding":1394969984
+       },
+       {
+          "name":"TJX Companies Inc",
+          "ticker":"TJX",
+          "sharesOutstanding":1192880000
+       },
+       {
+          "name":"Gilead Sciences Inc.",
+          "ticker":"GILD",
+          "sharesOutstanding":1254380032
+       },
+       {
+          "name":"Stryker Corporation",
+          "ticker":"SYK",
+          "sharesOutstanding":377240000
+       },
+       {
+          "name":"Crown Castle International Corp",
+          "ticker":"CCI",
+          "sharesOutstanding":432203008
+       },
+       {
+          "name":"General Motors Company",
+          "ticker":"GM",
+          "sharesOutstanding":1451859968
+       },
+       {
+          "name":"PNC Financial Services Group Inc.",
+          "ticker":"PNC",
+          "sharesOutstanding":422640992
+       },
+       {
+          "name":"Altria Group Inc",
+          "ticker":"MO",
+          "sharesOutstanding":1836989952
+       },
+       {
+          "name":"Lockheed Martin Corporation",
+          "ticker":"LMT",
+          "sharesOutstanding":275785984
+       },
+       {
+          "name":"Estee Lauder Companies Inc. Class A",
+          "ticker":"EL",
+          "sharesOutstanding":231704992
+       },
+       {
+          "name":"Ford Motor Company",
+          "ticker":"F",
+          "sharesOutstanding":3925390080
+       },
+       {
+          "name":"Marsh &amp; McLennan Companies Inc.",
+          "ticker":"MMC",
+          "sharesOutstanding":504895008
+       },
+       {
+          "name":"Moderna Inc.",
+          "ticker":"MRNA",
+          "sharesOutstanding":405449984
+       },
+       {
+          "name":"Chubb Limited",
+          "ticker":"CB",
+          "sharesOutstanding":430740992
+       },
+       {
+          "name":"CSX Corporation",
+          "ticker":"CSX",
+          "sharesOutstanding":2217979904
+       },
+       {
+          "name":"Sherwin-Williams Company",
+          "ticker":"SHW",
+          "sharesOutstanding":262196000
+       },
+       {
+          "name":"CME Group Inc. Class A",
+          "ticker":"CME",
+          "sharesOutstanding":359396000
+       },
+       {
+          "name":"Truist Financial Corporation",
+          "ticker":"TFC",
+          "sharesOutstanding":1334889984
+       },
+       {
+          "name":"Charter Communications Inc. Class A",
+          "ticker":"CHTR",
+          "sharesOutstanding":179291008
+       },
+       {
+          "name":"Edwards Lifesciences Corporation",
+          "ticker":"EW",
+          "sharesOutstanding":624334016
+       },
+       {
+          "name":"Duke Energy Corporation",
+          "ticker":"DUK",
+          "sharesOutstanding":769342976
+       },
+       {
+          "name":"Cigna Corporation",
+          "ticker":"CI",
+          "sharesOutstanding":331428000
+       },
+       {
+          "name":"U.S. Bancorp",
+          "ticker":"USB",
+          "sharesOutstanding":1482800000
+       },
+       {
+          "name":"Intercontinental Exchange Inc.",
+          "ticker":"ICE",
+          "sharesOutstanding":563404032
+       },
+       {
+          "name":"Equinix Inc.",
+          "ticker":"EQIX",
+          "sharesOutstanding":90041200
+       },
+       {
+          "name":"Becton Dickinson and Company",
+          "ticker":"BDX",
+          "sharesOutstanding":285043008
+       },
+       {
+          "name":"Southern Company",
+          "ticker":"SO",
+          "sharesOutstanding":1059800000
+       },
+       {
+          "name":"Colgate-Palmolive Company",
+          "ticker":"CL",
+          "sharesOutstanding":842849024
+       },
+       {
+          "name":"Norfolk Southern Corporation",
+          "ticker":"NSC",
+          "sharesOutstanding":243344992
+       },
+       {
+          "name":"Illinois Tool Works Inc.",
+          "ticker":"ITW",
+          "sharesOutstanding":313880992
+       },
+       {
+          "name":"Fidelity National Information Services Inc.",
+          "ticker":"FIS",
+          "sharesOutstanding":608937024
+       },
+       {
+          "name":"Eaton Corp. Plc",
+          "ticker":"ETN",
+          "sharesOutstanding":398600000
+       },
+       {
+          "name":"T-Mobile US Inc.",
+          "ticker":"TMUS",
+          "sharesOutstanding":1249049984
+       },
+       {
+          "name":"KLA Corporation",
+          "ticker":"KLAC",
+          "sharesOutstanding":151622000
+       },
+       {
+          "name":"Regeneron Pharmaceuticals Inc.",
+          "ticker":"REGN",
+          "sharesOutstanding":105720000
+       },
+       {
+          "name":"Air Products and Chemicals Inc.",
+          "ticker":"APD",
+          "sharesOutstanding":221684000
+       },
+       {
+          "name":"Aon Plc Class A",
+          "ticker":"AON",
+          "sharesOutstanding":220332000
+       },
+       {
+          "name":"Fiserv Inc.",
+          "ticker":"FISV",
+          "sharesOutstanding":660232000
+       },
+       {
+          "name":"FedEx Corporation",
+          "ticker":"FDX",
+          "sharesOutstanding":264968992
+       },
+       {
+          "name":"Dominion Energy Inc",
+          "ticker":"D",
+          "sharesOutstanding":809907968
+       },
+       {
+          "name":"Capital One Financial Corporation",
+          "ticker":"COF",
+          "sharesOutstanding":425622016
+       },
+       {
+          "name":"Waste Management Inc.",
+          "ticker":"WM",
+          "sharesOutstanding":418316000
+       },
+       {
+          "name":"Autodesk Inc.",
+          "ticker":"ADSK",
+          "sharesOutstanding":219972992
+       },
+       {
+          "name":"Moody&#39;s Corporation",
+          "ticker":"MCO",
+          "sharesOutstanding":185900000
+       },
+       {
+          "name":"Boston Scientific Corporation",
+          "ticker":"BSX",
+          "sharesOutstanding":1424989952
+       },
+       {
+          "name":"NXP Semiconductors NV",
+          "ticker":"NXPI",
+          "sharesOutstanding":265932992
+       },
+       {
+          "name":"HCA Healthcare Inc",
+          "ticker":"HCA",
+          "sharesOutstanding":311023008
+       },
+       {
+          "name":"Freeport-McMoRan Inc.",
+          "ticker":"FCX",
+          "sharesOutstanding":1468470016
+       },
+       {
+          "name":"Humana Inc.",
+          "ticker":"HUM",
+          "sharesOutstanding":128534000
+       },
+       {
+          "name":"Progressive Corporation",
+          "ticker":"PGR",
+          "sharesOutstanding":584400000
+       },
+       {
+          "name":"Illumina Inc.",
+          "ticker":"ILMN",
+          "sharesOutstanding":156300000
+       },
+       {
+          "name":"Northrop Grumman Corporation",
+          "ticker":"NOC",
+          "sharesOutstanding":157338000
+       },
+       {
+          "name":"Ecolab Inc.",
+          "ticker":"ECL",
+          "sharesOutstanding":286567008
+       },
+       {
+          "name":"Vertex Pharmaceuticals Incorporated",
+          "ticker":"VRTX",
+          "sharesOutstanding":254252000
+       },
+       {
+          "name":"Johnson Controls International plc",
+          "ticker":"JCI",
+          "sharesOutstanding":704332032
+       },
+       {
+          "name":"Exelon Corporation",
+          "ticker":"EXC",
+          "sharesOutstanding":978318016
+       },
+       {
+          "name":"Public Storage",
+          "ticker":"PSA",
+          "sharesOutstanding":175355008
+       },
+       {
+          "name":"Dollar General Corporation",
+          "ticker":"DG",
+          "sharesOutstanding":231706000
+       },
+       {
+          "name":"Synopsys Inc.",
+          "ticker":"SNPS",
+          "sharesOutstanding":153438000
+       },
+       {
+          "name":"Emerson Electric Co.",
+          "ticker":"EMR",
+          "sharesOutstanding":595699008
+       },
+       {
+          "name":"Xilinx Inc.",
+          "ticker":"XLNX",
+          "sharesOutstanding":247880000
+       },
+       {
+          "name":"IDEXX Laboratories Inc.",
+          "ticker":"IDXX",
+          "sharesOutstanding":84793600
+       },
+       {
+          "name":"EOG Resources Inc.",
+          "ticker":"EOG",
+          "sharesOutstanding":585089984
+       },
+       {
+          "name":"TE Connectivity Ltd.",
+          "ticker":"TEL",
+          "sharesOutstanding":326312992
+       },
+       {
+          "name":"Simon Property Group Inc.",
+          "ticker":"SPG",
+          "sharesOutstanding":328611008
+       },
+       {
+          "name":"Activision Blizzard Inc.",
+          "ticker":"ATVI",
+          "sharesOutstanding":778889024
+       },
+       {
+          "name":"IQVIA Holdings Inc",
+          "ticker":"IQV",
+          "sharesOutstanding":191040000
+       },
+       {
+          "name":"IHS Markit Ltd.",
+          "ticker":"INFO",
+          "sharesOutstanding":398840992
+       },
+       {
+          "name":"Amphenol Corporation Class A",
+          "ticker":"APH",
+          "sharesOutstanding":598028032
+       },
+       {
+          "name":"Cadence Design Systems Inc.",
+          "ticker":"CDNS",
+          "sharesOutstanding":277140992
+       },
+       {
+          "name":"DexCom Inc.",
+          "ticker":"DXCM",
+          "sharesOutstanding":96922000
+       },
+       {
+          "name":"Roper Technologies Inc.",
+          "ticker":"ROP",
+          "sharesOutstanding":105485000
+       },
+       {
+          "name":"Digital Realty Trust Inc.",
+          "ticker":"DLR",
+          "sharesOutstanding":283787008
+       },
+       {
+          "name":"MSCI Inc. Class A",
+          "ticker":"MSCI",
+          "sharesOutstanding":82446704
+       },
+       {
+          "name":"Microchip Technology Incorporated",
+          "ticker":"MCHP",
+          "sharesOutstanding":554870976
+       },
+       {
+          "name":"Newmont Corporation",
+          "ticker":"NEM",
+          "sharesOutstanding":797435008
+       },
+       {
+          "name":"Centene Corporation",
+          "ticker":"CNC",
+          "sharesOutstanding":583502976
+       },
+       {
+          "name":"Kimberly-Clark Corporation",
+          "ticker":"KMB",
+          "sharesOutstanding":336716992
+       },
+       {
+          "name":"General Dynamics Corporation",
+          "ticker":"GD",
+          "sharesOutstanding":279223008
+       },
+       {
+          "name":"American International Group Inc.",
+          "ticker":"AIG",
+          "sharesOutstanding":830297984
+       },
+       {
+          "name":"Align Technology Inc.",
+          "ticker":"ALGN",
+          "sharesOutstanding":78853104
+       },
+       {
+          "name":"Chipotle Mexican Grill Inc.",
+          "ticker":"CMG",
+          "sharesOutstanding":28135400
+       },
+       {
+          "name":"Agilent Technologies Inc.",
+          "ticker":"A",
+          "sharesOutstanding":302000992
+       },
+       {
+          "name":"Cognizant Technology Solutions Corporation Class A",
+          "ticker":"CTSH",
+          "sharesOutstanding":525252000
+       },
+       {
+          "name":"O&#39;Reilly Automotive Inc.",
+          "ticker":"ORLY",
+          "sharesOutstanding":67378400
+       },
+       {
+          "name":"Trane Technologies plc",
+          "ticker":"TT",
+          "sharesOutstanding":237540000
+       },
+       {
+          "name":"MetLife Inc.",
+          "ticker":"MET",
+          "sharesOutstanding":841160000
+       },
+       {
+          "name":"Carrier Global Corp.",
+          "ticker":"CARR",
+          "sharesOutstanding":866585024
+       },
+       {
+          "name":"Motorola Solutions Inc.",
+          "ticker":"MSI",
+          "sharesOutstanding":168896992
+       },
+       {
+          "name":"Fortinet Inc.",
+          "ticker":"FTNT",
+          "sharesOutstanding":163500000
+       },
+       {
+          "name":"Aptiv PLC",
+          "ticker":"APTV",
+          "sharesOutstanding":270513984
+       },
+       {
+          "name":"Marriott International Inc. Class A",
+          "ticker":"MAR",
+          "sharesOutstanding":325683008
+       },
+       {
+          "name":"Bank of New York Mellon Corporation",
+          "ticker":"BK",
+          "sharesOutstanding":825820992
+       },
+       {
+          "name":"Schlumberger NV",
+          "ticker":"SLB",
+          "sharesOutstanding":1402630016
+       },
+       {
+          "name":"American Electric Power Company Inc.",
+          "ticker":"AEP",
+          "sharesOutstanding":496390016
+       },
+       {
+          "name":"T. Rowe Price Group",
+          "ticker":"TROW",
+          "sharesOutstanding":229198000
+       },
+       {
+          "name":"HP Inc.",
+          "ticker":"HPQ",
+          "sharesOutstanding":1082720000
+       },
+       {
+          "name":"Baxter International Inc.",
+          "ticker":"BAX",
+          "sharesOutstanding":500692992
+       },
+       {
+          "name":"Paychex Inc.",
+          "ticker":"PAYX",
+          "sharesOutstanding":360756992
+       },
+       {
+          "name":"Hilton Worldwide Holdings Inc",
+          "ticker":"HLT",
+          "sharesOutstanding":278721984
+       },
+       {
+          "name":"AutoZone Inc.",
+          "ticker":"AZO",
+          "sharesOutstanding":20634400
+       },
+       {
+          "name":"eBay Inc.",
+          "ticker":"EBAY",
+          "sharesOutstanding":626003968
+       },
+       {
+          "name":"Pioneer Natural Resources Company",
+          "ticker":"PXD",
+          "sharesOutstanding":244134000
+       },
+       {
+          "name":"Dow Inc.",
+          "ticker":"DOW",
+          "sharesOutstanding":739614016
+       },
+       {
+          "name":"DuPont de Nemours Inc.",
+          "ticker":"DD",
+          "sharesOutstanding":518104000
+       },
+       {
+          "name":"Sempra Energy",
+          "ticker":"SRE",
+          "sharesOutstanding":319336992
+       },
+       {
+          "name":"Prudential Financial Inc.",
+          "ticker":"PRU",
+          "sharesOutstanding":378000000
+       },
+       {
+          "name":"Global Payments Inc.",
+          "ticker":"GPN",
+          "sharesOutstanding":290151008
+       },
+       {
+          "name":"SBA Communications Corp. Class A",
+          "ticker":"SBAC",
+          "sharesOutstanding":108781000
+       },
+       {
+          "name":"Constellation Brands Inc. Class A",
+          "ticker":"STZ",
+          "sharesOutstanding":164264000
+       },
+       {
+          "name":"L3Harris Technologies Inc",
+          "ticker":"LHX",
+          "sharesOutstanding":196224992
+       },
+       {
+          "name":"Parker-Hannifin Corporation",
+          "ticker":"PH",
+          "sharesOutstanding":128515000
+       },
+       {
+          "name":"General Mills Inc.",
+          "ticker":"GIS",
+          "sharesOutstanding":603206976
+       },
+       {
+          "name":"PPG Industries Inc.",
+          "ticker":"PPG",
+          "sharesOutstanding":237400992
+       },
+       {
+          "name":"Marathon Petroleum Corporation",
+          "ticker":"MPC",
+          "sharesOutstanding":615587968
+       },
+       {
+          "name":"Ross Stores Inc.",
+          "ticker":"ROST",
+          "sharesOutstanding":353329984
+       },
+       {
+          "name":"Sysco Corporation",
+          "ticker":"SYY",
+          "sharesOutstanding":512656000
+       },
+       {
+          "name":"SVB Financial Group",
+          "ticker":"SIVB",
+          "sharesOutstanding":58687400
+       },
+       {
+          "name":"Realty Income Corporation",
+          "ticker":"O",
+          "sharesOutstanding":565758016
+       },
+       {
+          "name":"Yum! Brands Inc.",
+          "ticker":"YUM",
+          "sharesOutstanding":293132992
+       },
+       {
+          "name":"Rockwell Automation Inc.",
+          "ticker":"ROK",
+          "sharesOutstanding":116013000
+       },
+       {
+          "name":"Travelers Companies Inc.",
+          "ticker":"TRV",
+          "sharesOutstanding":246008992
+       },
+       {
+          "name":"Mettler-Toledo International Inc.",
+          "ticker":"MTD",
+          "sharesOutstanding":22985700
+       },
+       {
+          "name":"Electronic Arts Inc.",
+          "ticker":"EA",
+          "sharesOutstanding":282808000
+       },
+       {
+          "name":"McKesson Corporation",
+          "ticker":"MCK",
+          "sharesOutstanding":152682000
+       },
+       {
+          "name":"Walgreens Boots Alliance Inc",
+          "ticker":"WBA",
+          "sharesOutstanding":863945024
+       },
+       {
+          "name":"Match Group Inc.",
+          "ticker":"MTCH",
+          "sharesOutstanding":283084992
+       },
+       {
+          "name":"International Flavors &amp; Fragrances Inc.",
+          "ticker":"IFF",
+          "sharesOutstanding":254547008
+       },
+       {
+          "name":"Archer-Daniels-Midland Company",
+          "ticker":"ADM",
+          "sharesOutstanding":559441024
+       },
+       {
+          "name":"ResMed Inc.",
+          "ticker":"RMD",
+          "sharesOutstanding":145723008
+       },
+       {
+          "name":"Keysight Technologies Inc",
+          "ticker":"KEYS",
+          "sharesOutstanding":183042000
+       },
+       {
+          "name":"Welltower Inc.",
+          "ticker":"WELL",
+          "sharesOutstanding":435275008
+       },
+       {
+          "name":"Cintas Corporation",
+          "ticker":"CTAS",
+          "sharesOutstanding":103664000
+       },
+       {
+          "name":"Xcel Energy Inc.",
+          "ticker":"XEL",
+          "sharesOutstanding":538675968
+       },
+       {
+          "name":"Otis Worldwide Corporation",
+          "ticker":"OTIS",
+          "sharesOutstanding":424768992
+       },
+       {
+          "name":"CBRE Group Inc. Class A",
+          "ticker":"CBRE",
+          "sharesOutstanding":334665984
+       },
+       {
+          "name":"EPAM Systems Inc.",
+          "ticker":"EPAM",
+          "sharesOutstanding":56719600
+       },
+       {
+          "name":"Biogen Inc.",
+          "ticker":"BIIB",
+          "sharesOutstanding":146892992
+       },
+       {
+          "name":"Monster Beverage Corporation",
+          "ticker":"MNST",
+          "sharesOutstanding":529139008
+       },
+       {
+          "name":"Aflac Incorporated",
+          "ticker":"AFL",
+          "sharesOutstanding":661528000
+       },
+       {
+          "name":"Verisk Analytics Inc",
+          "ticker":"VRSK",
+          "sharesOutstanding":161160992
+       },
+       {
+          "name":"Fastenal Company",
+          "ticker":"FAST",
+          "sharesOutstanding":575163008
+       },
+       {
+          "name":"Discover Financial Services",
+          "ticker":"DFS",
+          "sharesOutstanding":293076000
+       },
+       {
+          "name":"First Republic Bank",
+          "ticker":"FRC",
+          "sharesOutstanding":179286000
+       },
+       {
+          "name":"AvalonBay Communities Inc.",
+          "ticker":"AVB",
+          "sharesOutstanding":139740992
+       },
+       {
+          "name":"Equifax Inc.",
+          "ticker":"EFX",
+          "sharesOutstanding":122002000
+       },
+       {
+          "name":"Ameriprise Financial Inc.",
+          "ticker":"AMP",
+          "sharesOutstanding":111890000
+       },
+       {
+          "name":"State Street Corporation",
+          "ticker":"STT",
+          "sharesOutstanding":365628992
+       },
+       {
+          "name":"ANSYS Inc.",
+          "ticker":"ANSS",
+          "sharesOutstanding":87253000
+       },
+       {
+          "name":"Arthur J. Gallagher &amp; Co.",
+          "ticker":"AJG",
+          "sharesOutstanding":207278000
+       },
+       {
+          "name":"Corteva Inc",
+          "ticker":"CTVA",
+          "sharesOutstanding":728908992
+       },
+       {
+          "name":"D.R. Horton Inc.",
+          "ticker":"DHI",
+          "sharesOutstanding":356180992
+       },
+       {
+          "name":"Twitter Inc.",
+          "ticker":"TWTR",
+          "sharesOutstanding":799609984
+       },
+       {
+          "name":"Allstate Corporation",
+          "ticker":"ALL",
+          "sharesOutstanding":286676000
+       },
+       {
+          "name":"TransDigm Group Incorporated",
+          "ticker":"TDG",
+          "sharesOutstanding":55248900
+       },
+       {
+          "name":"Public Service Enterprise Group Inc",
+          "ticker":"PEG",
+          "sharesOutstanding":505664000
+       },
+       {
+          "name":"American Water Works Company Inc.",
+          "ticker":"AWK",
+          "sharesOutstanding":181538000
+       },
+       {
+          "name":"AMETEK Inc.",
+          "ticker":"AME",
+          "sharesOutstanding":231324992
+       },
+       {
+          "name":"Phillips 66",
+          "ticker":"PSX",
+          "sharesOutstanding":438201984
+       },
+       {
+          "name":"West Pharmaceutical Services Inc.",
+          "ticker":"WST",
+          "sharesOutstanding":74079696
+       },
+       {
+          "name":"Old Dominion Freight Line Inc.",
+          "ticker":"ODFL",
+          "sharesOutstanding":115011000
+       },
+       {
+          "name":"Nucor Corporation",
+          "ticker":"NUE",
+          "sharesOutstanding":285799008
+       },
+       {
+          "name":"Williams Companies Inc.",
+          "ticker":"WMB",
+          "sharesOutstanding":1215030016
+       },
+       {
+          "name":"Arista Networks Inc.",
+          "ticker":"ANET",
+          "sharesOutstanding":307300000
+       },
+       {
+          "name":"Kinder Morgan Inc Class P",
+          "ticker":"KMI",
+          "sharesOutstanding":2267429888
+       },
+       {
+          "name":"Dollar Tree Inc.",
+          "ticker":"DLTR",
+          "sharesOutstanding":224956000
+       },
+       {
+          "name":"Valero Energy Corporation",
+          "ticker":"VLO",
+          "sharesOutstanding":408836000
+       },
+       {
+          "name":"Cummins Inc.",
+          "ticker":"CMI",
+          "sharesOutstanding":143032000
+       },
+       {
+          "name":"Copart Inc.",
+          "ticker":"CPRT",
+          "sharesOutstanding":237188000
+       },
+       {
+          "name":"Zebra Technologies Corporation Class A",
+          "ticker":"ZBRA",
+          "sharesOutstanding":53441500
+       },
+       {
+          "name":"Alexandria Real Estate Equities Inc.",
+          "ticker":"ARE",
+          "sharesOutstanding":154964000
+       },
+       {
+          "name":"Equity Residential",
+          "ticker":"EQR",
+          "sharesOutstanding":375016000
+       },
+       {
+          "name":"Fifth Third Bancorp",
+          "ticker":"FITB",
+          "sharesOutstanding":682505984
+       },
+       {
+          "name":"Kroger Co.",
+          "ticker":"KR",
+          "sharesOutstanding":735256000
+       },
+       {
+          "name":"PACCAR Inc",
+          "ticker":"PCAR",
+          "sharesOutstanding":347176992
+       },
+       {
+          "name":"Lennar Corporation Class A",
+          "ticker":"LEN",
+          "sharesOutstanding":271852000
+       },
+       {
+          "name":"Eversource Energy",
+          "ticker":"ES",
+          "sharesOutstanding":343806016
+       },
+       {
+          "name":"Ball Corporation",
+          "ticker":"BLL",
+          "sharesOutstanding":323894016
+       },
+       {
+          "name":"Weyerhaeuser Company",
+          "ticker":"WY",
+          "sharesOutstanding":749044992
+       },
+       {
+          "name":"WEC Energy Group Inc",
+          "ticker":"WEC",
+          "sharesOutstanding":315435008
+       },
+       {
+          "name":"Consolidated Edison Inc.",
+          "ticker":"ED",
+          "sharesOutstanding":353748992
+       },
+       {
+          "name":"Stanley Black &amp; Decker Inc.",
+          "ticker":"SWK",
+          "sharesOutstanding":163032992
+       },
+       {
+          "name":"Willis Towers Watson Public Limited Company",
+          "ticker":"WLTW",
+          "sharesOutstanding":124606000
+       },
+       {
+          "name":"Extra Space Storage Inc.",
+          "ticker":"EXR",
+          "sharesOutstanding":133892000
+       },
+       {
+          "name":"Laboratory Corporation of America Holdings",
+          "ticker":"LH",
+          "sharesOutstanding":95700000
+       },
+       {
+          "name":"Devon Energy Corporation",
+          "ticker":"DVN",
+          "sharesOutstanding":677000000
+       },
+       {
+          "name":"Corning Inc",
+          "ticker":"GLW",
+          "sharesOutstanding":853408000
+       },
+       {
+          "name":"Republic Services Inc.",
+          "ticker":"RSG",
+          "sharesOutstanding":317095008
+       },
+       {
+          "name":"CDW Corp.",
+          "ticker":"CDW",
+          "sharesOutstanding":135723008
+       },
+       {
+          "name":"Hershey Company",
+          "ticker":"HSY",
+          "sharesOutstanding":145390000
+       },
+       {
+          "name":"Albemarle Corporation",
+          "ticker":"ALB",
+          "sharesOutstanding":116976000
+       },
+       {
+          "name":"Vulcan Materials Company",
+          "ticker":"VMC",
+          "sharesOutstanding":132705000
+       },
+       {
+          "name":"Occidental Petroleum Corporation",
+          "ticker":"OXY",
+          "sharesOutstanding":933980992
+       },
+       {
+          "name":"Cerner Corporation",
+          "ticker":"CERN",
+          "sharesOutstanding":292211008
+       },
+       {
+          "name":"Martin Marietta Materials Inc.",
+          "ticker":"MLM",
+          "sharesOutstanding":62381900
+       },
+       {
+          "name":"Teradyne Inc.",
+          "ticker":"TER",
+          "sharesOutstanding":163004000
+       },
+       {
+          "name":"Expedia Group Inc.",
+          "ticker":"EXPE",
+          "sharesOutstanding":146004000
+       },
+       {
+          "name":"Zimmer Biomet Holdings Inc.",
+          "ticker":"ZBH",
+          "sharesOutstanding":208908000
+       },
+       {
+          "name":"Tractor Supply Company",
+          "ticker":"TSCO",
+          "sharesOutstanding":113815000
+       },
+       {
+          "name":"Gartner Inc.",
+          "ticker":"IT",
+          "sharesOutstanding":82239000
+       },
+       {
+          "name":"ONEOK Inc.",
+          "ticker":"OKE",
+          "sharesOutstanding":445936992
+       },
+       {
+          "name":"Etsy Inc.",
+          "ticker":"ETSY",
+          "sharesOutstanding":126781000
+       },
+       {
+          "name":"Skyworks Solutions Inc.",
+          "ticker":"SWKS",
+          "sharesOutstanding":165387008
+       },
+       {
+          "name":"Fortive Corp.",
+          "ticker":"FTV",
+          "sharesOutstanding":358577984
+       },
+       {
+          "name":"Mid-America Apartment Communities Inc.",
+          "ticker":"MAA",
+          "sharesOutstanding":115138000
+       },
+       {
+          "name":"Southwest Airlines Co.",
+          "ticker":"LUV",
+          "sharesOutstanding":591920000
+       },
+       {
+          "name":"Tyson Foods Inc. Class A",
+          "ticker":"TSN",
+          "sharesOutstanding":293071008
+       },
+       {
+          "name":"Delta Air Lines Inc.",
+          "ticker":"DAL",
+          "sharesOutstanding":640014016
+       },
+       {
+          "name":"Synchrony Financial",
+          "ticker":"SYF",
+          "sharesOutstanding":547259008
+       },
+       {
+          "name":"Dover Corporation",
+          "ticker":"DOV",
+          "sharesOutstanding":143984992
+       },
+       {
+          "name":"Kraft Heinz Company",
+          "ticker":"KHC",
+          "sharesOutstanding":1224039936
+       },
+       {
+          "name":"Edison International",
+          "ticker":"EIX",
+          "sharesOutstanding":379908000
+       },
+       {
+          "name":"Northern Trust Corporation",
+          "ticker":"NTRS",
+          "sharesOutstanding":207660992
+       },
+       {
+          "name":"Church &amp; Dwight Co. Inc.",
+          "ticker":"CHD",
+          "sharesOutstanding":250000000
+       },
+       {
+          "name":"Enphase Energy Inc.",
+          "ticker":"ENPH",
+          "sharesOutstanding":134912000
+       },
+       {
+          "name":"VeriSign Inc.",
+          "ticker":"VRSN",
+          "sharesOutstanding":111078000
+       },
+       {
+          "name":"Duke Realty Corporation",
+          "ticker":"DRE",
+          "sharesOutstanding":380849984
+       },
+       {
+          "name":"PerkinElmer Inc.",
+          "ticker":"PKI",
+          "sharesOutstanding":126200000
+       },
+       {
+          "name":"LyondellBasell Industries NV",
+          "ticker":"LYB",
+          "sharesOutstanding":332784000
+       },
+       {
+          "name":"Ingersoll Rand Inc.",
+          "ticker":"IR",
+          "sharesOutstanding":407584992
+       },
+       {
+          "name":"Hartford Financial Services Group Inc.",
+          "ticker":"HIG",
+          "sharesOutstanding":340352992
+       },
+       {
+          "name":"United Rentals Inc.",
+          "ticker":"URI",
+          "sharesOutstanding":72394400
+       },
+       {
+          "name":"McCormick &amp; Company Incorporated",
+          "ticker":"MKC",
+          "sharesOutstanding":249352000
+       },
+       {
+          "name":"V.F. Corporation",
+          "ticker":"VFC",
+          "sharesOutstanding":392782016
+       },
+       {
+          "name":"STERIS Plc",
+          "ticker":"STE",
+          "sharesOutstanding":100023000
+       },
+       {
+          "name":"Nasdaq Inc.",
+          "ticker":"NDAQ",
+          "sharesOutstanding":167222000
+       },
+       {
+          "name":"Huntington Bancshares Incorporated",
+          "ticker":"HBAN",
+          "sharesOutstanding":1446460032
+       },
+       {
+          "name":"PPL Corporation",
+          "ticker":"PPL",
+          "sharesOutstanding":750716032
+       },
+       {
+          "name":"DTE Energy Company",
+          "ticker":"DTE",
+          "sharesOutstanding":193727008
+       },
+       {
+          "name":"Essex Property Trust Inc.",
+          "ticker":"ESS",
+          "sharesOutstanding":65087800
+       },
+       {
+          "name":"Best Buy Co. Inc.",
+          "ticker":"BBY",
+          "sharesOutstanding":240560992
+       },
+       {
+          "name":"Ameren Corporation",
+          "ticker":"AEE",
+          "sharesOutstanding":257606000
+       },
+       {
+          "name":"Seagate Technology Holdings PLC",
+          "ticker":"STX",
+          "sharesOutstanding":222636000
+       },
+       {
+          "name":"Ulta Beauty Inc",
+          "ticker":"ULTA",
+          "sharesOutstanding":54120200
+       },
+       {
+          "name":"KeyCorp",
+          "ticker":"KEY",
+          "sharesOutstanding":931057984
+       },
+       {
+          "name":"FirstEnergy Corp.",
+          "ticker":"FE",
+          "sharesOutstanding":570188032
+       },
+       {
+          "name":"Entergy Corporation",
+          "ticker":"ETR",
+          "sharesOutstanding":200980992
+       },
+       {
+          "name":"Waters Corporation",
+          "ticker":"WAT",
+          "sharesOutstanding":61036300
+       },
+       {
+          "name":"W.W. Grainger Inc.",
+          "ticker":"GWW",
+          "sharesOutstanding":51520000
+       },
+       {
+          "name":"Expeditors International of Washington Inc.",
+          "ticker":"EXPD",
+          "sharesOutstanding":169404000
+       },
+       {
+          "name":"Pool Corporation",
+          "ticker":"POOL",
+          "sharesOutstanding":40088000
+       },
+       {
+          "name":"Generac Holdings Inc.",
+          "ticker":"GNRC",
+          "sharesOutstanding":63090000
+       },
+       {
+          "name":"Baker Hughes Company Class A",
+          "ticker":"BKR",
+          "sharesOutstanding":869968000
+       },
+       {
+          "name":"Trimble Inc.",
+          "ticker":"TRMB",
+          "sharesOutstanding":251008000
+       },
+       {
+          "name":"Regions Financial Corporation",
+          "ticker":"RF",
+          "sharesOutstanding":953283008
+       },
+       {
+          "name":"Clorox Company",
+          "ticker":"CLX",
+          "sharesOutstanding":122863000
+       },
+       {
+          "name":"Tyler Technologies Inc.",
+          "ticker":"TYL",
+          "sharesOutstanding":40976300
+       },
+       {
+          "name":"Halliburton Company",
+          "ticker":"HAL",
+          "sharesOutstanding":895116032
+       },
+       {
+          "name":"Catalent Inc",
+          "ticker":"CTLT",
+          "sharesOutstanding":171188000
+       },
+       {
+          "name":"Monolithic Power Systems Inc.",
+          "ticker":"MPWR",
+          "sharesOutstanding":46093000
+       },
+       {
+          "name":"Hess Corporation",
+          "ticker":"HES",
+          "sharesOutstanding":309727008
+       },
+       {
+          "name":"Hewlett Packard Enterprise Co.",
+          "ticker":"HPE",
+          "sharesOutstanding":1293440000
+       },
+       {
+          "name":"Xylem Inc.",
+          "ticker":"XYL",
+          "sharesOutstanding":180324992
+       },
+       {
+          "name":"Broadridge Financial Solutions Inc.",
+          "ticker":"BR",
+          "sharesOutstanding":116578000
+       },
+       {
+          "name":"Citizens Financial Group Inc.",
+          "ticker":"CFG",
+          "sharesOutstanding":426200000
+       },
+       {
+          "name":"Ventas Inc.",
+          "ticker":"VTR",
+          "sharesOutstanding":399176000
+       },
+       {
+          "name":"Cooper Companies Inc.",
+          "ticker":"COO",
+          "sharesOutstanding":49408000
+       },
+       {
+          "name":"Take-Two Interactive Software Inc.",
+          "ticker":"TTWO",
+          "sharesOutstanding":115300000
+       },
+       {
+          "name":"NetApp Inc.",
+          "ticker":"NTAP",
+          "sharesOutstanding":222278000
+       },
+       {
+          "name":"CarMax Inc.",
+          "ticker":"KMX",
+          "sharesOutstanding":161872000
+       },
+       {
+          "name":"Teledyne Technologies Incorporated",
+          "ticker":"TDY",
+          "sharesOutstanding":46655200
+       },
+       {
+          "name":"Domino&#39;s Pizza Inc.",
+          "ticker":"DPZ",
+          "sharesOutstanding":36360300
+       },
+       {
+          "name":"M&amp;T Bank Corporation",
+          "ticker":"MTB",
+          "sharesOutstanding":128685000
+       },
+       {
+          "name":"Western Digital Corporation",
+          "ticker":"WDC",
+          "sharesOutstanding":311623008
+       },
+       {
+          "name":"Garmin Ltd.",
+          "ticker":"GRMN",
+          "sharesOutstanding":192322000
+       },
+       {
+          "name":"Quest Diagnostics Incorporated",
+          "ticker":"DGX",
+          "sharesOutstanding":122675000
+       },
+       {
+          "name":"Signature Bank",
+          "ticker":"SBNY",
+          "sharesOutstanding":60632400
+       },
+       {
+          "name":"Genuine Parts Company",
+          "ticker":"GPC",
+          "sharesOutstanding":142422000
+       },
+       {
+          "name":"AmerisourceBergen Corporation",
+          "ticker":"ABC",
+          "sharesOutstanding":208132992
+       },
+       {
+          "name":"Caesars Entertainment Inc",
+          "ticker":"CZR",
+          "sharesOutstanding":213774000
+       },
+       {
+          "name":"ViacomCBS Inc. Class B",
+          "ticker":"VIAC",
+          "sharesOutstanding":606705984
+       },
+       {
+          "name":"Healthpeak Properties Inc.",
+          "ticker":"PEAK",
+          "sharesOutstanding":539072000
+       },
+       {
+          "name":"Paycom Software Inc.",
+          "ticker":"PAYC",
+          "sharesOutstanding":60025800
+       },
+       {
+          "name":"NVR Inc.",
+          "ticker":"NVR",
+          "sharesOutstanding":3482750
+       },
+       {
+          "name":"Darden Restaurants Inc.",
+          "ticker":"DRI",
+          "sharesOutstanding":129785000
+       },
+       {
+          "name":"Akamai Technologies Inc.",
+          "ticker":"AKAM",
+          "sharesOutstanding":162480000
+       },
+       {
+          "name":"Raymond James Financial Inc.",
+          "ticker":"RJF",
+          "sharesOutstanding":206162000
+       },
+       {
+          "name":"FLEETCOR Technologies Inc.",
+          "ticker":"FLT",
+          "sharesOutstanding":81198600
+       },
+       {
+          "name":"Diamondback Energy Inc.",
+          "ticker":"FANG",
+          "sharesOutstanding":181175008
+       },
+       {
+          "name":"Bio-Techne Corporation",
+          "ticker":"TECH",
+          "sharesOutstanding":39295300
+       },
+       {
+          "name":"CMS Energy Corporation",
+          "ticker":"CMS",
+          "sharesOutstanding":289696992
+       },
+       {
+          "name":"Celanese Corporation",
+          "ticker":"CE",
+          "sharesOutstanding":108871000
+       },
+       {
+          "name":"Hologic Inc.",
+          "ticker":"HOLX",
+          "sharesOutstanding":251420992
+       },
+       {
+          "name":"Bath &amp; Body Works Inc.",
+          "ticker":"BBWI",
+          "sharesOutstanding":257723008
+       },
+       {
+          "name":"Amcor PLC",
+          "ticker":"AMCR",
+          "sharesOutstanding":1533170048
+       },
+       {
+          "name":"International Paper Company",
+          "ticker":"IP",
+          "sharesOutstanding":387263008
+       },
+       {
+          "name":"Principal Financial Group Inc.",
+          "ticker":"PFG",
+          "sharesOutstanding":265068992
+       },
+       {
+          "name":"MGM Resorts International",
+          "ticker":"MGM",
+          "sharesOutstanding":468960000
+       },
+       {
+          "name":"Charles River Laboratories International Inc.",
+          "ticker":"CRL",
+          "sharesOutstanding":50464400
+       },
+       {
+          "name":"Jacobs Engineering Group Inc.",
+          "ticker":"J",
+          "sharesOutstanding":129453000
+       },
+       {
+          "name":"FactSet Research Systems Inc.",
+          "ticker":"FDS",
+          "sharesOutstanding":37797200
+       },
+       {
+          "name":"Royal Caribbean Group",
+          "ticker":"RCL",
+          "sharesOutstanding":254790000
+       },
+       {
+          "name":"Qorvo Inc.",
+          "ticker":"QRVO",
+          "sharesOutstanding":110223000
+       },
+       {
+          "name":"IDEX Corporation",
+          "ticker":"IEX",
+          "sharesOutstanding":76031504
+       },
+       {
+          "name":"Avery Dennison Corporation",
+          "ticker":"AVY",
+          "sharesOutstanding":82795600
+       },
+       {
+          "name":"UDR Inc.",
+          "ticker":"UDR",
+          "sharesOutstanding":309185984
+       },
+       {
+          "name":"Westinghouse Air Brake Technologies Corporation",
+          "ticker":"WAB",
+          "sharesOutstanding":186820992
+       },
+       {
+          "name":"CenterPoint Energy Inc.",
+          "ticker":"CNP",
+          "sharesOutstanding":628865984
+       },
+       {
+          "name":"Masco Corporation",
+          "ticker":"MAS",
+          "sharesOutstanding":244087008
+       },
+       {
+          "name":"Viatris Inc.",
+          "ticker":"VTRS",
+          "sharesOutstanding":1209389952
+       },
+       {
+          "name":"Textron Inc.",
+          "ticker":"TXT",
+          "sharesOutstanding":220424992
+       },
+       {
+          "name":"Carnival Corporation",
+          "ticker":"CCL",
+          "sharesOutstanding":981048000
+       },
+       {
+          "name":"Boston Properties Inc.",
+          "ticker":"BXP",
+          "sharesOutstanding":156207008
+       },
+       {
+          "name":"J.B. Hunt Transport Services Inc.",
+          "ticker":"JBHT",
+          "sharesOutstanding":105014000
+       },
+       {
+          "name":"Cincinnati Financial Corporation",
+          "ticker":"CINF",
+          "sharesOutstanding":161140992
+       },
+       {
+          "name":"ABIOMED Inc.",
+          "ticker":"ABMD",
+          "sharesOutstanding":45497500
+       },
+       {
+          "name":"Kellogg Company",
+          "ticker":"K",
+          "sharesOutstanding":341123008
+       },
+       {
+          "name":"Conagra Brands Inc.",
+          "ticker":"CAG",
+          "sharesOutstanding":479689984
+       },
+       {
+          "name":"AES Corporation",
+          "ticker":"AES",
+          "sharesOutstanding":666713984
+       },
+       {
+          "name":"Eastman Chemical Company",
+          "ticker":"EMN",
+          "sharesOutstanding":134440000
+       },
+       {
+          "name":"Brown &amp; Brown Inc.",
+          "ticker":"BRO",
+          "sharesOutstanding":282427008
+       },
+       {
+          "name":"Live Nation Entertainment Inc.",
+          "ticker":"LYV",
+          "sharesOutstanding":224660000
+       },
+       {
+          "name":"LKQ Corporation",
+          "ticker":"LKQ",
+          "sharesOutstanding":291491008
+       },
+       {
+          "name":"Coterra Energy Inc.",
+          "ticker":"CTRA",
+          "sharesOutstanding":813577984
+       },
+       {
+          "name":"Omnicom Group Inc",
+          "ticker":"OMC",
+          "sharesOutstanding":212559008
+       },
+       {
+          "name":"Bio-Rad Laboratories Inc. Class A",
+          "ticker":"BIO",
+          "sharesOutstanding":24836100
+       },
+       {
+          "name":"Quanta Services Inc.",
+          "ticker":"PWR",
+          "sharesOutstanding":142499008
+       },
+       {
+          "name":"Teleflex Incorporated",
+          "ticker":"TFX",
+          "sharesOutstanding":46845000
+       },
+       {
+          "name":"Evergy Inc.",
+          "ticker":"EVRG",
+          "sharesOutstanding":229303008
+       },
+       {
+          "name":"Advance Auto Parts Inc.",
+          "ticker":"AAP",
+          "sharesOutstanding":62355200
+       },
+       {
+          "name":"NortonLifeLock Inc.",
+          "ticker":"NLOK",
+          "sharesOutstanding":581755008
+       },
+       {
+          "name":"Alliant Energy Corp",
+          "ticker":"LNT",
+          "sharesOutstanding":250360992
+       },
+       {
+          "name":"CF Industries Holdings Inc.",
+          "ticker":"CF",
+          "sharesOutstanding":214475008
+       },
+       {
+          "name":"Cardinal Health Inc.",
+          "ticker":"CAH",
+          "sharesOutstanding":281788000
+       },
+       {
+          "name":"MarketAxess Holdings Inc.",
+          "ticker":"MKTX",
+          "sharesOutstanding":38026500
+       },
+       {
+          "name":"SolarEdge Technologies Inc.",
+          "ticker":"SEDG",
+          "sharesOutstanding":52519500
+       },
+       {
+          "name":"Mosaic Company",
+          "ticker":"MOS",
+          "sharesOutstanding":370409984
+       },
+       {
+          "name":"Kimco Realty Corporation",
+          "ticker":"KIM",
+          "sharesOutstanding":616428032
+       },
+       {
+          "name":"Iron Mountain Inc.",
+          "ticker":"IRM",
+          "sharesOutstanding":289550016
+       },
+       {
+          "name":"J.M. Smucker Company",
+          "ticker":"SJM",
+          "sharesOutstanding":108363000
+       },
+       {
+          "name":"Interpublic Group of Companies Inc.",
+          "ticker":"IPG",
+          "sharesOutstanding":393755008
+       },
+       {
+          "name":"United Airlines Holdings Inc.",
+          "ticker":"UAL",
+          "sharesOutstanding":323807008
+       },
+       {
+          "name":"F5 Inc.",
+          "ticker":"FFIV",
+          "sharesOutstanding":61229400
+       },
+       {
+          "name":"Whirlpool Corporation",
+          "ticker":"WHR",
+          "sharesOutstanding":60743100
+       },
+       {
+          "name":"PulteGroup Inc.",
+          "ticker":"PHM",
+          "sharesOutstanding":253186000
+       },
+       {
+          "name":"Fortune Brands Home &amp; Security Inc.",
+          "ticker":"FBHS",
+          "sharesOutstanding":135734000
+       },
+       {
+          "name":"C.H. Robinson Worldwide Inc.",
+          "ticker":"CHRW",
+          "sharesOutstanding":129987000
+       },
+       {
+          "name":"FMC Corporation",
+          "ticker":"FMC",
+          "sharesOutstanding":126751000
+       },
+       {
+          "name":"Ceridian HCM Holding Inc.",
+          "ticker":"CDAY",
+          "sharesOutstanding":151331008
+       },
+       {
+          "name":"Incyte Corporation",
+          "ticker":"INCY",
+          "sharesOutstanding":220891008
+       },
+       {
+          "name":"Hormel Foods Corporation",
+          "ticker":"HRL",
+          "sharesOutstanding":542569984
+       },
+       {
+          "name":"Atmos Energy Corporation",
+          "ticker":"ATO",
+          "sharesOutstanding":132705000
+       },
+       {
+          "name":"Cboe Global Markets Inc",
+          "ticker":"CBOE",
+          "sharesOutstanding":106643000
+       },
+       {
+          "name":"Marathon Oil Corporation",
+          "ticker":"MRO",
+          "sharesOutstanding":778537024
+       },
+       {
+          "name":"Hasbro Inc.",
+          "ticker":"HAS",
+          "sharesOutstanding":137947008
+       },
+       {
+          "name":"Brown-Forman Corporation Class B",
+          "ticker":"BF.B",
+          "sharesOutstanding":0
+       },
+       {
+          "name":"PTC Inc.",
+          "ticker":"PTC",
+          "sharesOutstanding":117872000
+       },
+       {
+          "name":"Las Vegas Sands Corp.",
+          "ticker":"LVS",
+          "sharesOutstanding":763990016
+       },
+       {
+          "name":"Packaging Corporation of America",
+          "ticker":"PKG",
+          "sharesOutstanding":94990800
+       },
+       {
+          "name":"Jack Henry &amp; Associates Inc.",
+          "ticker":"JKHY",
+          "sharesOutstanding":74041000
+       },
+       {
+          "name":"Leidos Holdings Inc.",
+          "ticker":"LDOS",
+          "sharesOutstanding":140339008
+       },
+       {
+          "name":"Host Hotels &amp; Resorts Inc.",
+          "ticker":"HST",
+          "sharesOutstanding":714035008
+       },
+       {
+          "name":"Howmet Aerospace Inc.",
+          "ticker":"HWM",
+          "sharesOutstanding":427217984
+       },
+       {
+          "name":"DENTSPLY SIRONA Inc.",
+          "ticker":"XRAY",
+          "sharesOutstanding":218607008
+       },
+       {
+          "name":"Lincoln National Corporation",
+          "ticker":"LNC",
+          "sharesOutstanding":180708992
+       },
+       {
+          "name":"Robert Half International Inc.",
+          "ticker":"RHI",
+          "sharesOutstanding":111330000
+       },
+       {
+          "name":"Citrix Systems Inc.",
+          "ticker":"CTXS",
+          "sharesOutstanding":124723000
+       },
+       {
+          "name":"Fox Corporation Class A",
+          "ticker":"FOXA",
+          "sharesOutstanding":320347008
+       },
+       {
+          "name":"American Airlines Group Inc.",
+          "ticker":"AAL",
+          "sharesOutstanding":647513984
+       },
+       {
+          "name":"Comerica Incorporated",
+          "ticker":"CMA",
+          "sharesOutstanding":131149000
+       },
+       {
+          "name":"Loews Corporation",
+          "ticker":"L",
+          "sharesOutstanding":253684000
+       },
+       {
+          "name":"Pentair plc",
+          "ticker":"PNR",
+          "sharesOutstanding":165478000
+       },
+       {
+          "name":"WestRock Company",
+          "ticker":"WRK",
+          "sharesOutstanding":263088000
+       },
+       {
+          "name":"Lumen Technologies Inc.",
+          "ticker":"LUMN",
+          "sharesOutstanding":1023889984
+       },
+       {
+          "name":"Regency Centers Corporation",
+          "ticker":"REG",
+          "sharesOutstanding":171212992
+       },
+       {
+          "name":"Allegion PLC",
+          "ticker":"ALLE",
+          "sharesOutstanding":89695904
+       },
+       {
+          "name":"Snap-on Incorporated",
+          "ticker":"SNA",
+          "sharesOutstanding":53535000
+       },
+       {
+          "name":"Juniper Networks Inc.",
+          "ticker":"JNPR",
+          "sharesOutstanding":325180992
+       },
+       {
+          "name":"Tapestry Inc.",
+          "ticker":"TPR",
+          "sharesOutstanding":275143008
+       },
+       {
+          "name":"W. R. Berkley Corporation",
+          "ticker":"WRB",
+          "sharesOutstanding":176640000
+       },
+       {
+          "name":"A. O. Smith Corporation",
+          "ticker":"AOS",
+          "sharesOutstanding":133187000
+       },
+       {
+          "name":"BorgWarner Inc.",
+          "ticker":"BWA",
+          "sharesOutstanding":239771008
+       },
+       {
+          "name":"Everest Re Group Ltd.",
+          "ticker":"RE",
+          "sharesOutstanding":39369000
+       },
+       {
+          "name":"Henry Schein Inc.",
+          "ticker":"HSIC",
+          "sharesOutstanding":138674000
+       },
+       {
+          "name":"NiSource Inc",
+          "ticker":"NI",
+          "sharesOutstanding":392704992
+       },
+       {
+          "name":"APA Corp.",
+          "ticker":"APA",
+          "sharesOutstanding":363273984
+       },
+       {
+          "name":"NRG Energy Inc.",
+          "ticker":"NRG",
+          "sharesOutstanding":244839008
+       },
+       {
+          "name":"Zions Bancorporation N.A.",
+          "ticker":"ZION",
+          "sharesOutstanding":156463008
+       },
+       {
+          "name":"Mohawk Industries Inc.",
+          "ticker":"MHK",
+          "sharesOutstanding":67732400
+       },
+       {
+          "name":"Universal Health Services Inc. Class B",
+          "ticker":"UHS",
+          "sharesOutstanding":73120200
+       },
+       {
+          "name":"Sealed Air Corporation",
+          "ticker":"SEE",
+          "sharesOutstanding":148156992
+       },
+       {
+          "name":"Federal Realty Investment Trust",
+          "ticker":"FRT",
+          "sharesOutstanding":77789504
+       },
+       {
+          "name":"Wynn Resorts Limited",
+          "ticker":"WYNN",
+          "sharesOutstanding":115658000
+       },
+       {
+          "name":"Lamb Weston Holdings Inc.",
+          "ticker":"LW",
+          "sharesOutstanding":146068000
+       },
+       {
+          "name":"Franklin Resources Inc.",
+          "ticker":"BEN",
+          "sharesOutstanding":501795008
+       },
+       {
+          "name":"Assurant Inc.",
+          "ticker":"AIZ",
+          "sharesOutstanding":56976700
+       },
+       {
+          "name":"Molson Coors Beverage Company Class B",
+          "ticker":"TAP",
+          "sharesOutstanding":200584992
+       },
+       {
+          "name":"News Corporation Class A",
+          "ticker":"NWSA",
+          "sharesOutstanding":392828000
+       },
+       {
+          "name":"Campbell Soup Company",
+          "ticker":"CPB",
+          "sharesOutstanding":301737984
+       },
+       {
+          "name":"Globe Life Inc.",
+          "ticker":"GL",
+          "sharesOutstanding":100979000
+       },
+       {
+          "name":"Penn National Gaming Inc.",
+          "ticker":"PENN",
+          "sharesOutstanding":169514000
+       },
+       {
+          "name":"Newell Brands Inc",
+          "ticker":"NWL",
+          "sharesOutstanding":425400000
+       },
+       {
+          "name":"DXC Technology Co.",
+          "ticker":"DXC",
+          "sharesOutstanding":252239008
+       },
+       {
+          "name":"DISH Network Corporation Class A",
+          "ticker":"DISH",
+          "sharesOutstanding":290366016
+       },
+       {
+          "name":"Norwegian Cruise Line Holdings Ltd.",
+          "ticker":"NCLH",
+          "sharesOutstanding":416892000
+       },
+       {
+          "name":"Invesco Ltd.",
+          "ticker":"IVZ",
+          "sharesOutstanding":461207008
+       },
+       {
+          "name":"Organon &amp; Co.",
+          "ticker":"OGN",
+          "sharesOutstanding":253550000
+       },
+       {
+          "name":"Pinnacle West Capital Corporation",
+          "ticker":"PNW",
+          "sharesOutstanding":112819000
+       },
+       {
+          "name":"People&#39;s United Financial Inc.",
+          "ticker":"PBCT",
+          "sharesOutstanding":428024992
+       },
+       {
+          "name":"DaVita Inc.",
+          "ticker":"DVA",
+          "sharesOutstanding":101900000
+       },
+       {
+          "name":"PVH Corp.",
+          "ticker":"PVH",
+          "sharesOutstanding":69977600
+       },
+       {
+          "name":"Nielsen Holdings Plc",
+          "ticker":"NLSN",
+          "sharesOutstanding":358927008
+       },
+       {
+          "name":"Rollins Inc.",
+          "ticker":"ROL",
+          "sharesOutstanding":492048992
+       },
+       {
+          "name":"Huntington Ingalls Industries Inc.",
+          "ticker":"HII",
+          "sharesOutstanding":40061000
+       },
+       {
+          "name":"Discovery Inc. Class C",
+          "ticker":"DISCK",
+          "sharesOutstanding":330145984
+       },
+       {
+          "name":"Vornado Realty Trust",
+          "ticker":"VNO",
+          "sharesOutstanding":191680992
+       },
+       {
+          "name":"Alaska Air Group Inc.",
+          "ticker":"ALK",
+          "sharesOutstanding":125311000
+       },
+       {
+          "name":"IPG Photonics Corporation",
+          "ticker":"IPGP",
+          "sharesOutstanding":53308900
+       },
+       {
+          "name":"Ralph Lauren Corporation Class A",
+          "ticker":"RL",
+          "sharesOutstanding":48735800
+       },
+       {
+          "name":"Fox Corporation Class B",
+          "ticker":"FOX",
+          "sharesOutstanding":249240000
+       },
+       {
+          "name":"Discovery Inc. Class A",
+          "ticker":"DISCA",
+          "sharesOutstanding":169284992
+       },
+       {
+          "name":"Under Armour Inc. Class A",
+          "ticker":"UAA",
+          "sharesOutstanding":188646000
+       },
+       {
+          "name":"Gap Inc.",
+          "ticker":"GPS",
+          "sharesOutstanding":373403008
+       },
+       {
+          "name":"Under Armour Inc. Class C",
+          "ticker":"UA",
+          "sharesOutstanding":253019008
+       },
+       {
+          "name":"News Corporation Class B",
+          "ticker":"NWS",
+          "sharesOutstanding":199519008
+       }
+    ]
+ }
